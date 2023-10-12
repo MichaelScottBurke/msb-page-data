@@ -13,8 +13,8 @@
       },
       {
         "type": "js",
-        "content": "const btnBannerAction = document.getElementById(\"btn-banner-action\");\nconsole.log(btnBannerAction);\nbtnBannerAction.addEventListener('click', () => {\n  console.log('banner action clicked');\n});"
-      }
+        "content": "const btnBannerAction = document.getElementById('btn-banner-action');\nconsole.log(btnBannerAction);\nfunction bannerAction() {\n  console.log('banner action clicked');\n}"
+      }      
     ],
     "shortId": "msb1",
     "__v": 0
