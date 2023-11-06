@@ -20,13 +20,6 @@
       "html": "<div>Content for Page 3</div>",
       "css": "body { background-color: green; }",
       "js": "console.log('This is JS for Page 3');"
-    },
-        {
-      "id": "page4",
-      "containerId": "main-content",
-      "html": "<h1>Page 1</h1>",
-      "css": "main {background: #E0F4F8;}",
-      "js": "console.log('This is JS for Page 3');"
     }
   ]
 }
