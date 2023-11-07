@@ -27,6 +27,6 @@
       "html": "<h1>Talent profile</h1>",
       "css": "body { background-color: olive; }",
       "js": "console.log('This is JS for Talent profile');"
-    },    
+    }  
   ]
 }
