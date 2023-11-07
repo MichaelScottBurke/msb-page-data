@@ -1,0 +1,39 @@
+{
+  "pages": [
+    {
+      "id": "time-hub",
+      "containerId": "main-content",
+      "html": "<h1>Time hub</h1>",
+      "css": "body { background-color: blue; }",
+      "js": "console.log('This is JS for time hub');"
+    },
+    {
+      "id": "schedule-me",
+      "containerId": "main-content",
+      "html": "<h1>Schedule</h1>",
+      "css": "body { background-color: red; }",
+      "js": "console.log('This is JS for schedule');"
+    },
+    {
+      "id": "time-clock-me",
+      "containerId": "main-content",
+      "html": "<h1>Time clock</h1>",
+      "css": "body { background-color: purple; }",
+      "js": "console.log('This is JS for time clock');"
+    },
+    {
+      "id": "time-sheets-me",
+      "containerId": "main-content",
+      "html": "<h1>Time sheets</h1>",
+      "css": "body { background-color: orange; }",
+      "js": "console.log('This is JS for time sheets');"
+    },
+    {
+      "id": "time-off-me",
+      "containerId": "main-content",
+      "html": "<h1>Time off</h1>",
+      "css": "body { background-color: olive; }",
+      "js": "console.log('This is JS for time off');"
+    }   
+  ]
+}
