@@ -1,0 +1,39 @@
+{
+  "pages": [
+    {
+      "id": "career-hub-me",
+      "containerId": "main-content",
+      "html": "<h1>Career & development hub</h1>",
+      "css": "body { background-color: blue; }",
+      "js": "console.log('This is JS for career hub');"
+    },
+    {
+      "id": "job-summary-me",
+      "containerId": "main-content",
+      "html": "<h1>Job summary</h1>",
+      "css": "body { background-color: red; }",
+      "js": "console.log('This is JS for job summary');"
+    },
+    {
+      "id": "performance-reviews-me",
+      "containerId": "main-content",
+      "html": "<h1>Performance reviews</h1>",
+      "css": "body { background-color: orange; }",
+      "js": "console.log('performance reviews');"
+    },
+    {
+      "id": "goals-me",
+      "containerId": "main-content",
+      "html": "<h1>Goals</h1>",
+      "css": "body { background-color: olive; }",
+      "js": "console.log('This is JS for goals');"
+    },
+    {
+      "id": "qualifications-me",
+      "containerId": "main-content",
+      "html": "<h1>Qualifications</h1>",
+      "css": "body { background-color: olive; }",
+      "js": "console.log('This is JS for qualifications');"
+    }
+  ]
+}
