@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "id": "page1",
+      "containerId": "main-content",
+      "html": "<h1>Page 1</h1>",
+      "css": "body { background-color: blue; }",
+      "js": "console.log('This is JS for Page 1');"
+    },
+    {
+      "id": "page2",
+      "containerId": "main-content",
+      "html": "<h1>Page 2</h1>",
+      "css": "body { background-color: red; }",
+      "js": "console.log('This is JS for Page 2');"
+    },
+    {
+      "id": "page3",
+      "containerId": "main-content",
+      "html": "<h1>Page 3</h1>",
+      "css": "body { background-color: green; }",
+      "js": "console.log('This is JS for Page 3');"
+    },
+    {
+      "id": "page4",
+      "containerId": "main-content",
+      "html": "<h1>Page 4</h1>",
+      "css": "main {background: #E0F4F8;}",
+      "js": "console.log('This is JS for Page 4');"
+    }
+  ]
+}
