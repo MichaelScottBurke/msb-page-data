@@ -1,0 +1,46 @@
+{
+  "pages": [
+    {
+      "id": "pay-hub",
+      "containerId": "main-content",
+      "html": "<h1>Pay hub</h1>",
+      "css": "body { background-color: blue; }",
+      "js": "console.log('This is JS for pay hub');"
+    },
+    {
+      "id": "pay-history-me",
+      "containerId": "main-content",
+      "html": "<h1>Pay history</h1>",
+      "css": "body { background-color: red; }",
+      "js": "console.log('This is JS for pay history');"
+    },
+    {
+      "id": "pay-statement-current-me",
+      "containerId": "main-content",
+      "html": "<h1>Pay statement</h1>",
+      "css": "body { background-color: purple; }",
+      "js": "console.log('This is JS for pay statement');"
+    },
+    {
+      "id": "direct-deposit-me",
+      "containerId": "main-content",
+      "html": "<h1>Direct deposit</h1>",
+      "css": "body { background-color: orange; }",
+      "js": "console.log('This is JS for direct deposit');"
+    },
+    {
+      "id": "taxes-me",
+      "containerId": "main-content",
+      "html": "<h1>Taxes</h1>",
+      "css": "body { background-color: olive; }",
+      "js": "console.log('This is JS for taxes');"
+    },
+    {
+      "id": "compensation-me",
+      "containerId": "main-content",
+      "html": "<h1>Compensation</h1>",
+      "css": "body { background-color: aqua; }",
+      "js": "console.log('This is JS for compensation');"
+    }      
+  ]
+}
