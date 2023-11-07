@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "id": "profile-hub",
+      "containerId": "main-content",
+      "html": "<h1>Profile hub</h1>",
+      "css": "body { background-color: blue; }",
+      "js": "console.log('This is JS for profile hub');"
+    },
+    {
+      "id": "personal-profile",
+      "containerId": "main-content",
+      "html": "<h1>Personal profile</h1>",
+      "css": "body { background-color: red; }",
+      "js": "console.log('This is JS for personal profile');"
+    },
+    {
+      "id": "job-profile",
+      "containerId": "main-content",
+      "html": "<h1>Job profile</h1>",
+      "css": "body { background-color: orange; }",
+      "js": "console.log('This is JS for Job profile');"
+    },
+    {
+      "id": "talent-profile",
+      "containerId": "main-content",
+      "html": "<h1>Talent profile</h1>",
+      "css": "body { background-color: olive; }",
+      "js": "console.log('This is JS for Talent profile');"
+    },    
+  ]
+}
