@@ -5,7 +5,7 @@
       "containerId": "main-content",
       "label": "Profile",
       "description": "",
-      "html": "<h1>Profile</h1>",
+      "html": "<!DOCTYPE html><html><head><meta charset='UTF-8'><title>test page</title><link rel='stylesheet' href='https://ignite.cdn.ultipro.com/dls-cdn/ignite/v6.5.0/tokens/fonts/noto/ignite-fonts-noto-hinted-cdn.css' /><link rel='stylesheet' href='https://ignite.cdn.ultipro.com/dls-cdn/ignite/v6.5.0/tokens/fonts/volte/ignite-fonts-volte-cdn.css' /><link rel='stylesheet' href='https://ignite.cdn.ultipro.com/dls-cdn/ignite/v6.5.0/tokens/css/ignite-tokens.css' /><link rel='stylesheet' href='https://ignite.cdn.ultipro.com/dls-cdn/ignite/v6.5.0/tokens/css/ignite-tokens.html-base-styles.css' /><script type='module' src='https://ignite.cdn.ultipro.com/dls-cdn/ignite/v6.5.0/web-components/ignite/ignite.esm.js' ></script><script nomodule='' src='https://ignite.cdn.ultipro.com/dls-cdn/ignite/v6.5.0/web-components/ignite/ignite.js' ></script></head><body><h1>Profile hub</h1><p>This is the profile hub page</p></body></html>",
       "css": "main {background: #35E591;}",
       "js": "console.log('This is JS for page Profile');",
       "moduleId": "profile"
