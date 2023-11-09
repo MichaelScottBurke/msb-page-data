@@ -2,6 +2,7 @@
   "pages": [
     {
       "id": "profile",
+      "containerId": "main-content",
       "label": "Profile",
       "description": "",
       "html": "<h1>Profile</h1>",
@@ -11,6 +12,7 @@
     },
     {
       "id": "profile_hub",
+      "containerId": "main-content",
       "label": "Profile hub",
       "description": "",
       "html": "<h1>Profile hub</h1>",
@@ -20,6 +22,7 @@
     },
     {
       "id": "personal_profile",
+      "containerId": "main-content",
       "label": "Personal profile",
       "description": "",
       "html": "<h1>Personal profile</h1>",
@@ -29,6 +32,7 @@
     },
     {
       "id": "name_address_and_telephone",
+      "containerId": "main-content",
       "label": "Name address and telephone",
       "description": "",
       "html": "<h1>Name address and telephone</h1>",
@@ -38,6 +42,7 @@
     },
     {
       "id": "family_and_emergency_contacts",
+      "containerId": "main-content",
       "label": "Family and emergency contacts",
       "description": "",
       "html": "<h1>Family and emergency contacts</h1>",
@@ -47,6 +52,7 @@
     },
     {
       "id": "private_information",
+      "containerId": "main-content",
       "label": "Private information",
       "description": "",
       "html": "<h1>Private information</h1>",
@@ -56,6 +62,7 @@
     },
     {
       "id": "identification_documents",
+      "containerId": "main-content",
       "label": "Identification documents",
       "description": "",
       "html": "<h1>Identification documents</h1>",
@@ -65,6 +72,7 @@
     },
     {
       "id": "other_personal_info",
+      "containerId": "main-content",
       "label": "Other personal info",
       "description": "",
       "html": "<h1>Other personal info</h1>",
@@ -74,6 +82,7 @@
     },
     {
       "id": "job_profile",
+      "containerId": "main-content",
       "label": "Job profile",
       "description": "",
       "html": "<h1>Job profile</h1>",
@@ -83,6 +92,7 @@
     },
     {
       "id": "status_and_key_dates",
+      "containerId": "main-content",
       "label": "Status and key dates",
       "description": "",
       "html": "<h1>Status and key dates</h1>",
@@ -92,6 +102,7 @@
     },
     {
       "id": "status_history",
+      "containerId": "main-content",
       "label": "Status history",
       "description": "",
       "html": "<h1>Status history</h1>",
@@ -101,6 +112,7 @@
     },
     {
       "id": "property",
+      "containerId": "main-content",
       "label": "Property",
       "description": "",
       "html": "<h1>Property</h1>",
@@ -110,6 +122,7 @@
     },
     {
       "id": "talent_profile",
+      "containerId": "main-content",
       "label": "Talent profile",
       "description": "",
       "html": "<h1>Talent profile</h1>",
@@ -119,6 +132,7 @@
     },
     {
       "id": "time_and_attendance_profile",
+      "containerId": "main-content",
       "label": "Time and attendance profile",
       "description": "",
       "html": "<h1>Time and attendance profile</h1>",
