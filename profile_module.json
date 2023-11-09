@@ -34,10 +34,10 @@
       "id": "personal_profile",
       "moduleId": "profile",
       "label": "Personal profile",
-      "description": "",
+      "description": "this is a description for the personal profile page",
       "containerId": "main-content",
       "url": "https://ignite.ukg.int/forge?id=RJcS7c4kyt",
-      "content": ""
+      "content": null
     },
     {
       "id": "name_address_and_telephone",
