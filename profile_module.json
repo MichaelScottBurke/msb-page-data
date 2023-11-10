@@ -10,6 +10,17 @@
       "html": "<h1>Profile</h1>",
       "css": "main {background: #F182C0;}",
       "js": "console.log('This is JS for page Profile');"
+    },
+    {
+      "id": "profile_hub",
+      "moduleId": "profile",
+      "label": "Profile",
+      "description": "",
+      "containerId": "main-content",
+      "url": "",
+      "html": "<h1>Profile hub</h1>",
+      "css": "main {background: #F182C0;}",
+      "js": "console.log('This is JS for page Profile hub');"
     }
   ]
 }
