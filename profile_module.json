@@ -7,9 +7,13 @@
       "description": "",
       "containerId": "main-content",
       "url": "",
-      "html": "<h1>Profile</h1>",
-      "css": "main {background: #F182C0;}",
-      "js": "console.log('This is JS for page Profile');"
+      "content": [
+        {
+          "html": "<p>HTML Content for Page 1</p>",
+          "css": "body { background-color: #fff; }",
+          "js": "console.log('JavaScript for Page 1');"
+        }
+      ]
     },
     {
       "id": "profile_hub",
@@ -18,9 +22,13 @@
       "description": "",
       "containerId": "main-content",
       "url": "",
-      "html": "<h1>Profile hub</h1>",
-      "css": "main {background: #F182C0;}",
-      "js": "console.log('This is JS for page Profile hub');"
+      "content": [
+        {
+          "html": "<p>HTML Content for Page 1</p>",
+          "css": "body { background-color: #fff; }",
+          "js": "console.log('JavaScript for Page 1');"
+        }
+      ]
     }
   ]
 }
