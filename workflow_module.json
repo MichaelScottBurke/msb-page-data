@@ -1,0 +1,21 @@
+{
+    "tab": "administration_and_configuration",
+    "pages": [
+        {
+            "id": "workflow",
+            "tab": "administration_and_configuration",
+            "moduleId": "workflow",
+            "label": "Workflow",
+            "description": "This is a description for page Workflow",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Workflow</h1>",
+                    "css": "main {background: #82D430;}",
+                    "js": "console.log('This is JS for page Workflow');"
+                }
+            ]
+        }
+    ]
+}

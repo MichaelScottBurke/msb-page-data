@@ -1,39 +1,21 @@
 {
-  "pages": [
-    {
-      "id": "benefits-hub-me",
-      "containerId": "main-content",
-      "html": "<h1>Benefits hub</h1>",
-      "css": "body { background-color: blue; }",
-      "js": "console.log('This is JS for benefits hub');"
-    },
-    {
-      "id": "benefits-summary-me",
-      "containerId": "main-content",
-      "html": "<h1>Benefits summary</h1>",
-      "css": "body { background-color: red; }",
-      "js": "console.log('This is JS for benefits summary');"
-    },
-    {
-      "id": "beneficiaries-dependents-me",
-      "containerId": "main-content",
-      "html": "<h1>Beneficiaries and dependents</h1>",
-      "css": "body { background-color: orange; }",
-      "js": "console.log('Beneficiaries and dependents');"
-    },
-    {
-      "id": "open-enrollment-me",
-      "containerId": "main-content",
-      "html": "<h1>Open enrollment</h1>",
-      "css": "body { background-color: olive; }",
-      "js": "console.log('This is JS for open enrollment');"
-    },
-    {
-      "id": "life-events-me",
-      "containerId": "main-content",
-      "html": "<h1>Life events</h1>",
-      "css": "body { background-color: olive; }",
-      "js": "console.log('This is JS for life events');"
-    }
-  ]
+    "tab": "myself",
+    "pages": [
+        {
+            "id": "benefits",
+            "tab": "myself",
+            "moduleId": "benefits",
+            "label": "Benefits",
+            "description": "This is a description for page Benefits",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Benefits</h1>",
+                    "css": "main {background: #916AA5;}",
+                    "js": "console.log('This is JS for page Benefits');"
+                }
+            ]
+        }
+    ]
 }

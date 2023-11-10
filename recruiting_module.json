@@ -1,0 +1,21 @@
+{
+    "tab": "administration_and_configuration",
+    "pages": [
+        {
+            "id": "recruiting",
+            "tab": "administration_and_configuration",
+            "moduleId": "recruiting",
+            "label": "Recruiting",
+            "description": "This is a description for page Recruiting",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Recruiting</h1>",
+                    "css": "main {background: #6F60CA;}",
+                    "js": "console.log('This is JS for page Recruiting');"
+                }
+            ]
+        }
+    ]
+}

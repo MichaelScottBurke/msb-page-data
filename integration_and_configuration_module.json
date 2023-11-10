@@ -1,0 +1,21 @@
+{
+    "tab": "administration_and_configuration",
+    "pages": [
+        {
+            "id": "integration_and_configuration",
+            "tab": "administration_and_configuration",
+            "moduleId": "integration_and_configuration",
+            "label": "Integration and configuration",
+            "description": "This is a description for page Integration and configuration",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Integration and configuration</h1>",
+                    "css": "main {background: #8CA326;}",
+                    "js": "console.log('This is JS for page Integration and configuration');"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "tab": "team",
+    "pages": [
+        {
+            "id": "time_and_attendance_managment",
+            "tab": "team",
+            "moduleId": "time_and_attendance_managment",
+            "label": "Time and attendance managment",
+            "description": "This is a description for page Time and attendance managment",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Time and attendance managment</h1>",
+                    "css": "main {background: #90BCB2;}",
+                    "js": "console.log('This is JS for page Time and attendance managment');"
+                }
+            ]
+        }
+    ]
+}

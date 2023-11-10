@@ -1,0 +1,21 @@
+{
+    "tab": "administration_and_configuration",
+    "pages": [
+        {
+            "id": "taxes",
+            "tab": "administration_and_configuration",
+            "moduleId": "taxes",
+            "label": "Taxes",
+            "description": "This is a description for page Taxes",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Taxes</h1>",
+                    "css": "main {background: #C21E1C;}",
+                    "js": "console.log('This is JS for page Taxes');"
+                }
+            ]
+        }
+    ]
+}

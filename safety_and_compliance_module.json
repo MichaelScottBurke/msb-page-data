@@ -1,0 +1,21 @@
+{
+    "tab": "team",
+    "pages": [
+        {
+            "id": "safety_and_compliance",
+            "tab": "team",
+            "moduleId": "safety_and_compliance",
+            "label": "Safety and Compliance",
+            "description": "This is a description for page Safety and Compliance",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Safety and Compliance</h1>",
+                    "css": "main {background: #E349C8;}",
+                    "js": "console.log('This is JS for page Safety and Compliance');"
+                }
+            ]
+        }
+    ]
+}

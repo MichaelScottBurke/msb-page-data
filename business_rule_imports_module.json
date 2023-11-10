@@ -1,0 +1,21 @@
+{
+    "tab": "administration_and_configuration",
+    "pages": [
+        {
+            "id": "business_rule_imports",
+            "tab": "administration_and_configuration",
+            "moduleId": "business_rule_imports",
+            "label": "Business rule imports",
+            "description": "This is a description for page Business rule imports",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Business rule imports</h1>",
+                    "css": "main {background: #D8B994;}",
+                    "js": "console.log('This is JS for page Business rule imports');"
+                }
+            ]
+        }
+    ]
+}

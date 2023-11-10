@@ -1,0 +1,21 @@
+{
+    "tab": "myself",
+    "pages": [
+        {
+            "id": "company",
+            "tab": "myself",
+            "moduleId": "company",
+            "label": "Company",
+            "description": "This is a description for page Company",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Company</h1>",
+                    "css": "main {background: #984B67;}",
+                    "js": "console.log('This is JS for page Company');"
+                }
+            ]
+        }
+    ]
+}

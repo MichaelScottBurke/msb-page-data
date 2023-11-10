@@ -1,0 +1,21 @@
+{
+    "tab": "administration_and_configuration",
+    "pages": [
+        {
+            "id": "application_settings",
+            "tab": "administration_and_configuration",
+            "moduleId": "application_settings",
+            "label": "Application settings",
+            "description": "This is a description for page Application settings",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Application settings</h1>",
+                    "css": "main {background: #01BDD4;}",
+                    "js": "console.log('This is JS for page Application settings');"
+                }
+            ]
+        }
+    ]
+}

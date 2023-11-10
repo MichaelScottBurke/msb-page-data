@@ -1,0 +1,21 @@
+{
+    "tab": "administration_and_configuration",
+    "pages": [
+        {
+            "id": "business_intelligence_and_reporting",
+            "tab": "administration_and_configuration",
+            "moduleId": "business_intelligence_and_reporting",
+            "label": "Business Intelligence and reporting",
+            "description": "This is a description for page Business Intelligence and reporting",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Business Intelligence and reporting</h1>",
+                    "css": "main {background: #4C0A5C;}",
+                    "js": "console.log('This is JS for page Business Intelligence and reporting');"
+                }
+            ]
+        }
+    ]
+}

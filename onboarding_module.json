@@ -1,0 +1,37 @@
+{
+    "tab": "team",
+    "pages": [
+        {
+            "id": "onboarding",
+            "tab": "team",
+            "moduleId": "onboarding",
+            "label": "Onboarding",
+            "description": "This is a description for page Onboarding",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Onboarding</h1>",
+                    "css": "main {background: #9D6CF0;}",
+                    "js": "console.log('This is JS for page Onboarding');"
+                }
+            ]
+        },
+        {
+            "id": "onboarding",
+            "tab": "administration_and_configuration",
+            "moduleId": "onboarding",
+            "label": "Onboarding",
+            "description": "This is a description for page Onboarding",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Onboarding</h1>",
+                    "css": "main {background: #468E6D;}",
+                    "js": "console.log('This is JS for page Onboarding');"
+                }
+            ]
+        }
+    ]
+}

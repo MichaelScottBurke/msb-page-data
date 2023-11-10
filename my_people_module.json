@@ -1,0 +1,21 @@
+{
+    "tab": "team",
+    "pages": [
+        {
+            "id": "my_people",
+            "tab": "team",
+            "moduleId": "my_people",
+            "label": "My people",
+            "description": "This is a description for page My people",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>My people</h1>",
+                    "css": "main {background: #85E054;}",
+                    "js": "console.log('This is JS for page My people');"
+                }
+            ]
+        }
+    ]
+}

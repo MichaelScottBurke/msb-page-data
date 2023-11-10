@@ -1,0 +1,37 @@
+{
+    "tab": "team",
+    "pages": [
+        {
+            "id": "talent_management",
+            "tab": "team",
+            "moduleId": "talent_management",
+            "label": "Talent Management",
+            "description": "This is a description for page Talent Management",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Talent Management</h1>",
+                    "css": "main {background: #BAF1AC;}",
+                    "js": "console.log('This is JS for page Talent Management');"
+                }
+            ]
+        },
+        {
+            "id": "talent_management",
+            "tab": "administration_and_configuration",
+            "moduleId": "talent_management",
+            "label": "Talent Management",
+            "description": "This is a description for page Talent Management",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Talent Management</h1>",
+                    "css": "main {background: #5CBEAF;}",
+                    "js": "console.log('This is JS for page Talent Management');"
+                }
+            ]
+        }
+    ]
+}

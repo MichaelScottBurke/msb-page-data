@@ -1,0 +1,21 @@
+{
+    "tab": "team",
+    "pages": [
+        {
+            "id": "benefits_management",
+            "tab": "team",
+            "moduleId": "benefits_management",
+            "label": "Benefits management",
+            "description": "This is a description for page Benefits management",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Benefits management</h1>",
+                    "css": "main {background: #A3C030;}",
+                    "js": "console.log('This is JS for page Benefits management');"
+                }
+            ]
+        }
+    ]
+}

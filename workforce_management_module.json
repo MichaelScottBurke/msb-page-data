@@ -1,0 +1,21 @@
+{
+    "tab": "administration_and_configuration",
+    "pages": [
+        {
+            "id": "workforce_management",
+            "tab": "administration_and_configuration",
+            "moduleId": "workforce_management",
+            "label": "Workforce Management",
+            "description": "This is a description for page Workforce Management",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Workforce Management</h1>",
+                    "css": "main {background: #67B62E;}",
+                    "js": "console.log('This is JS for page Workforce Management');"
+                }
+            ]
+        }
+    ]
+}

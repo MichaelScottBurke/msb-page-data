@@ -1,0 +1,437 @@
+{
+    "tab": "team",
+    "pages": [
+        {
+            "id": "team_hub",
+            "tab": "team",
+            "moduleId": "team_hub",
+            "label": "Team hub",
+            "description": "This is a description for page Team hub",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Team hub</h1>",
+                    "css": "main {background: #F5B3BE;}",
+                    "js": "console.log('This is JS for page Team hub');"
+                }
+            ]
+        },
+        {
+            "id": "disciplinary_actions",
+            "tab": "team",
+            "moduleId": "team_hub",
+            "label": "Disciplinary Actions",
+            "description": "This is a description for page Disciplinary Actions",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Disciplinary Actions</h1>",
+                    "css": "main {background: #A65D72;}",
+                    "js": "console.log('This is JS for page Disciplinary Actions');"
+                }
+            ]
+        },
+        {
+            "id": "grievances",
+            "tab": "team",
+            "moduleId": "team_hub",
+            "label": "Grievances",
+            "description": "This is a description for page Grievances",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Grievances</h1>",
+                    "css": "main {background: #B226E8;}",
+                    "js": "console.log('This is JS for page Grievances');"
+                }
+            ]
+        },
+        {
+            "id": "compensation_management_hub",
+            "tab": "team",
+            "moduleId": "team_hub",
+            "label": "Compensation management hub",
+            "description": "This is a description for page Compensation management hub",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Compensation management hub</h1>",
+                    "css": "main {background: #0A872C;}",
+                    "js": "console.log('This is JS for page Compensation management hub');"
+                }
+            ]
+        },
+        {
+            "id": "compensation_summary",
+            "tab": "team",
+            "moduleId": "team_hub",
+            "label": "Compensation Summary",
+            "description": "This is a description for page Compensation Summary",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Compensation Summary</h1>",
+                    "css": "main {background: #8193D2;}",
+                    "js": "console.log('This is JS for page Compensation Summary');"
+                }
+            ]
+        },
+        {
+            "id": "salary_planning_classic",
+            "tab": "team",
+            "moduleId": "team_hub",
+            "label": "Salary Planning classic",
+            "description": "This is a description for page Salary Planning classic",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Salary Planning classic</h1>",
+                    "css": "main {background: #BB5542;}",
+                    "js": "console.log('This is JS for page Salary Planning classic');"
+                }
+            ]
+        },
+        {
+            "id": "health_care_eligibility",
+            "tab": "team",
+            "moduleId": "team_hub",
+            "label": "Health Care Eligibility",
+            "description": "This is a description for page Health Care Eligibility",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Health Care Eligibility</h1>",
+                    "css": "main {background: #D37CF8;}",
+                    "js": "console.log('This is JS for page Health Care Eligibility');"
+                }
+            ]
+        },
+        {
+            "id": "health_care_eligibility_summary",
+            "tab": "team",
+            "moduleId": "team_hub",
+            "label": "Health Care Eligibility Summary",
+            "description": "This is a description for page Health Care Eligibility Summary",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Health Care Eligibility Summary</h1>",
+                    "css": "main {background: #65BC5C;}",
+                    "js": "console.log('This is JS for page Health Care Eligibility Summary');"
+                }
+            ]
+        },
+        {
+            "id": "health_care_measurement_groups",
+            "tab": "team",
+            "moduleId": "team_hub",
+            "label": "Health Care Measurement Groups",
+            "description": "This is a description for page Health Care Measurement Groups",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Health Care Measurement Groups</h1>",
+                    "css": "main {background: #C80C9A;}",
+                    "js": "console.log('This is JS for page Health Care Measurement Groups');"
+                }
+            ]
+        },
+        {
+            "id": "osha_tracking",
+            "tab": "team",
+            "moduleId": "team_hub",
+            "label": "OSHA tracking",
+            "description": "This is a description for page OSHA tracking",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>OSHA tracking</h1>",
+                    "css": "main {background: #D26513;}",
+                    "js": "console.log('This is JS for page OSHA tracking');"
+                }
+            ]
+        },
+        {
+            "id": "process_hires",
+            "tab": "team",
+            "moduleId": "team_hub",
+            "label": "Process Hires",
+            "description": "This is a description for page Process Hires",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Process Hires</h1>",
+                    "css": "main {background: #98B0CA;}",
+                    "js": "console.log('This is JS for page Process Hires');"
+                }
+            ]
+        },
+        {
+            "id": "work_queue",
+            "tab": "team",
+            "moduleId": "team_hub",
+            "label": "Work Queue",
+            "description": "This is a description for page Work Queue",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Work Queue</h1>",
+                    "css": "main {background: #8FCBD6;}",
+                    "js": "console.log('This is JS for page Work Queue');"
+                }
+            ]
+        },
+        {
+            "id": "third_party_pay",
+            "tab": "team",
+            "moduleId": "team_hub",
+            "label": "Third Party Pay",
+            "description": "This is a description for page Third Party Pay",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Third Party Pay</h1>",
+                    "css": "main {background: #138EF5;}",
+                    "js": "console.log('This is JS for page Third Party Pay');"
+                }
+            ]
+        },
+        {
+            "id": "team_schedule",
+            "tab": "team",
+            "moduleId": "team_hub",
+            "label": "Team schedule",
+            "description": "This is a description for page Team schedule",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Team schedule</h1>",
+                    "css": "main {background: #38E0B3;}",
+                    "js": "console.log('This is JS for page Team schedule');"
+                }
+            ]
+        },
+        {
+            "id": "leave_management",
+            "tab": "team",
+            "moduleId": "team_hub",
+            "label": "Leave management",
+            "description": "This is a description for page Leave management",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Leave management</h1>",
+                    "css": "main {background: #676E4C;}",
+                    "js": "console.log('This is JS for page Leave management');"
+                }
+            ]
+        },
+        {
+            "id": "time_off_requests_classic",
+            "tab": "team",
+            "moduleId": "team_hub",
+            "label": "Time off requests classic",
+            "description": "This is a description for page Time off requests classic",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Time off requests classic</h1>",
+                    "css": "main {background: #CA2323;}",
+                    "js": "console.log('This is JS for page Time off requests classic');"
+                }
+            ]
+        },
+        {
+            "id": "time_and_attendance_classic",
+            "tab": "team",
+            "moduleId": "team_hub",
+            "label": "Time and Attendance classic",
+            "description": "This is a description for page Time and Attendance classic",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Time and Attendance classic</h1>",
+                    "css": "main {background: #A58815;}",
+                    "js": "console.log('This is JS for page Time and Attendance classic');"
+                }
+            ]
+        },
+        {
+            "id": "time_management_classic",
+            "tab": "team",
+            "moduleId": "team_hub",
+            "label": "Time Management classic",
+            "description": "This is a description for page Time Management classic",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Time Management classic</h1>",
+                    "css": "main {background: #9FB8C4;}",
+                    "js": "console.log('This is JS for page Time Management classic');"
+                }
+            ]
+        },
+        {
+            "id": "talent_hub",
+            "tab": "team",
+            "moduleId": "team_hub",
+            "label": "Talent hub",
+            "description": "This is a description for page Talent hub",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Talent hub</h1>",
+                    "css": "main {background: #AC1E15;}",
+                    "js": "console.log('This is JS for page Talent hub');"
+                }
+            ]
+        },
+        {
+            "id": "goal_management",
+            "tab": "team",
+            "moduleId": "team_hub",
+            "label": "Goal management",
+            "description": "This is a description for page Goal management",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Goal management</h1>",
+                    "css": "main {background: #276159;}",
+                    "js": "console.log('This is JS for page Goal management');"
+                }
+            ]
+        },
+        {
+            "id": "goal_planning",
+            "tab": "team",
+            "moduleId": "team_hub",
+            "label": "Goal planning",
+            "description": "This is a description for page Goal planning",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Goal planning</h1>",
+                    "css": "main {background: #73D821;}",
+                    "js": "console.log('This is JS for page Goal planning');"
+                }
+            ]
+        },
+        {
+            "id": "assignable_goals",
+            "tab": "team",
+            "moduleId": "team_hub",
+            "label": "Assignable goals",
+            "description": "This is a description for page Assignable goals",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Assignable goals</h1>",
+                    "css": "main {background: #30FE0A;}",
+                    "js": "console.log('This is JS for page Assignable goals');"
+                }
+            ]
+        },
+        {
+            "id": "team_goals",
+            "tab": "team",
+            "moduleId": "team_hub",
+            "label": "Team goals",
+            "description": "This is a description for page Team goals",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Team goals</h1>",
+                    "css": "main {background: #FF5821;}",
+                    "js": "console.log('This is JS for page Team goals');"
+                }
+            ]
+        },
+        {
+            "id": "goal_recommendations",
+            "tab": "team",
+            "moduleId": "team_hub",
+            "label": "Goal recommendations",
+            "description": "This is a description for page Goal recommendations",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Goal recommendations</h1>",
+                    "css": "main {background: #873322;}",
+                    "js": "console.log('This is JS for page Goal recommendations');"
+                }
+            ]
+        },
+        {
+            "id": "development_opportunities",
+            "tab": "team",
+            "moduleId": "team_hub",
+            "label": "Development Opportunities",
+            "description": "This is a description for page Development Opportunities",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Development Opportunities</h1>",
+                    "css": "main {background: #3A1BE1;}",
+                    "js": "console.log('This is JS for page Development Opportunities');"
+                }
+            ]
+        },
+        {
+            "id": "succession_plans",
+            "tab": "team",
+            "moduleId": "team_hub",
+            "label": "Succession Plans",
+            "description": "This is a description for page Succession Plans",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Succession Plans</h1>",
+                    "css": "main {background: #A9D212;}",
+                    "js": "console.log('This is JS for page Succession Plans');"
+                }
+            ]
+        },
+        {
+            "id": "team_competencies",
+            "tab": "team",
+            "moduleId": "team_hub",
+            "label": "Team Competencies",
+            "description": "This is a description for page Team Competencies",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Team Competencies</h1>",
+                    "css": "main {background: #06510A;}",
+                    "js": "console.log('This is JS for page Team Competencies');"
+                }
+            ]
+        }
+    ]
+}

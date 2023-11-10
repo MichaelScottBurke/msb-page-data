@@ -1,0 +1,21 @@
+{
+    "tab": "myself",
+    "pages": [
+        {
+            "id": "documents",
+            "tab": "myself",
+            "moduleId": "documents",
+            "label": "Documents",
+            "description": "This is a description for page Documents",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Documents</h1>",
+                    "css": "main {background: #EB147B;}",
+                    "js": "console.log('This is JS for page Documents');"
+                }
+            ]
+        }
+    ]
+}

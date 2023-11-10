@@ -1,0 +1,21 @@
+{
+    "tab": "administration_and_configuration",
+    "pages": [
+        {
+            "id": "compensation_admin",
+            "tab": "administration_and_configuration",
+            "moduleId": "compensation_admin",
+            "label": "Compensation admin",
+            "description": "This is a description for page Compensation admin",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Compensation admin</h1>",
+                    "css": "main {background: #67DFAC;}",
+                    "js": "console.log('This is JS for page Compensation admin');"
+                }
+            ]
+        }
+    ]
+}

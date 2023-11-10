@@ -1,0 +1,21 @@
+{
+    "tab": "administration_and_configuration",
+    "pages": [
+        {
+            "id": "content_management",
+            "tab": "administration_and_configuration",
+            "moduleId": "content_management",
+            "label": "Content management",
+            "description": "This is a description for page Content management",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Content management</h1>",
+                    "css": "main {background: #7B2BB0;}",
+                    "js": "console.log('This is JS for page Content management');"
+                }
+            ]
+        }
+    ]
+}

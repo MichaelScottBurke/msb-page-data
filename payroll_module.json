@@ -1,0 +1,21 @@
+{
+    "tab": "administration_and_configuration",
+    "pages": [
+        {
+            "id": "payroll",
+            "tab": "administration_and_configuration",
+            "moduleId": "payroll",
+            "label": "Payroll",
+            "description": "This is a description for page Payroll",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Payroll</h1>",
+                    "css": "main {background: #190210;}",
+                    "js": "console.log('This is JS for page Payroll');"
+                }
+            ]
+        }
+    ]
+}

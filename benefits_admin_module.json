@@ -1,0 +1,21 @@
+{
+    "tab": "administration_and_configuration",
+    "pages": [
+        {
+            "id": "benefits_admin",
+            "tab": "administration_and_configuration",
+            "moduleId": "benefits_admin",
+            "label": "Benefits admin",
+            "description": "This is a description for page Benefits admin",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Benefits admin</h1>",
+                    "css": "main {background: #8D8FDF;}",
+                    "js": "console.log('This is JS for page Benefits admin');"
+                }
+            ]
+        }
+    ]
+}

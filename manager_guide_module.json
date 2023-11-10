@@ -1,0 +1,21 @@
+{
+    "tab": "team",
+    "pages": [
+        {
+            "id": "manager_guide",
+            "tab": "team",
+            "moduleId": "manager_guide",
+            "label": "Manager Guide",
+            "description": "This is a description for page Manager Guide",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Manager Guide</h1>",
+                    "css": "main {background: #8FA83D;}",
+                    "js": "console.log('This is JS for page Manager Guide');"
+                }
+            ]
+        }
+    ]
+}

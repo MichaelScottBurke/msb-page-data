@@ -1,0 +1,21 @@
+{
+    "tab": "myself",
+    "pages": [
+        {
+            "id": "career_and_development",
+            "tab": "myself",
+            "moduleId": "career_and_development",
+            "label": "Career and development",
+            "description": "This is a description for page Career and development",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Career and development</h1>",
+                    "css": "main {background: #8F1C85;}",
+                    "js": "console.log('This is JS for page Career and development');"
+                }
+            ]
+        }
+    ]
+}

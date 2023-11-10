@@ -1,0 +1,21 @@
+{
+    "tab": "administration_and_configuration",
+    "pages": [
+        {
+            "id": "security",
+            "tab": "administration_and_configuration",
+            "moduleId": "security",
+            "label": "Security",
+            "description": "This is a description for page Security",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Security</h1>",
+                    "css": "main {background: #B5F9F2;}",
+                    "js": "console.log('This is JS for page Security');"
+                }
+            ]
+        }
+    ]
+}
