@@ -1,21 +1,184 @@
-{
-    "tab": "administration_and_configuration",
-    "pages": [
-        {
-            "id": "content_management",
-            "tab": "administration_and_configuration",
-            "moduleId": "content_management",
-            "label": "Content management",
-            "description": "This is a description for page Content management",
-            "containerId": "main-content",
-            "url": "",
-            "content": [
-                {
-                    "html": "<h1>Content management</h1>",
-                    "css": "main {background: #7B2BB0;}",
-                    "js": "console.log('This is JS for page Content management');"
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "id": "content_management",
+        "moduleId": "content_management",
+        "label": "Content management",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Content management</h1>",
+                "css": "main {background: #B206AB;}",
+                "js": "console.log('This is JS for page Content management');"
+            }
+        ]
+    },
+    {
+        "id": "content_hub",
+        "moduleId": "content_management",
+        "label": "Content hub",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Content hub</h1>",
+                "css": "main {background: #ADEF86;}",
+                "js": "console.log('This is JS for page Content hub');"
+            }
+        ]
+    },
+    {
+        "id": "home_page_setup",
+        "moduleId": "content_management",
+        "label": "Home page setup",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Home page setup</h1>",
+                "css": "main {background: #E5D809;}",
+                "js": "console.log('This is JS for page Home page setup');"
+            }
+        ]
+    },
+    {
+        "id": "knowledgebase_hrsd",
+        "moduleId": "content_management",
+        "label": "Knowledgebase HRSD",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Knowledgebase HRSD</h1>",
+                "css": "main {background: #34F15F;}",
+                "js": "console.log('This is JS for page Knowledgebase HRSD');"
+            }
+        ]
+    },
+    {
+        "id": "chat_and_groups",
+        "moduleId": "content_management",
+        "label": "Chat and groups",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Chat and groups</h1>",
+                "css": "main {background: #816AEE;}",
+                "js": "console.log('This is JS for page Chat and groups');"
+            }
+        ]
+    },
+    {
+        "id": "content_management_classic",
+        "moduleId": "content_management",
+        "label": "Content management classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Content management classic</h1>",
+                "css": "main {background: #284614;}",
+                "js": "console.log('This is JS for page Content management classic');"
+            }
+        ]
+    },
+    {
+        "id": "gadgets_classic",
+        "moduleId": "content_management",
+        "label": "Gadgets classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Gadgets classic</h1>",
+                "css": "main {background: #C83FFF;}",
+                "js": "console.log('This is JS for page Gadgets classic');"
+            }
+        ]
+    },
+    {
+        "id": "news_and_information_classic",
+        "moduleId": "content_management",
+        "label": "News and information classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>News and information classic</h1>",
+                "css": "main {background: #F485BA;}",
+                "js": "console.log('This is JS for page News and information classic');"
+            }
+        ]
+    },
+    {
+        "id": "page_links_classic",
+        "moduleId": "content_management",
+        "label": "Page links classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Page links classic</h1>",
+                "css": "main {background: #B050A3;}",
+                "js": "console.log('This is JS for page Page links classic');"
+            }
+        ]
+    },
+    {
+        "id": "manager_guide_content",
+        "moduleId": "content_management",
+        "label": "Manager guide content",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Manager guide content</h1>",
+                "css": "main {background: #3F9B8E;}",
+                "js": "console.log('This is JS for page Manager guide content');"
+            }
+        ]
+    },
+    {
+        "id": "payroll_guide_content",
+        "moduleId": "content_management",
+        "label": "Payroll guide content",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Payroll guide content</h1>",
+                "css": "main {background: #C4F22C;}",
+                "js": "console.log('This is JS for page Payroll guide content');"
+            }
+        ]
+    },
+    {
+        "id": "home_classic_content_gadgets",
+        "moduleId": "content_management",
+        "label": "Home classic content gadgets",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Home classic content gadgets</h1>",
+                "css": "main {background: #14BAC6;}",
+                "js": "console.log('This is JS for page Home classic content gadgets');"
+            }
+        ]
+    },
+    {
+        "id": "page_links_classic",
+        "moduleId": "content_management",
+        "label": "Page links classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Page links classic</h1>",
+                "css": "main {background: #AD9C1F;}",
+                "js": "console.log('This is JS for page Page links classic');"
+            }
+        ]
+    }
+]

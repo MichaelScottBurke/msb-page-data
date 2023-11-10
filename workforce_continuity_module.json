@@ -1,21 +1,16 @@
-{
-    "tab": "team",
-    "pages": [
-        {
-            "id": "workforce_continuity",
-            "tab": "team",
-            "moduleId": "workforce_continuity",
-            "label": "Workforce Continuity",
-            "description": "This is a description for page Workforce Continuity",
-            "containerId": "main-content",
-            "url": "",
-            "content": [
-                {
-                    "html": "<h1>Workforce Continuity</h1>",
-                    "css": "main {background: #1D4EDE;}",
-                    "js": "console.log('This is JS for page Workforce Continuity');"
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "id": "workforce_continuity",
+        "moduleId": "workforce_continuity",
+        "label": "Workforce Continuity",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Workforce Continuity</h1>",
+                "css": "main {background: #2CF111;}",
+                "js": "console.log('This is JS for page Workforce Continuity');"
+            }
+        ]
+    }
+]

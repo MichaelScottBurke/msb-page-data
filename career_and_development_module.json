@@ -1,21 +1,450 @@
-{
-    "tab": "myself",
-    "pages": [
-        {
-            "id": "career_and_development",
-            "tab": "myself",
-            "moduleId": "career_and_development",
-            "label": "Career and development",
-            "description": "This is a description for page Career and development",
-            "containerId": "main-content",
-            "url": "",
-            "content": [
-                {
-                    "html": "<h1>Career and development</h1>",
-                    "css": "main {background: #8F1C85;}",
-                    "js": "console.log('This is JS for page Career and development');"
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "id": "career_and_development",
+        "moduleId": "career_and_development",
+        "label": "Career and development",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Career and development</h1>",
+                "css": "main {background: #3FDD2B;}",
+                "js": "console.log('This is JS for page Career and development');"
+            }
+        ]
+    },
+    {
+        "id": "career_and_development_hub",
+        "moduleId": "career_and_development",
+        "label": "Career and development hub",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Career and development hub</h1>",
+                "css": "main {background: #C6D8CE;}",
+                "js": "console.log('This is JS for page Career and development hub');"
+            }
+        ]
+    },
+    {
+        "id": "career_builder",
+        "moduleId": "career_and_development",
+        "label": "Career builder",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Career builder</h1>",
+                "css": "main {background: #ED8DC1;}",
+                "js": "console.log('This is JS for page Career builder');"
+            }
+        ]
+    },
+    {
+        "id": "onboarding",
+        "moduleId": "career_and_development",
+        "label": "Onboarding",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Onboarding</h1>",
+                "css": "main {background: #5B1B34;}",
+                "js": "console.log('This is JS for page Onboarding');"
+            }
+        ]
+    },
+    {
+        "id": "jobs",
+        "moduleId": "career_and_development",
+        "label": "Jobs",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Jobs</h1>",
+                "css": "main {background: #38E112;}",
+                "js": "console.log('This is JS for page Jobs');"
+            }
+        ]
+    },
+    {
+        "id": "job_profile",
+        "moduleId": "career_and_development",
+        "label": "Job profile",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Job profile</h1>",
+                "css": "main {background: #886D58;}",
+                "js": "console.log('This is JS for page Job profile');"
+            }
+        ]
+    },
+    {
+        "id": "compensation",
+        "moduleId": "career_and_development",
+        "label": "Compensation",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Compensation</h1>",
+                "css": "main {background: #329303;}",
+                "js": "console.log('This is JS for page Compensation');"
+            }
+        ]
+    },
+    {
+        "id": "variable_pay",
+        "moduleId": "career_and_development",
+        "label": "Variable pay",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Variable pay</h1>",
+                "css": "main {background: #E4EBA1;}",
+                "js": "console.log('This is JS for page Variable pay');"
+            }
+        ]
+    },
+    {
+        "id": "job_history",
+        "moduleId": "career_and_development",
+        "label": "Job history",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Job history</h1>",
+                "css": "main {background: #F01046;}",
+                "js": "console.log('This is JS for page Job history');"
+            }
+        ]
+    },
+    {
+        "id": "secondary_job_history",
+        "moduleId": "career_and_development",
+        "label": "Secondary job history",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Secondary job history</h1>",
+                "css": "main {background: #3BC23C;}",
+                "js": "console.log('This is JS for page Secondary job history');"
+            }
+        ]
+    },
+    {
+        "id": "performance_reviews",
+        "moduleId": "career_and_development",
+        "label": "Performance reviews",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Performance reviews</h1>",
+                "css": "main {background: #954FB6;}",
+                "js": "console.log('This is JS for page Performance reviews');"
+            }
+        ]
+    },
+    {
+        "id": "goals",
+        "moduleId": "career_and_development",
+        "label": "Goals",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Goals</h1>",
+                "css": "main {background: #C2482C;}",
+                "js": "console.log('This is JS for page Goals');"
+            }
+        ]
+    },
+    {
+        "id": "goal_planning",
+        "moduleId": "career_and_development",
+        "label": "Goal planning",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Goal planning</h1>",
+                "css": "main {background: #2C9547;}",
+                "js": "console.log('This is JS for page Goal planning');"
+            }
+        ]
+    },
+    {
+        "id": "competencies",
+        "moduleId": "career_and_development",
+        "label": "Competencies",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Competencies</h1>",
+                "css": "main {background: #AF986B;}",
+                "js": "console.log('This is JS for page Competencies');"
+            }
+        ]
+    },
+    {
+        "id": "personal_development",
+        "moduleId": "career_and_development",
+        "label": "Personal development",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Personal development</h1>",
+                "css": "main {background: #2EA6A4;}",
+                "js": "console.log('This is JS for page Personal development');"
+            }
+        ]
+    },
+    {
+        "id": "talent_profile",
+        "moduleId": "career_and_development",
+        "label": "Talent profile",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Talent profile</h1>",
+                "css": "main {background: #7764DF;}",
+                "js": "console.log('This is JS for page Talent profile');"
+            }
+        ]
+    },
+    {
+        "id": "qualifications",
+        "moduleId": "career_and_development",
+        "label": "Qualifications",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Qualifications</h1>",
+                "css": "main {background: #07D84C;}",
+                "js": "console.log('This is JS for page Qualifications');"
+            }
+        ]
+    },
+    {
+        "id": "licenses",
+        "moduleId": "career_and_development",
+        "label": "Licenses",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Licenses</h1>",
+                "css": "main {background: #279B1B;}",
+                "js": "console.log('This is JS for page Licenses');"
+            }
+        ]
+    },
+    {
+        "id": "skills",
+        "moduleId": "career_and_development",
+        "label": "Skills",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Skills</h1>",
+                "css": "main {background: #E297CE;}",
+                "js": "console.log('This is JS for page Skills');"
+            }
+        ]
+    },
+    {
+        "id": "tests",
+        "moduleId": "career_and_development",
+        "label": "Tests",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Tests</h1>",
+                "css": "main {background: #907EDC;}",
+                "js": "console.log('This is JS for page Tests');"
+            }
+        ]
+    },
+    {
+        "id": "previous_employment",
+        "moduleId": "career_and_development",
+        "label": "Previous employment",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Previous employment</h1>",
+                "css": "main {background: #249B49;}",
+                "js": "console.log('This is JS for page Previous employment');"
+            }
+        ]
+    },
+    {
+        "id": "awards",
+        "moduleId": "career_and_development",
+        "label": "Awards",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Awards</h1>",
+                "css": "main {background: #CAE98C;}",
+                "js": "console.log('This is JS for page Awards');"
+            }
+        ]
+    },
+    {
+        "id": "education",
+        "moduleId": "career_and_development",
+        "label": "Education",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Education</h1>",
+                "css": "main {background: #DAF808;}",
+                "js": "console.log('This is JS for page Education');"
+            }
+        ]
+    },
+    {
+        "id": "relocation_preferences",
+        "moduleId": "career_and_development",
+        "label": "Relocation preferences",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Relocation preferences</h1>",
+                "css": "main {background: #F8E3A4;}",
+                "js": "console.log('This is JS for page Relocation preferences');"
+            }
+        ]
+    },
+    {
+        "id": "learning_development_classic",
+        "moduleId": "career_and_development",
+        "label": "Learning development classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Learning development classic</h1>",
+                "css": "main {background: #867BCF;}",
+                "js": "console.log('This is JS for page Learning development classic');"
+            }
+        ]
+    },
+    {
+        "id": "available_learning",
+        "moduleId": "career_and_development",
+        "label": "Available learning",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Available learning</h1>",
+                "css": "main {background: #921829;}",
+                "js": "console.log('This is JS for page Available learning');"
+            }
+        ]
+    },
+    {
+        "id": "completed_learning",
+        "moduleId": "career_and_development",
+        "label": "Completed learning",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Completed learning</h1>",
+                "css": "main {background: #F6EACB;}",
+                "js": "console.log('This is JS for page Completed learning');"
+            }
+        ]
+    },
+    {
+        "id": "current_learning",
+        "moduleId": "career_and_development",
+        "label": "Current learning",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Current learning</h1>",
+                "css": "main {background: #B5B451;}",
+                "js": "console.log('This is JS for page Current learning');"
+            }
+        ]
+    },
+    {
+        "id": "training_classic",
+        "moduleId": "career_and_development",
+        "label": "Training classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Training classic</h1>",
+                "css": "main {background: #40E7D5;}",
+                "js": "console.log('This is JS for page Training classic');"
+            }
+        ]
+    },
+    {
+        "id": "current_enrollments",
+        "moduleId": "career_and_development",
+        "label": "Current enrollments",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Current enrollments</h1>",
+                "css": "main {background: #BE2E2F;}",
+                "js": "console.log('This is JS for page Current enrollments');"
+            }
+        ]
+    },
+    {
+        "id": "required_training",
+        "moduleId": "career_and_development",
+        "label": "Required training",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Required training</h1>",
+                "css": "main {background: #4E7939;}",
+                "js": "console.log('This is JS for page Required training');"
+            }
+        ]
+    },
+    {
+        "id": "training_history",
+        "moduleId": "career_and_development",
+        "label": "Training history",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Training history</h1>",
+                "css": "main {background: #3BD1E5;}",
+                "js": "console.log('This is JS for page Training history');"
+            }
+        ]
+    }
+]

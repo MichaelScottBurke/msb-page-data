@@ -1,21 +1,44 @@
-{
-    "tab": "team",
-    "pages": [
-        {
-            "id": "employee_relations",
-            "tab": "team",
-            "moduleId": "employee_relations",
-            "label": "Employee Relations",
-            "description": "This is a description for page Employee Relations",
-            "containerId": "main-content",
-            "url": "",
-            "content": [
-                {
-                    "html": "<h1>Employee Relations</h1>",
-                    "css": "main {background: #F75958;}",
-                    "js": "console.log('This is JS for page Employee Relations');"
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "id": "employee_relations",
+        "moduleId": "employee_relations",
+        "label": "Employee Relations",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Employee Relations</h1>",
+                "css": "main {background: #2589D2;}",
+                "js": "console.log('This is JS for page Employee Relations');"
+            }
+        ]
+    },
+    {
+        "id": "disciplinary_actions",
+        "moduleId": "employee_relations",
+        "label": "Disciplinary Actions",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Disciplinary Actions</h1>",
+                "css": "main {background: #64355D;}",
+                "js": "console.log('This is JS for page Disciplinary Actions');"
+            }
+        ]
+    },
+    {
+        "id": "grievances",
+        "moduleId": "employee_relations",
+        "label": "Grievances",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Grievances</h1>",
+                "css": "main {background: #231F57;}",
+                "js": "console.log('This is JS for page Grievances');"
+            }
+        ]
+    }
+]

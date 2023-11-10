@@ -1,21 +1,16 @@
-{
-    "tab": "team",
-    "pages": [
-        {
-            "id": "employee_contracts",
-            "tab": "team",
-            "moduleId": "employee_contracts",
-            "label": "Employee contracts",
-            "description": "This is a description for page Employee contracts",
-            "containerId": "main-content",
-            "url": "",
-            "content": [
-                {
-                    "html": "<h1>Employee contracts</h1>",
-                    "css": "main {background: #EB3974;}",
-                    "js": "console.log('This is JS for page Employee contracts');"
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "id": "employee_contracts",
+        "moduleId": "employee_contracts",
+        "label": "Employee contracts",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Employee contracts</h1>",
+                "css": "main {background: #EDCAD9;}",
+                "js": "console.log('This is JS for page Employee contracts');"
+            }
+        ]
+    }
+]

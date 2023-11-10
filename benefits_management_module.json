@@ -1,21 +1,58 @@
-{
-    "tab": "team",
-    "pages": [
-        {
-            "id": "benefits_management",
-            "tab": "team",
-            "moduleId": "benefits_management",
-            "label": "Benefits management",
-            "description": "This is a description for page Benefits management",
-            "containerId": "main-content",
-            "url": "",
-            "content": [
-                {
-                    "html": "<h1>Benefits management</h1>",
-                    "css": "main {background: #A3C030;}",
-                    "js": "console.log('This is JS for page Benefits management');"
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "id": "benefits_management",
+        "moduleId": "benefits_management",
+        "label": "Benefits management",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Benefits management</h1>",
+                "css": "main {background: #996ED6;}",
+                "js": "console.log('This is JS for page Benefits management');"
+            }
+        ]
+    },
+    {
+        "id": "health_care_eligibility",
+        "moduleId": "benefits_management",
+        "label": "Health Care Eligibility",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Health Care Eligibility</h1>",
+                "css": "main {background: #63146D;}",
+                "js": "console.log('This is JS for page Health Care Eligibility');"
+            }
+        ]
+    },
+    {
+        "id": "health_care_eligibility_summary",
+        "moduleId": "benefits_management",
+        "label": "Health Care Eligibility Summary",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Health Care Eligibility Summary</h1>",
+                "css": "main {background: #740080;}",
+                "js": "console.log('This is JS for page Health Care Eligibility Summary');"
+            }
+        ]
+    },
+    {
+        "id": "health_care_measurement_groups",
+        "moduleId": "benefits_management",
+        "label": "Health Care Measurement Groups",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Health Care Measurement Groups</h1>",
+                "css": "main {background: #6C38D6;}",
+                "js": "console.log('This is JS for page Health Care Measurement Groups');"
+            }
+        ]
+    }
+]

@@ -1,21 +1,72 @@
-{
-    "tab": "myself",
-    "pages": [
-        {
-            "id": "documents",
-            "tab": "myself",
-            "moduleId": "documents",
-            "label": "Documents",
-            "description": "This is a description for page Documents",
-            "containerId": "main-content",
-            "url": "",
-            "content": [
-                {
-                    "html": "<h1>Documents</h1>",
-                    "css": "main {background: #EB147B;}",
-                    "js": "console.log('This is JS for page Documents');"
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "id": "documents",
+        "moduleId": "documents",
+        "label": "Documents",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Documents</h1>",
+                "css": "main {background: #ECBBFE;}",
+                "js": "console.log('This is JS for page Documents');"
+            }
+        ]
+    },
+    {
+        "id": "documents_hub",
+        "moduleId": "documents",
+        "label": "Documents hub",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Documents hub</h1>",
+                "css": "main {background: #823448;}",
+                "js": "console.log('This is JS for page Documents hub');"
+            }
+        ]
+    },
+    {
+        "id": "document_acknowledgments",
+        "moduleId": "documents",
+        "label": "Document acknowledgments",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Document acknowledgments</h1>",
+                "css": "main {background: #DA129B;}",
+                "js": "console.log('This is JS for page Document acknowledgments');"
+            }
+        ]
+    },
+    {
+        "id": "employee_documents",
+        "moduleId": "documents",
+        "label": "Employee documents",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Employee documents</h1>",
+                "css": "main {background: #49B292;}",
+                "js": "console.log('This is JS for page Employee documents');"
+            }
+        ]
+    },
+    {
+        "id": "electronic_forms",
+        "moduleId": "documents",
+        "label": "Electronic forms",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Electronic forms</h1>",
+                "css": "main {background: #9D09A3;}",
+                "js": "console.log('This is JS for page Electronic forms');"
+            }
+        ]
+    }
+]

@@ -1,37 +1,240 @@
-{
-    "tab": "team",
-    "pages": [
-        {
-            "id": "talent_management",
-            "tab": "team",
-            "moduleId": "talent_management",
-            "label": "Talent Management",
-            "description": "This is a description for page Talent Management",
-            "containerId": "main-content",
-            "url": "",
-            "content": [
-                {
-                    "html": "<h1>Talent Management</h1>",
-                    "css": "main {background: #BAF1AC;}",
-                    "js": "console.log('This is JS for page Talent Management');"
-                }
-            ]
-        },
-        {
-            "id": "talent_management",
-            "tab": "administration_and_configuration",
-            "moduleId": "talent_management",
-            "label": "Talent Management",
-            "description": "This is a description for page Talent Management",
-            "containerId": "main-content",
-            "url": "",
-            "content": [
-                {
-                    "html": "<h1>Talent Management</h1>",
-                    "css": "main {background: #5CBEAF;}",
-                    "js": "console.log('This is JS for page Talent Management');"
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "id": "talent_management",
+        "moduleId": "talent_management",
+        "label": "Talent Management",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Talent Management</h1>",
+                "css": "main {background: #C4BE5F;}",
+                "js": "console.log('This is JS for page Talent Management');"
+            }
+        ]
+    },
+    {
+        "id": "development_opportunities",
+        "moduleId": "talent_management",
+        "label": "Development Opportunities",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Development Opportunities</h1>",
+                "css": "main {background: #941A1E;}",
+                "js": "console.log('This is JS for page Development Opportunities');"
+            }
+        ]
+    },
+    {
+        "id": "performance_management",
+        "moduleId": "talent_management",
+        "label": "Performance Management",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Performance Management</h1>",
+                "css": "main {background: #1C2B4A;}",
+                "js": "console.log('This is JS for page Performance Management');"
+            }
+        ]
+    },
+    {
+        "id": "review_templates",
+        "moduleId": "talent_management",
+        "label": "Review templates",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Review templates</h1>",
+                "css": "main {background: #04D443;}",
+                "js": "console.log('This is JS for page Review templates');"
+            }
+        ]
+    },
+    {
+        "id": "distributed_reviews",
+        "moduleId": "talent_management",
+        "label": "Distributed reviews",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Distributed reviews</h1>",
+                "css": "main {background: #78D219;}",
+                "js": "console.log('This is JS for page Distributed reviews');"
+            }
+        ]
+    },
+    {
+        "id": "review_schedules",
+        "moduleId": "talent_management",
+        "label": "Review schedules",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Review schedules</h1>",
+                "css": "main {background: #54892C;}",
+                "js": "console.log('This is JS for page Review schedules');"
+            }
+        ]
+    },
+    {
+        "id": "goal_planning",
+        "moduleId": "talent_management",
+        "label": "Goal planning",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Goal planning</h1>",
+                "css": "main {background: #B5EE78;}",
+                "js": "console.log('This is JS for page Goal planning');"
+            }
+        ]
+    },
+    {
+        "id": "assignable_goals",
+        "moduleId": "talent_management",
+        "label": "Assignable goals",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Assignable goals</h1>",
+                "css": "main {background: #F0D40E;}",
+                "js": "console.log('This is JS for page Assignable goals');"
+            }
+        ]
+    },
+    {
+        "id": "recommended_goals",
+        "moduleId": "talent_management",
+        "label": "Recommended goals",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Recommended goals</h1>",
+                "css": "main {background: #6F2126;}",
+                "js": "console.log('This is JS for page Recommended goals');"
+            }
+        ]
+    },
+    {
+        "id": "competencies",
+        "moduleId": "talent_management",
+        "label": "Competencies",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Competencies</h1>",
+                "css": "main {background: #E00A2B;}",
+                "js": "console.log('This is JS for page Competencies');"
+            }
+        ]
+    },
+    {
+        "id": "performance_configuration",
+        "moduleId": "talent_management",
+        "label": "Performance configuration",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Performance configuration</h1>",
+                "css": "main {background: #7A7EE5;}",
+                "js": "console.log('This is JS for page Performance configuration');"
+            }
+        ]
+    },
+    {
+        "id": "succession_plans",
+        "moduleId": "talent_management",
+        "label": "Succession Plans",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Succession Plans</h1>",
+                "css": "main {background: #3CEF7E;}",
+                "js": "console.log('This is JS for page Succession Plans');"
+            }
+        ]
+    },
+    {
+        "id": "talent_management_setup",
+        "moduleId": "talent_management",
+        "label": "Talent Management Setup",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Talent Management Setup</h1>",
+                "css": "main {background: #F62CA0;}",
+                "js": "console.log('This is JS for page Talent Management Setup');"
+            }
+        ]
+    },
+    {
+        "id": "talent_management",
+        "moduleId": "talent_management",
+        "label": "Talent Management",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Talent Management</h1>",
+                "css": "main {background: #F138D0;}",
+                "js": "console.log('This is JS for page Talent Management');"
+            }
+        ]
+    },
+    {
+        "id": "talent_notifications",
+        "moduleId": "talent_management",
+        "label": "Talent Notifications",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Talent Notifications</h1>",
+                "css": "main {background: #685BAB;}",
+                "js": "console.log('This is JS for page Talent Notifications');"
+            }
+        ]
+    },
+    {
+        "id": "manager_notifications",
+        "moduleId": "talent_management",
+        "label": "Manager Notifications",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Manager Notifications</h1>",
+                "css": "main {background: #1ED101;}",
+                "js": "console.log('This is JS for page Manager Notifications');"
+            }
+        ]
+    },
+    {
+        "id": "leadership_actions",
+        "moduleId": "talent_management",
+        "label": "Leadership Actions",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Leadership Actions</h1>",
+                "css": "main {background: #D27C51;}",
+                "js": "console.log('This is JS for page Leadership Actions');"
+            }
+        ]
+    }
+]

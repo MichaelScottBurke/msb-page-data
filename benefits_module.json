@@ -1,21 +1,156 @@
-{
-    "tab": "myself",
-    "pages": [
-        {
-            "id": "benefits",
-            "tab": "myself",
-            "moduleId": "benefits",
-            "label": "Benefits",
-            "description": "This is a description for page Benefits",
-            "containerId": "main-content",
-            "url": "",
-            "content": [
-                {
-                    "html": "<h1>Benefits</h1>",
-                    "css": "main {background: #916AA5;}",
-                    "js": "console.log('This is JS for page Benefits');"
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "id": "benefits",
+        "moduleId": "benefits",
+        "label": "Benefits",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Benefits</h1>",
+                "css": "main {background: #561793;}",
+                "js": "console.log('This is JS for page Benefits');"
+            }
+        ]
+    },
+    {
+        "id": "benefits_hub",
+        "moduleId": "benefits",
+        "label": "Benefits hub",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Benefits hub</h1>",
+                "css": "main {background: #F86B5A;}",
+                "js": "console.log('This is JS for page Benefits hub');"
+            }
+        ]
+    },
+    {
+        "id": "open_enrollment",
+        "moduleId": "benefits",
+        "label": "Open enrollment",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Open enrollment</h1>",
+                "css": "main {background: #27B928;}",
+                "js": "console.log('This is JS for page Open enrollment');"
+            }
+        ]
+    },
+    {
+        "id": "life_events",
+        "moduleId": "benefits",
+        "label": "Life events",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Life events</h1>",
+                "css": "main {background: #980352;}",
+                "js": "console.log('This is JS for page Life events');"
+            }
+        ]
+    },
+    {
+        "id": "1095-c",
+        "moduleId": "benefits",
+        "label": "1095-C",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>1095-C</h1>",
+                "css": "main {background: #0F5EAC;}",
+                "js": "console.log('This is JS for page 1095-C');"
+            }
+        ]
+    },
+    {
+        "id": "beneficiaries_and_dependents",
+        "moduleId": "benefits",
+        "label": "Beneficiaries and dependents",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Beneficiaries and dependents</h1>",
+                "css": "main {background: #AF8D13;}",
+                "js": "console.log('This is JS for page Beneficiaries and dependents');"
+            }
+        ]
+    },
+    {
+        "id": "benefits_summary",
+        "moduleId": "benefits",
+        "label": "Benefits summary",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Benefits summary</h1>",
+                "css": "main {background: #FC791E;}",
+                "js": "console.log('This is JS for page Benefits summary');"
+            }
+        ]
+    },
+    {
+        "id": "cobra",
+        "moduleId": "benefits",
+        "label": "COBRA",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>COBRA</h1>",
+                "css": "main {background: #524D8A;}",
+                "js": "console.log('This is JS for page COBRA');"
+            }
+        ]
+    },
+    {
+        "id": "healthcare_eligibility",
+        "moduleId": "benefits",
+        "label": "Healthcare eligibility",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Healthcare eligibility</h1>",
+                "css": "main {background: #E7FBE2;}",
+                "js": "console.log('This is JS for page Healthcare eligibility');"
+            }
+        ]
+    },
+    {
+        "id": "investments",
+        "moduleId": "benefits",
+        "label": "Investments",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Investments</h1>",
+                "css": "main {background: #04BB9C;}",
+                "js": "console.log('This is JS for page Investments');"
+            }
+        ]
+    },
+    {
+        "id": "benefit_links",
+        "moduleId": "benefits",
+        "label": "Benefit links",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Benefit links</h1>",
+                "css": "main {background: #BB03CF;}",
+                "js": "console.log('This is JS for page Benefit links');"
+            }
+        ]
+    }
+]

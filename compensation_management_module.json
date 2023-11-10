@@ -1,21 +1,58 @@
-{
-    "tab": "team",
-    "pages": [
-        {
-            "id": "compensation_management",
-            "tab": "team",
-            "moduleId": "compensation_management",
-            "label": "Compensation management",
-            "description": "This is a description for page Compensation management",
-            "containerId": "main-content",
-            "url": "",
-            "content": [
-                {
-                    "html": "<h1>Compensation management</h1>",
-                    "css": "main {background: #1F12AB;}",
-                    "js": "console.log('This is JS for page Compensation management');"
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "id": "compensation_management",
+        "moduleId": "compensation_management",
+        "label": "Compensation management",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Compensation management</h1>",
+                "css": "main {background: #BC3C56;}",
+                "js": "console.log('This is JS for page Compensation management');"
+            }
+        ]
+    },
+    {
+        "id": "compensation_management_hub",
+        "moduleId": "compensation_management",
+        "label": "Compensation management hub",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Compensation management hub</h1>",
+                "css": "main {background: #9FF0AC;}",
+                "js": "console.log('This is JS for page Compensation management hub');"
+            }
+        ]
+    },
+    {
+        "id": "compensation_summary",
+        "moduleId": "compensation_management",
+        "label": "Compensation Summary",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Compensation Summary</h1>",
+                "css": "main {background: #3B2D0D;}",
+                "js": "console.log('This is JS for page Compensation Summary');"
+            }
+        ]
+    },
+    {
+        "id": "salary_planning_classic",
+        "moduleId": "compensation_management",
+        "label": "Salary Planning classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Salary Planning classic</h1>",
+                "css": "main {background: #B41875;}",
+                "js": "console.log('This is JS for page Salary Planning classic');"
+            }
+        ]
+    }
+]

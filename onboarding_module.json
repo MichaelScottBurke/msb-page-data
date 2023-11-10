@@ -1,37 +1,114 @@
-{
-    "tab": "team",
-    "pages": [
-        {
-            "id": "onboarding",
-            "tab": "team",
-            "moduleId": "onboarding",
-            "label": "Onboarding",
-            "description": "This is a description for page Onboarding",
-            "containerId": "main-content",
-            "url": "",
-            "content": [
-                {
-                    "html": "<h1>Onboarding</h1>",
-                    "css": "main {background: #9D6CF0;}",
-                    "js": "console.log('This is JS for page Onboarding');"
-                }
-            ]
-        },
-        {
-            "id": "onboarding",
-            "tab": "administration_and_configuration",
-            "moduleId": "onboarding",
-            "label": "Onboarding",
-            "description": "This is a description for page Onboarding",
-            "containerId": "main-content",
-            "url": "",
-            "content": [
-                {
-                    "html": "<h1>Onboarding</h1>",
-                    "css": "main {background: #468E6D;}",
-                    "js": "console.log('This is JS for page Onboarding');"
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "id": "onboarding",
+        "moduleId": "onboarding",
+        "label": "Onboarding",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Onboarding</h1>",
+                "css": "main {background: #98EBFF;}",
+                "js": "console.log('This is JS for page Onboarding');"
+            }
+        ]
+    },
+    {
+        "id": "onboarding_hub",
+        "moduleId": "onboarding",
+        "label": "Onboarding hub",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Onboarding hub</h1>",
+                "css": "main {background: #55BBCA;}",
+                "js": "console.log('This is JS for page Onboarding hub');"
+            }
+        ]
+    },
+    {
+        "id": "onboarding_classic?",
+        "moduleId": "onboarding",
+        "label": "Onboarding classic?",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Onboarding classic?</h1>",
+                "css": "main {background: #BB9359;}",
+                "js": "console.log('This is JS for page Onboarding classic?');"
+            }
+        ]
+    },
+    {
+        "id": "process_hires",
+        "moduleId": "onboarding",
+        "label": "Process hires",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Process hires</h1>",
+                "css": "main {background: #542A80;}",
+                "js": "console.log('This is JS for page Process hires');"
+            }
+        ]
+    },
+    {
+        "id": "process_hires_settings",
+        "moduleId": "onboarding",
+        "label": "Process hires settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Process hires settings</h1>",
+                "css": "main {background: #3A91B3;}",
+                "js": "console.log('This is JS for page Process hires settings');"
+            }
+        ]
+    },
+    {
+        "id": "configurations",
+        "moduleId": "onboarding",
+        "label": "configurations",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>configurations</h1>",
+                "css": "main {background: #73F934;}",
+                "js": "console.log('This is JS for page configurations');"
+            }
+        ]
+    },
+    {
+        "id": "mapping",
+        "moduleId": "onboarding",
+        "label": "mapping",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>mapping</h1>",
+                "css": "main {background: #8C3E98;}",
+                "js": "console.log('This is JS for page mapping');"
+            }
+        ]
+    },
+    {
+        "id": "onboarding_work_queue",
+        "moduleId": "onboarding",
+        "label": "Onboarding work queue",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Onboarding work queue</h1>",
+                "css": "main {background: #612D6E;}",
+                "js": "console.log('This is JS for page Onboarding work queue');"
+            }
+        ]
+    }
+]

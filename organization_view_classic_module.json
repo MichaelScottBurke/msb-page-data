@@ -1,21 +1,16 @@
-{
-    "tab": "team",
-    "pages": [
-        {
-            "id": "organization_view_classic",
-            "tab": "team",
-            "moduleId": "organization_view_classic",
-            "label": "Organization view classic",
-            "description": "This is a description for page Organization view classic",
-            "containerId": "main-content",
-            "url": "",
-            "content": [
-                {
-                    "html": "<h1>Organization view classic</h1>",
-                    "css": "main {background: #263B23;}",
-                    "js": "console.log('This is JS for page Organization view classic');"
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "id": "organization_view_classic",
+        "moduleId": "organization_view_classic",
+        "label": "Organization view classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Organization view classic</h1>",
+                "css": "main {background: #1E6BEC;}",
+                "js": "console.log('This is JS for page Organization view classic');"
+            }
+        ]
+    }
+]

@@ -1,0 +1,5980 @@
+[
+    {
+        "id": "myself",
+        "moduleId": null,
+        "label": "Myself",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Myself</h1>",
+                "css": "main {background: #520DC5;}",
+                "js": "console.log('This is JS for page Myself');"
+            }
+        ]
+    },
+    {
+        "id": "profile",
+        "moduleId": "profile",
+        "label": "Profile",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Profile</h1>",
+                "css": "main {background: #7A0377;}",
+                "js": "console.log('This is JS for page Profile');"
+            }
+        ]
+    },
+    {
+        "id": "profile_hub",
+        "moduleId": "profile",
+        "label": "Profile hub",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Profile hub</h1>",
+                "css": "main {background: #0EB617;}",
+                "js": "console.log('This is JS for page Profile hub');"
+            }
+        ]
+    },
+    {
+        "id": "personal_profile",
+        "moduleId": "profile",
+        "label": "Personal profile",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Personal profile</h1>",
+                "css": "main {background: #1889CA;}",
+                "js": "console.log('This is JS for page Personal profile');"
+            }
+        ]
+    },
+    {
+        "id": "name_address_and_telephone",
+        "moduleId": "profile",
+        "label": "Name address and telephone",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Name address and telephone</h1>",
+                "css": "main {background: #865838;}",
+                "js": "console.log('This is JS for page Name address and telephone');"
+            }
+        ]
+    },
+    {
+        "id": "family_and_emergency_contacts",
+        "moduleId": "profile",
+        "label": "Family and emergency contacts",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Family and emergency contacts</h1>",
+                "css": "main {background: #B6FF3F;}",
+                "js": "console.log('This is JS for page Family and emergency contacts');"
+            }
+        ]
+    },
+    {
+        "id": "private_information",
+        "moduleId": "profile",
+        "label": "Private information",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Private information</h1>",
+                "css": "main {background: #B9480F;}",
+                "js": "console.log('This is JS for page Private information');"
+            }
+        ]
+    },
+    {
+        "id": "identification_documents",
+        "moduleId": "profile",
+        "label": "Identification documents",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Identification documents</h1>",
+                "css": "main {background: #BC88FA;}",
+                "js": "console.log('This is JS for page Identification documents');"
+            }
+        ]
+    },
+    {
+        "id": "other_personal_info",
+        "moduleId": "profile",
+        "label": "Other personal info",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Other personal info</h1>",
+                "css": "main {background: #85524E;}",
+                "js": "console.log('This is JS for page Other personal info');"
+            }
+        ]
+    },
+    {
+        "id": "job_profile",
+        "moduleId": "profile",
+        "label": "Job profile",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Job profile</h1>",
+                "css": "main {background: #27777F;}",
+                "js": "console.log('This is JS for page Job profile');"
+            }
+        ]
+    },
+    {
+        "id": "status_and_key_dates",
+        "moduleId": "profile",
+        "label": "Status and key dates",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Status and key dates</h1>",
+                "css": "main {background: #7DC8E1;}",
+                "js": "console.log('This is JS for page Status and key dates');"
+            }
+        ]
+    },
+    {
+        "id": "status_history",
+        "moduleId": "profile",
+        "label": "Status history",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Status history</h1>",
+                "css": "main {background: #419927;}",
+                "js": "console.log('This is JS for page Status history');"
+            }
+        ]
+    },
+    {
+        "id": "property",
+        "moduleId": "profile",
+        "label": "Property",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Property</h1>",
+                "css": "main {background: #9F568A;}",
+                "js": "console.log('This is JS for page Property');"
+            }
+        ]
+    },
+    {
+        "id": "talent_profile",
+        "moduleId": "profile",
+        "label": "Talent profile",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Talent profile</h1>",
+                "css": "main {background: #78B357;}",
+                "js": "console.log('This is JS for page Talent profile');"
+            }
+        ]
+    },
+    {
+        "id": "time_and_attendance_profile",
+        "moduleId": "profile",
+        "label": "Time and attendance profile",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time and attendance profile</h1>",
+                "css": "main {background: #EEC852;}",
+                "js": "console.log('This is JS for page Time and attendance profile');"
+            }
+        ]
+    },
+    {
+        "id": "pay",
+        "moduleId": "pay",
+        "label": "Pay",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Pay</h1>",
+                "css": "main {background: #A53C6B;}",
+                "js": "console.log('This is JS for page Pay');"
+            }
+        ]
+    },
+    {
+        "id": "pay_hub",
+        "moduleId": "pay",
+        "label": "Pay hub",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Pay hub</h1>",
+                "css": "main {background: #778184;}",
+                "js": "console.log('This is JS for page Pay hub');"
+            }
+        ]
+    },
+    {
+        "id": "current_pay_statement",
+        "moduleId": "pay",
+        "label": "Current pay statement",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Current pay statement</h1>",
+                "css": "main {background: #7B72A4;}",
+                "js": "console.log('This is JS for page Current pay statement');"
+            }
+        ]
+    },
+    {
+        "id": "pay_history",
+        "moduleId": "pay",
+        "label": "Pay history",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Pay history</h1>",
+                "css": "main {background: #4FB94C;}",
+                "js": "console.log('This is JS for page Pay history');"
+            }
+        ]
+    },
+    {
+        "id": "year-to-date_summary",
+        "moduleId": "pay",
+        "label": "Year-to-date summary",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Year-to-date summary</h1>",
+                "css": "main {background: #10290F;}",
+                "js": "console.log('This is JS for page Year-to-date summary');"
+            }
+        ]
+    },
+    {
+        "id": "total_compensation",
+        "moduleId": "pay",
+        "label": "Total compensation",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Total compensation</h1>",
+                "css": "main {background: #A6A93B;}",
+                "js": "console.log('This is JS for page Total compensation');"
+            }
+        ]
+    },
+    {
+        "id": "third_party_pay",
+        "moduleId": "pay",
+        "label": "Third party pay",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Third party pay</h1>",
+                "css": "main {background: #8CCEEA;}",
+                "js": "console.log('This is JS for page Third party pay');"
+            }
+        ]
+    },
+    {
+        "id": "direct_deposit",
+        "moduleId": "pay",
+        "label": "Direct deposit",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Direct deposit</h1>",
+                "css": "main {background: #84A3FA;}",
+                "js": "console.log('This is JS for page Direct deposit');"
+            }
+        ]
+    },
+    {
+        "id": "income_tax",
+        "moduleId": "pay",
+        "label": "Income tax",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Income tax</h1>",
+                "css": "main {background: #193FCB;}",
+                "js": "console.log('This is JS for page Income tax');"
+            }
+        ]
+    },
+    {
+        "id": "w-2",
+        "moduleId": "pay",
+        "label": "W-2",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>W-2</h1>",
+                "css": "main {background: #5CE3C1;}",
+                "js": "console.log('This is JS for page W-2');"
+            }
+        ]
+    },
+    {
+        "id": "model_my_pay",
+        "moduleId": "pay",
+        "label": "Model my pay",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Model my pay</h1>",
+                "css": "main {background: #6D7E41;}",
+                "js": "console.log('This is JS for page Model my pay');"
+            }
+        ]
+    },
+    {
+        "id": "giving",
+        "moduleId": "pay",
+        "label": "Giving",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Giving</h1>",
+                "css": "main {background: #4F58E2;}",
+                "js": "console.log('This is JS for page Giving');"
+            }
+        ]
+    },
+    {
+        "id": "time",
+        "moduleId": "time",
+        "label": "Time",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time</h1>",
+                "css": "main {background: #1E6A7F;}",
+                "js": "console.log('This is JS for page Time');"
+            }
+        ]
+    },
+    {
+        "id": "time_and_attendance_hub",
+        "moduleId": "time",
+        "label": "Time and attendance hub",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time and attendance hub</h1>",
+                "css": "main {background: #FE2F61;}",
+                "js": "console.log('This is JS for page Time and attendance hub');"
+            }
+        ]
+    },
+    {
+        "id": "schedule",
+        "moduleId": "time",
+        "label": "Schedule",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Schedule</h1>",
+                "css": "main {background: #54D259;}",
+                "js": "console.log('This is JS for page Schedule');"
+            }
+        ]
+    },
+    {
+        "id": "time_sheets",
+        "moduleId": "time",
+        "label": "Time sheets",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time sheets</h1>",
+                "css": "main {background: #BFC9D2;}",
+                "js": "console.log('This is JS for page Time sheets');"
+            }
+        ]
+    },
+    {
+        "id": "time_off",
+        "moduleId": "time",
+        "label": "Time off",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time off</h1>",
+                "css": "main {background: #43697E;}",
+                "js": "console.log('This is JS for page Time off');"
+            }
+        ]
+    },
+    {
+        "id": "time_management_classic",
+        "moduleId": "time",
+        "label": "Time management classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time management classic</h1>",
+                "css": "main {background: #54A1F5;}",
+                "js": "console.log('This is JS for page Time management classic');"
+            }
+        ]
+    },
+    {
+        "id": "time_clock_entry_classic",
+        "moduleId": "time",
+        "label": "Time clock entry classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time clock entry classic</h1>",
+                "css": "main {background: #2BD49A;}",
+                "js": "console.log('This is JS for page Time clock entry classic');"
+            }
+        ]
+    },
+    {
+        "id": "paid_time_off_classic",
+        "moduleId": "time",
+        "label": "Paid time off classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Paid time off classic</h1>",
+                "css": "main {background: #BC8D7C;}",
+                "js": "console.log('This is JS for page Paid time off classic');"
+            }
+        ]
+    },
+    {
+        "id": "time_off_plans",
+        "moduleId": "time",
+        "label": "Time off plans",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time off plans</h1>",
+                "css": "main {background: #102705;}",
+                "js": "console.log('This is JS for page Time off plans');"
+            }
+        ]
+    },
+    {
+        "id": "time_off_requests",
+        "moduleId": "time",
+        "label": "Time off requests",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time off requests</h1>",
+                "css": "main {background: #2421DF;}",
+                "js": "console.log('This is JS for page Time off requests');"
+            }
+        ]
+    },
+    {
+        "id": "benefits",
+        "moduleId": "benefits",
+        "label": "Benefits",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Benefits</h1>",
+                "css": "main {background: #561793;}",
+                "js": "console.log('This is JS for page Benefits');"
+            }
+        ]
+    },
+    {
+        "id": "benefits_hub",
+        "moduleId": "benefits",
+        "label": "Benefits hub",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Benefits hub</h1>",
+                "css": "main {background: #F86B5A;}",
+                "js": "console.log('This is JS for page Benefits hub');"
+            }
+        ]
+    },
+    {
+        "id": "open_enrollment",
+        "moduleId": "benefits",
+        "label": "Open enrollment",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Open enrollment</h1>",
+                "css": "main {background: #27B928;}",
+                "js": "console.log('This is JS for page Open enrollment');"
+            }
+        ]
+    },
+    {
+        "id": "life_events",
+        "moduleId": "benefits",
+        "label": "Life events",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Life events</h1>",
+                "css": "main {background: #980352;}",
+                "js": "console.log('This is JS for page Life events');"
+            }
+        ]
+    },
+    {
+        "id": "1095-c",
+        "moduleId": "benefits",
+        "label": "1095-C",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>1095-C</h1>",
+                "css": "main {background: #0F5EAC;}",
+                "js": "console.log('This is JS for page 1095-C');"
+            }
+        ]
+    },
+    {
+        "id": "beneficiaries_and_dependents",
+        "moduleId": "benefits",
+        "label": "Beneficiaries and dependents",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Beneficiaries and dependents</h1>",
+                "css": "main {background: #AF8D13;}",
+                "js": "console.log('This is JS for page Beneficiaries and dependents');"
+            }
+        ]
+    },
+    {
+        "id": "benefits_summary",
+        "moduleId": "benefits",
+        "label": "Benefits summary",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Benefits summary</h1>",
+                "css": "main {background: #FC791E;}",
+                "js": "console.log('This is JS for page Benefits summary');"
+            }
+        ]
+    },
+    {
+        "id": "cobra",
+        "moduleId": "benefits",
+        "label": "COBRA",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>COBRA</h1>",
+                "css": "main {background: #524D8A;}",
+                "js": "console.log('This is JS for page COBRA');"
+            }
+        ]
+    },
+    {
+        "id": "healthcare_eligibility",
+        "moduleId": "benefits",
+        "label": "Healthcare eligibility",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Healthcare eligibility</h1>",
+                "css": "main {background: #E7FBE2;}",
+                "js": "console.log('This is JS for page Healthcare eligibility');"
+            }
+        ]
+    },
+    {
+        "id": "investments",
+        "moduleId": "benefits",
+        "label": "Investments",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Investments</h1>",
+                "css": "main {background: #04BB9C;}",
+                "js": "console.log('This is JS for page Investments');"
+            }
+        ]
+    },
+    {
+        "id": "benefit_links",
+        "moduleId": "benefits",
+        "label": "Benefit links",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Benefit links</h1>",
+                "css": "main {background: #BB03CF;}",
+                "js": "console.log('This is JS for page Benefit links');"
+            }
+        ]
+    },
+    {
+        "id": "career_and_development",
+        "moduleId": "career_and_development",
+        "label": "Career and development",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Career and development</h1>",
+                "css": "main {background: #3FDD2B;}",
+                "js": "console.log('This is JS for page Career and development');"
+            }
+        ]
+    },
+    {
+        "id": "career_and_development_hub",
+        "moduleId": "career_and_development",
+        "label": "Career and development hub",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Career and development hub</h1>",
+                "css": "main {background: #C6D8CE;}",
+                "js": "console.log('This is JS for page Career and development hub');"
+            }
+        ]
+    },
+    {
+        "id": "career_builder",
+        "moduleId": "career_and_development",
+        "label": "Career builder",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Career builder</h1>",
+                "css": "main {background: #ED8DC1;}",
+                "js": "console.log('This is JS for page Career builder');"
+            }
+        ]
+    },
+    {
+        "id": "onboarding",
+        "moduleId": "career_and_development",
+        "label": "Onboarding",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Onboarding</h1>",
+                "css": "main {background: #5B1B34;}",
+                "js": "console.log('This is JS for page Onboarding');"
+            }
+        ]
+    },
+    {
+        "id": "jobs",
+        "moduleId": "career_and_development",
+        "label": "Jobs",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Jobs</h1>",
+                "css": "main {background: #38E112;}",
+                "js": "console.log('This is JS for page Jobs');"
+            }
+        ]
+    },
+    {
+        "id": "job_profile",
+        "moduleId": "career_and_development",
+        "label": "Job profile",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Job profile</h1>",
+                "css": "main {background: #886D58;}",
+                "js": "console.log('This is JS for page Job profile');"
+            }
+        ]
+    },
+    {
+        "id": "compensation",
+        "moduleId": "career_and_development",
+        "label": "Compensation",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Compensation</h1>",
+                "css": "main {background: #329303;}",
+                "js": "console.log('This is JS for page Compensation');"
+            }
+        ]
+    },
+    {
+        "id": "variable_pay",
+        "moduleId": "career_and_development",
+        "label": "Variable pay",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Variable pay</h1>",
+                "css": "main {background: #E4EBA1;}",
+                "js": "console.log('This is JS for page Variable pay');"
+            }
+        ]
+    },
+    {
+        "id": "job_history",
+        "moduleId": "career_and_development",
+        "label": "Job history",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Job history</h1>",
+                "css": "main {background: #F01046;}",
+                "js": "console.log('This is JS for page Job history');"
+            }
+        ]
+    },
+    {
+        "id": "secondary_job_history",
+        "moduleId": "career_and_development",
+        "label": "Secondary job history",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Secondary job history</h1>",
+                "css": "main {background: #3BC23C;}",
+                "js": "console.log('This is JS for page Secondary job history');"
+            }
+        ]
+    },
+    {
+        "id": "performance_reviews",
+        "moduleId": "career_and_development",
+        "label": "Performance reviews",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Performance reviews</h1>",
+                "css": "main {background: #954FB6;}",
+                "js": "console.log('This is JS for page Performance reviews');"
+            }
+        ]
+    },
+    {
+        "id": "goals",
+        "moduleId": "career_and_development",
+        "label": "Goals",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Goals</h1>",
+                "css": "main {background: #C2482C;}",
+                "js": "console.log('This is JS for page Goals');"
+            }
+        ]
+    },
+    {
+        "id": "goal_planning",
+        "moduleId": "career_and_development",
+        "label": "Goal planning",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Goal planning</h1>",
+                "css": "main {background: #2C9547;}",
+                "js": "console.log('This is JS for page Goal planning');"
+            }
+        ]
+    },
+    {
+        "id": "competencies",
+        "moduleId": "career_and_development",
+        "label": "Competencies",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Competencies</h1>",
+                "css": "main {background: #AF986B;}",
+                "js": "console.log('This is JS for page Competencies');"
+            }
+        ]
+    },
+    {
+        "id": "personal_development",
+        "moduleId": "career_and_development",
+        "label": "Personal development",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Personal development</h1>",
+                "css": "main {background: #2EA6A4;}",
+                "js": "console.log('This is JS for page Personal development');"
+            }
+        ]
+    },
+    {
+        "id": "talent_profile",
+        "moduleId": "career_and_development",
+        "label": "Talent profile",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Talent profile</h1>",
+                "css": "main {background: #7764DF;}",
+                "js": "console.log('This is JS for page Talent profile');"
+            }
+        ]
+    },
+    {
+        "id": "qualifications",
+        "moduleId": "career_and_development",
+        "label": "Qualifications",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Qualifications</h1>",
+                "css": "main {background: #07D84C;}",
+                "js": "console.log('This is JS for page Qualifications');"
+            }
+        ]
+    },
+    {
+        "id": "licenses",
+        "moduleId": "career_and_development",
+        "label": "Licenses",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Licenses</h1>",
+                "css": "main {background: #279B1B;}",
+                "js": "console.log('This is JS for page Licenses');"
+            }
+        ]
+    },
+    {
+        "id": "skills",
+        "moduleId": "career_and_development",
+        "label": "Skills",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Skills</h1>",
+                "css": "main {background: #E297CE;}",
+                "js": "console.log('This is JS for page Skills');"
+            }
+        ]
+    },
+    {
+        "id": "tests",
+        "moduleId": "career_and_development",
+        "label": "Tests",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Tests</h1>",
+                "css": "main {background: #907EDC;}",
+                "js": "console.log('This is JS for page Tests');"
+            }
+        ]
+    },
+    {
+        "id": "previous_employment",
+        "moduleId": "career_and_development",
+        "label": "Previous employment",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Previous employment</h1>",
+                "css": "main {background: #249B49;}",
+                "js": "console.log('This is JS for page Previous employment');"
+            }
+        ]
+    },
+    {
+        "id": "awards",
+        "moduleId": "career_and_development",
+        "label": "Awards",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Awards</h1>",
+                "css": "main {background: #CAE98C;}",
+                "js": "console.log('This is JS for page Awards');"
+            }
+        ]
+    },
+    {
+        "id": "education",
+        "moduleId": "career_and_development",
+        "label": "Education",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Education</h1>",
+                "css": "main {background: #DAF808;}",
+                "js": "console.log('This is JS for page Education');"
+            }
+        ]
+    },
+    {
+        "id": "relocation_preferences",
+        "moduleId": "career_and_development",
+        "label": "Relocation preferences",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Relocation preferences</h1>",
+                "css": "main {background: #F8E3A4;}",
+                "js": "console.log('This is JS for page Relocation preferences');"
+            }
+        ]
+    },
+    {
+        "id": "learning_development_classic",
+        "moduleId": "career_and_development",
+        "label": "Learning development classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Learning development classic</h1>",
+                "css": "main {background: #867BCF;}",
+                "js": "console.log('This is JS for page Learning development classic');"
+            }
+        ]
+    },
+    {
+        "id": "available_learning",
+        "moduleId": "career_and_development",
+        "label": "Available learning",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Available learning</h1>",
+                "css": "main {background: #921829;}",
+                "js": "console.log('This is JS for page Available learning');"
+            }
+        ]
+    },
+    {
+        "id": "completed_learning",
+        "moduleId": "career_and_development",
+        "label": "Completed learning",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Completed learning</h1>",
+                "css": "main {background: #F6EACB;}",
+                "js": "console.log('This is JS for page Completed learning');"
+            }
+        ]
+    },
+    {
+        "id": "current_learning",
+        "moduleId": "career_and_development",
+        "label": "Current learning",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Current learning</h1>",
+                "css": "main {background: #B5B451;}",
+                "js": "console.log('This is JS for page Current learning');"
+            }
+        ]
+    },
+    {
+        "id": "training_classic",
+        "moduleId": "career_and_development",
+        "label": "Training classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Training classic</h1>",
+                "css": "main {background: #40E7D5;}",
+                "js": "console.log('This is JS for page Training classic');"
+            }
+        ]
+    },
+    {
+        "id": "current_enrollments",
+        "moduleId": "career_and_development",
+        "label": "Current enrollments",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Current enrollments</h1>",
+                "css": "main {background: #BE2E2F;}",
+                "js": "console.log('This is JS for page Current enrollments');"
+            }
+        ]
+    },
+    {
+        "id": "required_training",
+        "moduleId": "career_and_development",
+        "label": "Required training",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Required training</h1>",
+                "css": "main {background: #4E7939;}",
+                "js": "console.log('This is JS for page Required training');"
+            }
+        ]
+    },
+    {
+        "id": "training_history",
+        "moduleId": "career_and_development",
+        "label": "Training history",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Training history</h1>",
+                "css": "main {background: #3BD1E5;}",
+                "js": "console.log('This is JS for page Training history');"
+            }
+        ]
+    },
+    {
+        "id": "documents",
+        "moduleId": "documents",
+        "label": "Documents",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Documents</h1>",
+                "css": "main {background: #ECBBFE;}",
+                "js": "console.log('This is JS for page Documents');"
+            }
+        ]
+    },
+    {
+        "id": "documents_hub",
+        "moduleId": "documents",
+        "label": "Documents hub",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Documents hub</h1>",
+                "css": "main {background: #823448;}",
+                "js": "console.log('This is JS for page Documents hub');"
+            }
+        ]
+    },
+    {
+        "id": "document_acknowledgments",
+        "moduleId": "documents",
+        "label": "Document acknowledgments",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Document acknowledgments</h1>",
+                "css": "main {background: #DA129B;}",
+                "js": "console.log('This is JS for page Document acknowledgments');"
+            }
+        ]
+    },
+    {
+        "id": "employee_documents",
+        "moduleId": "documents",
+        "label": "Employee documents",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Employee documents</h1>",
+                "css": "main {background: #49B292;}",
+                "js": "console.log('This is JS for page Employee documents');"
+            }
+        ]
+    },
+    {
+        "id": "electronic_forms",
+        "moduleId": "documents",
+        "label": "Electronic forms",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Electronic forms</h1>",
+                "css": "main {background: #9D09A3;}",
+                "js": "console.log('This is JS for page Electronic forms');"
+            }
+        ]
+    },
+    {
+        "id": "company",
+        "moduleId": "company",
+        "label": "Company",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Company</h1>",
+                "css": "main {background: #9D7ACB;}",
+                "js": "console.log('This is JS for page Company');"
+            }
+        ]
+    },
+    {
+        "id": "news_and_information",
+        "moduleId": "company",
+        "label": "News and information",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>News and information</h1>",
+                "css": "main {background: #3C15D8;}",
+                "js": "console.log('This is JS for page News and information');"
+            }
+        ]
+    },
+    {
+        "id": "company_info",
+        "moduleId": "company",
+        "label": "Company info",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Company info</h1>",
+                "css": "main {background: #85820C;}",
+                "js": "console.log('This is JS for page Company info');"
+            }
+        ]
+    },
+    {
+        "id": "employee_directory",
+        "moduleId": "company",
+        "label": "Employee directory",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Employee directory</h1>",
+                "css": "main {background: #0EF7C4;}",
+                "js": "console.log('This is JS for page Employee directory');"
+            }
+        ]
+    },
+    {
+        "id": "organization_chart",
+        "moduleId": "company",
+        "label": "Organization chart",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Organization chart</h1>",
+                "css": "main {background: #CB7049;}",
+                "js": "console.log('This is JS for page Organization chart');"
+            }
+        ]
+    },
+    {
+        "id": "view_opportunities",
+        "moduleId": "company",
+        "label": "View opportunities",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>View opportunities</h1>",
+                "css": "main {background: #FF2065;}",
+                "js": "console.log('This is JS for page View opportunities');"
+            }
+        ]
+    },
+    {
+        "id": "job_openings",
+        "moduleId": "company",
+        "label": "Job openings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Job openings</h1>",
+                "css": "main {background: #4A6C2B;}",
+                "js": "console.log('This is JS for page Job openings');"
+            }
+        ]
+    },
+    {
+        "id": "training_schedule",
+        "moduleId": "company",
+        "label": "Training schedule",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Training schedule</h1>",
+                "css": "main {background: #07193E;}",
+                "js": "console.log('This is JS for page Training schedule');"
+            }
+        ]
+    },
+    {
+        "id": "ukg.com",
+        "moduleId": "company",
+        "label": "UKG.com",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>UKG.com</h1>",
+                "css": "main {background: #DA9F7B;}",
+                "js": "console.log('This is JS for page UKG.com');"
+            }
+        ]
+    },
+    {
+        "id": "workforce_continuity",
+        "moduleId": "company",
+        "label": "Workforce Continuity",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Workforce Continuity</h1>",
+                "css": "main {background: #7AAD44;}",
+                "js": "console.log('This is JS for page Workforce Continuity');"
+            }
+        ]
+    },
+    {
+        "id": "team",
+        "moduleId": null,
+        "label": "Team",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Team</h1>",
+                "css": "main {background: #1F962E;}",
+                "js": "console.log('This is JS for page Team');"
+            }
+        ]
+    },
+    {
+        "id": "team_hub",
+        "moduleId": "team_hub",
+        "label": "Team hub",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Team hub</h1>",
+                "css": "main {background: #7184C0;}",
+                "js": "console.log('This is JS for page Team hub');"
+            }
+        ]
+    },
+    {
+        "id": "my_people",
+        "moduleId": "my_people",
+        "label": "My people",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>My people</h1>",
+                "css": "main {background: #A3CC92;}",
+                "js": "console.log('This is JS for page My people');"
+            }
+        ]
+    },
+    {
+        "id": "employee_contracts",
+        "moduleId": "employee_contracts",
+        "label": "Employee contracts",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Employee contracts</h1>",
+                "css": "main {background: #EDCAD9;}",
+                "js": "console.log('This is JS for page Employee contracts');"
+            }
+        ]
+    },
+    {
+        "id": "employee_relations",
+        "moduleId": "employee_relations",
+        "label": "Employee Relations",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Employee Relations</h1>",
+                "css": "main {background: #2589D2;}",
+                "js": "console.log('This is JS for page Employee Relations');"
+            }
+        ]
+    },
+    {
+        "id": "disciplinary_actions",
+        "moduleId": "employee_relations",
+        "label": "Disciplinary Actions",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Disciplinary Actions</h1>",
+                "css": "main {background: #64355D;}",
+                "js": "console.log('This is JS for page Disciplinary Actions');"
+            }
+        ]
+    },
+    {
+        "id": "grievances",
+        "moduleId": "employee_relations",
+        "label": "Grievances",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Grievances</h1>",
+                "css": "main {background: #231F57;}",
+                "js": "console.log('This is JS for page Grievances');"
+            }
+        ]
+    },
+    {
+        "id": "organization_chart",
+        "moduleId": "organization_chart",
+        "label": "Organization chart",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Organization chart</h1>",
+                "css": "main {background: #003E17;}",
+                "js": "console.log('This is JS for page Organization chart');"
+            }
+        ]
+    },
+    {
+        "id": "organization_view_classic",
+        "moduleId": "organization_view_classic",
+        "label": "Organization view classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Organization view classic</h1>",
+                "css": "main {background: #1E6BEC;}",
+                "js": "console.log('This is JS for page Organization view classic');"
+            }
+        ]
+    },
+    {
+        "id": "compensation_management",
+        "moduleId": "compensation_management",
+        "label": "Compensation management",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Compensation management</h1>",
+                "css": "main {background: #BC3C56;}",
+                "js": "console.log('This is JS for page Compensation management');"
+            }
+        ]
+    },
+    {
+        "id": "compensation_management_hub",
+        "moduleId": "compensation_management",
+        "label": "Compensation management hub",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Compensation management hub</h1>",
+                "css": "main {background: #9FF0AC;}",
+                "js": "console.log('This is JS for page Compensation management hub');"
+            }
+        ]
+    },
+    {
+        "id": "compensation_summary",
+        "moduleId": "compensation_management",
+        "label": "Compensation Summary",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Compensation Summary</h1>",
+                "css": "main {background: #3B2D0D;}",
+                "js": "console.log('This is JS for page Compensation Summary');"
+            }
+        ]
+    },
+    {
+        "id": "salary_planning_classic",
+        "moduleId": "compensation_management",
+        "label": "Salary Planning classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Salary Planning classic</h1>",
+                "css": "main {background: #B41875;}",
+                "js": "console.log('This is JS for page Salary Planning classic');"
+            }
+        ]
+    },
+    {
+        "id": "benefits_management",
+        "moduleId": "benefits_management",
+        "label": "Benefits management",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Benefits management</h1>",
+                "css": "main {background: #996ED6;}",
+                "js": "console.log('This is JS for page Benefits management');"
+            }
+        ]
+    },
+    {
+        "id": "health_care_eligibility",
+        "moduleId": "benefits_management",
+        "label": "Health Care Eligibility",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Health Care Eligibility</h1>",
+                "css": "main {background: #63146D;}",
+                "js": "console.log('This is JS for page Health Care Eligibility');"
+            }
+        ]
+    },
+    {
+        "id": "health_care_eligibility_summary",
+        "moduleId": "benefits_management",
+        "label": "Health Care Eligibility Summary",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Health Care Eligibility Summary</h1>",
+                "css": "main {background: #740080;}",
+                "js": "console.log('This is JS for page Health Care Eligibility Summary');"
+            }
+        ]
+    },
+    {
+        "id": "health_care_measurement_groups",
+        "moduleId": "benefits_management",
+        "label": "Health Care Measurement Groups",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Health Care Measurement Groups</h1>",
+                "css": "main {background: #6C38D6;}",
+                "js": "console.log('This is JS for page Health Care Measurement Groups');"
+            }
+        ]
+    },
+    {
+        "id": "safety_and_compliance",
+        "moduleId": "safety_and_compliance",
+        "label": "Safety and Compliance",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Safety and Compliance</h1>",
+                "css": "main {background: #1F53DF;}",
+                "js": "console.log('This is JS for page Safety and Compliance');"
+            }
+        ]
+    },
+    {
+        "id": "osha_tracking",
+        "moduleId": "safety_and_compliance",
+        "label": "OSHA tracking",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>OSHA tracking</h1>",
+                "css": "main {background: #4CBB15;}",
+                "js": "console.log('This is JS for page OSHA tracking');"
+            }
+        ]
+    },
+    {
+        "id": "onboarding",
+        "moduleId": "onboarding",
+        "label": "Onboarding",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Onboarding</h1>",
+                "css": "main {background: #124B9D;}",
+                "js": "console.log('This is JS for page Onboarding');"
+            }
+        ]
+    },
+    {
+        "id": "process_hires",
+        "moduleId": "onboarding",
+        "label": "Process Hires",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Process Hires</h1>",
+                "css": "main {background: #8A46A4;}",
+                "js": "console.log('This is JS for page Process Hires');"
+            }
+        ]
+    },
+    {
+        "id": "work_queue",
+        "moduleId": "onboarding",
+        "label": "Work Queue",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Work Queue</h1>",
+                "css": "main {background: #2BBB8D;}",
+                "js": "console.log('This is JS for page Work Queue');"
+            }
+        ]
+    },
+    {
+        "id": "payroll_management",
+        "moduleId": "payroll_management",
+        "label": "Payroll management",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Payroll management</h1>",
+                "css": "main {background: #839490;}",
+                "js": "console.log('This is JS for page Payroll management');"
+            }
+        ]
+    },
+    {
+        "id": "third_party_pay",
+        "moduleId": "payroll_management",
+        "label": "Third Party Pay",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Third Party Pay</h1>",
+                "css": "main {background: #8F5015;}",
+                "js": "console.log('This is JS for page Third Party Pay');"
+            }
+        ]
+    },
+    {
+        "id": "time_and_attendance_managment",
+        "moduleId": "time_and_attendance_managment",
+        "label": "Time and attendance managment",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time and attendance managment</h1>",
+                "css": "main {background: #4C3CFA;}",
+                "js": "console.log('This is JS for page Time and attendance managment');"
+            }
+        ]
+    },
+    {
+        "id": "team_schedule",
+        "moduleId": "time_and_attendance_managment",
+        "label": "Team schedule",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Team schedule</h1>",
+                "css": "main {background: #203395;}",
+                "js": "console.log('This is JS for page Team schedule');"
+            }
+        ]
+    },
+    {
+        "id": "leave_management",
+        "moduleId": "time_and_attendance_managment",
+        "label": "Leave management",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Leave management</h1>",
+                "css": "main {background: #EEB8AB;}",
+                "js": "console.log('This is JS for page Leave management');"
+            }
+        ]
+    },
+    {
+        "id": "time_off_requests_classic",
+        "moduleId": "time_and_attendance_managment",
+        "label": "Time off requests classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time off requests classic</h1>",
+                "css": "main {background: #09E9E8;}",
+                "js": "console.log('This is JS for page Time off requests classic');"
+            }
+        ]
+    },
+    {
+        "id": "time_and_attendance_classic",
+        "moduleId": "time_and_attendance_managment",
+        "label": "Time and Attendance classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time and Attendance classic</h1>",
+                "css": "main {background: #D2FFCF;}",
+                "js": "console.log('This is JS for page Time and Attendance classic');"
+            }
+        ]
+    },
+    {
+        "id": "time_management_classic",
+        "moduleId": "time_and_attendance_managment",
+        "label": "Time Management classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time Management classic</h1>",
+                "css": "main {background: #175074;}",
+                "js": "console.log('This is JS for page Time Management classic');"
+            }
+        ]
+    },
+    {
+        "id": "talent_management",
+        "moduleId": "talent_management",
+        "label": "Talent Management",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Talent Management</h1>",
+                "css": "main {background: #194642;}",
+                "js": "console.log('This is JS for page Talent Management');"
+            }
+        ]
+    },
+    {
+        "id": "talent_hub",
+        "moduleId": "talent_management",
+        "label": "Talent hub",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Talent hub</h1>",
+                "css": "main {background: #C017F4;}",
+                "js": "console.log('This is JS for page Talent hub');"
+            }
+        ]
+    },
+    {
+        "id": "goal_management",
+        "moduleId": "talent_management",
+        "label": "Goal management",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Goal management</h1>",
+                "css": "main {background: #2D6826;}",
+                "js": "console.log('This is JS for page Goal management');"
+            }
+        ]
+    },
+    {
+        "id": "goal_planning",
+        "moduleId": "talent_management",
+        "label": "Goal planning",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Goal planning</h1>",
+                "css": "main {background: #C93D65;}",
+                "js": "console.log('This is JS for page Goal planning');"
+            }
+        ]
+    },
+    {
+        "id": "assignable_goals",
+        "moduleId": "talent_management",
+        "label": "Assignable goals",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Assignable goals</h1>",
+                "css": "main {background: #C90417;}",
+                "js": "console.log('This is JS for page Assignable goals');"
+            }
+        ]
+    },
+    {
+        "id": "team_goals",
+        "moduleId": "talent_management",
+        "label": "Team goals",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Team goals</h1>",
+                "css": "main {background: #050516;}",
+                "js": "console.log('This is JS for page Team goals');"
+            }
+        ]
+    },
+    {
+        "id": "goal_recommendations",
+        "moduleId": "talent_management",
+        "label": "Goal recommendations",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Goal recommendations</h1>",
+                "css": "main {background: #2A59D2;}",
+                "js": "console.log('This is JS for page Goal recommendations');"
+            }
+        ]
+    },
+    {
+        "id": "development_opportunities",
+        "moduleId": "talent_management",
+        "label": "Development Opportunities",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Development Opportunities</h1>",
+                "css": "main {background: #883EB2;}",
+                "js": "console.log('This is JS for page Development Opportunities');"
+            }
+        ]
+    },
+    {
+        "id": "succession_plans",
+        "moduleId": "talent_management",
+        "label": "Succession Plans",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Succession Plans</h1>",
+                "css": "main {background: #BCE01F;}",
+                "js": "console.log('This is JS for page Succession Plans');"
+            }
+        ]
+    },
+    {
+        "id": "team_competencies",
+        "moduleId": "talent_management",
+        "label": "Team Competencies",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Team Competencies</h1>",
+                "css": "main {background: #297D96;}",
+                "js": "console.log('This is JS for page Team Competencies');"
+            }
+        ]
+    },
+    {
+        "id": "workforce_continuity",
+        "moduleId": "workforce_continuity",
+        "label": "Workforce Continuity",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Workforce Continuity</h1>",
+                "css": "main {background: #2CF111;}",
+                "js": "console.log('This is JS for page Workforce Continuity');"
+            }
+        ]
+    },
+    {
+        "id": "manager_guide",
+        "moduleId": "manager_guide",
+        "label": "Manager Guide",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Manager Guide</h1>",
+                "css": "main {background: #7AB1E7;}",
+                "js": "console.log('This is JS for page Manager Guide');"
+            }
+        ]
+    },
+    {
+        "id": "administration_and_configuration",
+        "moduleId": null,
+        "label": "Administration and configuration",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Administration and configuration</h1>",
+                "css": "main {background: #95CB67;}",
+                "js": "console.log('This is JS for page Administration and configuration');"
+            }
+        ]
+    },
+    {
+        "id": "people_admin",
+        "moduleId": "people_admin",
+        "label": "People admin",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>People admin</h1>",
+                "css": "main {background: #CBD27B;}",
+                "js": "console.log('This is JS for page People admin');"
+            }
+        ]
+    },
+    {
+        "id": "people_hub",
+        "moduleId": "people_admin",
+        "label": "People hub",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>People hub</h1>",
+                "css": "main {background: #CA5E48;}",
+                "js": "console.log('This is JS for page People hub');"
+            }
+        ]
+    },
+    {
+        "id": "people",
+        "moduleId": "people_admin",
+        "label": "People",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>People</h1>",
+                "css": "main {background: #251D44;}",
+                "js": "console.log('This is JS for page People');"
+            }
+        ]
+    },
+    {
+        "id": "employee_contracts",
+        "moduleId": "people_admin",
+        "label": "Employee contracts",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Employee contracts</h1>",
+                "css": "main {background: #2AFD15;}",
+                "js": "console.log('This is JS for page Employee contracts');"
+            }
+        ]
+    },
+    {
+        "id": "employee_relations",
+        "moduleId": "people_admin",
+        "label": "Employee relations",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Employee relations</h1>",
+                "css": "main {background: #DFA34D;}",
+                "js": "console.log('This is JS for page Employee relations');"
+            }
+        ]
+    },
+    {
+        "id": "disciplinary_actions",
+        "moduleId": "people_admin",
+        "label": "Disciplinary Actions",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Disciplinary Actions</h1>",
+                "css": "main {background: #97FEDA;}",
+                "js": "console.log('This is JS for page Disciplinary Actions');"
+            }
+        ]
+    },
+    {
+        "id": "grievances",
+        "moduleId": "people_admin",
+        "label": "Grievances",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Grievances</h1>",
+                "css": "main {background: #152399;}",
+                "js": "console.log('This is JS for page Grievances');"
+            }
+        ]
+    },
+    {
+        "id": "great_places_to_work",
+        "moduleId": "people_admin",
+        "label": "Great Places to Work",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Great Places to Work</h1>",
+                "css": "main {background: #77FFC8;}",
+                "js": "console.log('This is JS for page Great Places to Work');"
+            }
+        ]
+    },
+    {
+        "id": "mass_updates",
+        "moduleId": "people_admin",
+        "label": "Mass updates",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Mass updates</h1>",
+                "css": "main {background: #4DF1BD;}",
+                "js": "console.log('This is JS for page Mass updates');"
+            }
+        ]
+    },
+    {
+        "id": "people_settings",
+        "moduleId": "people_admin",
+        "label": "People settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>People settings</h1>",
+                "css": "main {background: #7967A5;}",
+                "js": "console.log('This is JS for page People settings');"
+            }
+        ]
+    },
+    {
+        "id": "employee_settings",
+        "moduleId": "people_admin",
+        "label": "Employee settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Employee settings</h1>",
+                "css": "main {background: #15DF8C;}",
+                "js": "console.log('This is JS for page Employee settings');"
+            }
+        ]
+    },
+    {
+        "id": "organization_chart_settings",
+        "moduleId": "people_admin",
+        "label": "Organization chart settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Organization chart settings</h1>",
+                "css": "main {background: #9BD68E;}",
+                "js": "console.log('This is JS for page Organization chart settings');"
+            }
+        ]
+    },
+    {
+        "id": "application_settings",
+        "moduleId": "application_settings",
+        "label": "Application settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Application settings</h1>",
+                "css": "main {background: #414413;}",
+                "js": "console.log('This is JS for page Application settings');"
+            }
+        ]
+    },
+    {
+        "id": "settings_hub",
+        "moduleId": "application_settings",
+        "label": "Settings hub",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Settings hub</h1>",
+                "css": "main {background: #B22307;}",
+                "js": "console.log('This is JS for page Settings hub');"
+            }
+        ]
+    },
+    {
+        "id": "additional_address_settings",
+        "moduleId": "application_settings",
+        "label": "Additional address settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Additional address settings</h1>",
+                "css": "main {background: #35B531;}",
+                "js": "console.log('This is JS for page Additional address settings');"
+            }
+        ]
+    },
+    {
+        "id": "employee_settings",
+        "moduleId": "application_settings",
+        "label": "Employee settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Employee settings</h1>",
+                "css": "main {background: #CE45E4;}",
+                "js": "console.log('This is JS for page Employee settings');"
+            }
+        ]
+    },
+    {
+        "id": "display_settings",
+        "moduleId": "application_settings",
+        "label": "Display settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Display settings</h1>",
+                "css": "main {background: #33F82A;}",
+                "js": "console.log('This is JS for page Display settings');"
+            }
+        ]
+    },
+    {
+        "id": "theming:_color_and_logo",
+        "moduleId": "application_settings",
+        "label": "Theming: color and logo",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Theming: color and logo</h1>",
+                "css": "main {background: #3A8418;}",
+                "js": "console.log('This is JS for page Theming: color and logo');"
+            }
+        ]
+    },
+    {
+        "id": "reporting",
+        "moduleId": "application_settings",
+        "label": "Reporting",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Reporting</h1>",
+                "css": "main {background: #1A00A4;}",
+                "js": "console.log('This is JS for page Reporting');"
+            }
+        ]
+    },
+    {
+        "id": "auditing",
+        "moduleId": "application_settings",
+        "label": "Auditing",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Auditing</h1>",
+                "css": "main {background: #43C749;}",
+                "js": "console.log('This is JS for page Auditing');"
+            }
+        ]
+    },
+    {
+        "id": "compensation_settings",
+        "moduleId": "application_settings",
+        "label": "Compensation settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Compensation settings</h1>",
+                "css": "main {background: #88308D;}",
+                "js": "console.log('This is JS for page Compensation settings');"
+            }
+        ]
+    },
+    {
+        "id": "pto_settings",
+        "moduleId": "application_settings",
+        "label": "PTO settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>PTO settings</h1>",
+                "css": "main {background: #C1DB7C;}",
+                "js": "console.log('This is JS for page PTO settings');"
+            }
+        ]
+    },
+    {
+        "id": "year-end_settings",
+        "moduleId": "application_settings",
+        "label": "Year-end settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Year-end settings</h1>",
+                "css": "main {background: #E453B2;}",
+                "js": "console.log('This is JS for page Year-end settings');"
+            }
+        ]
+    },
+    {
+        "id": "ppaca_reporting_settings",
+        "moduleId": "application_settings",
+        "label": "PPACA reporting settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>PPACA reporting settings</h1>",
+                "css": "main {background: #8949C0;}",
+                "js": "console.log('This is JS for page PPACA reporting settings');"
+            }
+        ]
+    },
+    {
+        "id": "organization_chart",
+        "moduleId": "application_settings",
+        "label": "Organization chart",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Organization chart</h1>",
+                "css": "main {background: #FF0EED;}",
+                "js": "console.log('This is JS for page Organization chart');"
+            }
+        ]
+    },
+    {
+        "id": "payroll_settings",
+        "moduleId": "application_settings",
+        "label": "Payroll settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Payroll settings</h1>",
+                "css": "main {background: #C8BC28;}",
+                "js": "console.log('This is JS for page Payroll settings');"
+            }
+        ]
+    },
+    {
+        "id": "predictive_analytics_settings",
+        "moduleId": "application_settings",
+        "label": "Predictive analytics settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Predictive analytics settings</h1>",
+                "css": "main {background: #A32458;}",
+                "js": "console.log('This is JS for page Predictive analytics settings');"
+            }
+        ]
+    },
+    {
+        "id": "record_of_employment_roe_settings",
+        "moduleId": "application_settings",
+        "label": "Record of employment ROE settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Record of employment ROE settings</h1>",
+                "css": "main {background: #0FE4B7;}",
+                "js": "console.log('This is JS for page Record of employment ROE settings');"
+            }
+        ]
+    },
+    {
+        "id": "organization_chart_settings",
+        "moduleId": "application_settings",
+        "label": "Organization chart settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Organization chart settings</h1>",
+                "css": "main {background: #56E6A9;}",
+                "js": "console.log('This is JS for page Organization chart settings');"
+            }
+        ]
+    },
+    {
+        "id": "process_hires_settings",
+        "moduleId": "application_settings",
+        "label": "Process hires settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Process hires settings</h1>",
+                "css": "main {background: #439CCC;}",
+                "js": "console.log('This is JS for page Process hires settings');"
+            }
+        ]
+    },
+    {
+        "id": "configurations",
+        "moduleId": "application_settings",
+        "label": "configurations",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>configurations</h1>",
+                "css": "main {background: #F5C96F;}",
+                "js": "console.log('This is JS for page configurations');"
+            }
+        ]
+    },
+    {
+        "id": "mapping",
+        "moduleId": "application_settings",
+        "label": "mapping",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>mapping</h1>",
+                "css": "main {background: #A13833;}",
+                "js": "console.log('This is JS for page mapping');"
+            }
+        ]
+    },
+    {
+        "id": "transfer_rule_settings",
+        "moduleId": "application_settings",
+        "label": "Transfer rule settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Transfer rule settings</h1>",
+                "css": "main {background: #BE3183;}",
+                "js": "console.log('This is JS for page Transfer rule settings');"
+            }
+        ]
+    },
+    {
+        "id": "benefits_admin",
+        "moduleId": "benefits_admin",
+        "label": "Benefits admin",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Benefits admin</h1>",
+                "css": "main {background: #A96715;}",
+                "js": "console.log('This is JS for page Benefits admin');"
+            }
+        ]
+    },
+    {
+        "id": "benefits_hub",
+        "moduleId": "benefits_admin",
+        "label": "Benefits hub",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Benefits hub</h1>",
+                "css": "main {background: #F302C8;}",
+                "js": "console.log('This is JS for page Benefits hub');"
+            }
+        ]
+    },
+    {
+        "id": "open_enrollment_setup_classic",
+        "moduleId": "benefits_admin",
+        "label": "Open enrollment setup classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Open enrollment setup classic</h1>",
+                "css": "main {background: #568524;}",
+                "js": "console.log('This is JS for page Open enrollment setup classic');"
+            }
+        ]
+    },
+    {
+        "id": "current_sessions",
+        "moduleId": "benefits_admin",
+        "label": "Current Sessions",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Current Sessions</h1>",
+                "css": "main {background: #51D14D;}",
+                "js": "console.log('This is JS for page Current Sessions');"
+            }
+        ]
+    },
+    {
+        "id": "employee_elections",
+        "moduleId": "benefits_admin",
+        "label": "Employee elections",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Employee elections</h1>",
+                "css": "main {background: #24ABC8;}",
+                "js": "console.log('This is JS for page Employee elections');"
+            }
+        ]
+    },
+    {
+        "id": "enrollment_history",
+        "moduleId": "benefits_admin",
+        "label": "Enrollment history",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Enrollment history</h1>",
+                "css": "main {background: #33F509;}",
+                "js": "console.log('This is JS for page Enrollment history');"
+            }
+        ]
+    },
+    {
+        "id": "life_events_setup_classic",
+        "moduleId": "benefits_admin",
+        "label": "Life Events setup classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Life Events setup classic</h1>",
+                "css": "main {background: #2F1558;}",
+                "js": "console.log('This is JS for page Life Events setup classic');"
+            }
+        ]
+    },
+    {
+        "id": "life_events",
+        "moduleId": "benefits_admin",
+        "label": "Life events",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Life events</h1>",
+                "css": "main {background: #F6C0A6;}",
+                "js": "console.log('This is JS for page Life events');"
+            }
+        ]
+    },
+    {
+        "id": "employee_progress",
+        "moduleId": "benefits_admin",
+        "label": "Employee progress",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Employee progress</h1>",
+                "css": "main {background: #5E5DB8;}",
+                "js": "console.log('This is JS for page Employee progress');"
+            }
+        ]
+    },
+    {
+        "id": "healthcare_eligibility",
+        "moduleId": "benefits_admin",
+        "label": "Healthcare eligibility",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Healthcare eligibility</h1>",
+                "css": "main {background: #4FDE20;}",
+                "js": "console.log('This is JS for page Healthcare eligibility');"
+            }
+        ]
+    },
+    {
+        "id": "healthcare_eligibility_summary",
+        "moduleId": "benefits_admin",
+        "label": "Healthcare eligibility summary",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Healthcare eligibility summary</h1>",
+                "css": "main {background: #64CE91;}",
+                "js": "console.log('This is JS for page Healthcare eligibility summary');"
+            }
+        ]
+    },
+    {
+        "id": "healthcare_measurement_groups",
+        "moduleId": "benefits_admin",
+        "label": "Healthcare measurement groups",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Healthcare measurement groups</h1>",
+                "css": "main {background: #65C8F5;}",
+                "js": "console.log('This is JS for page Healthcare measurement groups');"
+            }
+        ]
+    },
+    {
+        "id": "business_intelligence_and_reporting",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "Business Intelligence and reporting",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Business Intelligence and reporting</h1>",
+                "css": "main {background: #F7D500;}",
+                "js": "console.log('This is JS for page Business Intelligence and reporting');"
+            }
+        ]
+    },
+    {
+        "id": "business_intelligence_and_reporting_hub",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "Business Intelligence and reporting hub",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Business Intelligence and reporting hub</h1>",
+                "css": "main {background: #E4B727;}",
+                "js": "console.log('This is JS for page Business Intelligence and reporting hub');"
+            }
+        ]
+    },
+    {
+        "id": "aca_manager",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "ACA manager",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>ACA manager</h1>",
+                "css": "main {background: #CD4E47;}",
+                "js": "console.log('This is JS for page ACA manager');"
+            }
+        ]
+    },
+    {
+        "id": "aca_hub",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "ACA hub",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>ACA hub</h1>",
+                "css": "main {background: #15B529;}",
+                "js": "console.log('This is JS for page ACA hub');"
+            }
+        ]
+    },
+    {
+        "id": "checklist",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "Checklist",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Checklist</h1>",
+                "css": "main {background: #8C689D;}",
+                "js": "console.log('This is JS for page Checklist');"
+            }
+        ]
+    },
+    {
+        "id": "import_1095-c_file",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "Import 1095-C file",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Import 1095-C file</h1>",
+                "css": "main {background: #808756;}",
+                "js": "console.log('This is JS for page Import 1095-C file');"
+            }
+        ]
+    },
+    {
+        "id": "aca_monthly_details",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "ACA Monthly Details",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>ACA Monthly Details</h1>",
+                "css": "main {background: #9E4357;}",
+                "js": "console.log('This is JS for page ACA Monthly Details');"
+            }
+        ]
+    },
+    {
+        "id": "generate_and_finalize",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "Generate and finalize",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Generate and finalize</h1>",
+                "css": "main {background: #F4F6CD;}",
+                "js": "console.log('This is JS for page Generate and finalize');"
+            }
+        ]
+    },
+    {
+        "id": "filing_and_history",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "Filing and history",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Filing and history</h1>",
+                "css": "main {background: #2221F3;}",
+                "js": "console.log('This is JS for page Filing and history');"
+            }
+        ]
+    },
+    {
+        "id": "business_intelligence",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "Business intelligence",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Business intelligence</h1>",
+                "css": "main {background: #05E6BA;}",
+                "js": "console.log('This is JS for page Business intelligence');"
+            }
+        ]
+    },
+    {
+        "id": "standard_reports",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "Standard reports",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Standard reports</h1>",
+                "css": "main {background: #8EA1EA;}",
+                "js": "console.log('This is JS for page Standard reports');"
+            }
+        ]
+    },
+    {
+        "id": "completed",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "Completed",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Completed</h1>",
+                "css": "main {background: #87F8DD;}",
+                "js": "console.log('This is JS for page Completed');"
+            }
+        ]
+    },
+    {
+        "id": "available",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "Available",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Available</h1>",
+                "css": "main {background: #C282E7;}",
+                "js": "console.log('This is JS for page Available');"
+            }
+        ]
+    },
+    {
+        "id": "saved_templates",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "Saved templates",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Saved templates</h1>",
+                "css": "main {background: #1717AE;}",
+                "js": "console.log('This is JS for page Saved templates');"
+            }
+        ]
+    },
+    {
+        "id": "version",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "Version",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Version</h1>",
+                "css": "main {background: #5C12F2;}",
+                "js": "console.log('This is JS for page Version');"
+            }
+        ]
+    },
+    {
+        "id": "general_ledger",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "General ledger",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>General ledger</h1>",
+                "css": "main {background: #684400;}",
+                "js": "console.log('This is JS for page General ledger');"
+            }
+        ]
+    },
+    {
+        "id": "custom_reports",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "Custom reports",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Custom reports</h1>",
+                "css": "main {background: #231065;}",
+                "js": "console.log('This is JS for page Custom reports');"
+            }
+        ]
+    },
+    {
+        "id": "analytics",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "Analytics",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Analytics</h1>",
+                "css": "main {background: #BC663C;}",
+                "js": "console.log('This is JS for page Analytics');"
+            }
+        ]
+    },
+    {
+        "id": "file_transfers",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "File transfers",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>File transfers</h1>",
+                "css": "main {background: #009D96;}",
+                "js": "console.log('This is JS for page File transfers');"
+            }
+        ]
+    },
+    {
+        "id": "year-end_forms",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "Year-end forms",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Year-end forms</h1>",
+                "css": "main {background: #2060B6;}",
+                "js": "console.log('This is JS for page Year-end forms');"
+            }
+        ]
+    },
+    {
+        "id": "aca_manager",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "ACA manager",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>ACA manager</h1>",
+                "css": "main {background: #79C8BC;}",
+                "js": "console.log('This is JS for page ACA manager');"
+            }
+        ]
+    },
+    {
+        "id": "aca_dashboard",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "ACA dashboard",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>ACA dashboard</h1>",
+                "css": "main {background: #4BBD29;}",
+                "js": "console.log('This is JS for page ACA dashboard');"
+            }
+        ]
+    },
+    {
+        "id": "checklist",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "Checklist",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Checklist</h1>",
+                "css": "main {background: #D70D3C;}",
+                "js": "console.log('This is JS for page Checklist');"
+            }
+        ]
+    },
+    {
+        "id": "import_1095-c_file",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "Import 1095-C File",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Import 1095-C File</h1>",
+                "css": "main {background: #6950F2;}",
+                "js": "console.log('This is JS for page Import 1095-C File');"
+            }
+        ]
+    },
+    {
+        "id": "aca_monthly_details",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "ACA Monthly Details",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>ACA Monthly Details</h1>",
+                "css": "main {background: #D4E4B2;}",
+                "js": "console.log('This is JS for page ACA Monthly Details');"
+            }
+        ]
+    },
+    {
+        "id": "generate_and_finalize",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "Generate and Finalize",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Generate and Finalize</h1>",
+                "css": "main {background: #FC8C57;}",
+                "js": "console.log('This is JS for page Generate and Finalize');"
+            }
+        ]
+    },
+    {
+        "id": "filing_and_history",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "Filing and History",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Filing and History</h1>",
+                "css": "main {background: #EA37D8;}",
+                "js": "console.log('This is JS for page Filing and History');"
+            }
+        ]
+    },
+    {
+        "id": "hr_compliance_reporting",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "HR Compliance Reporting",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>HR Compliance Reporting</h1>",
+                "css": "main {background: #42E86B;}",
+                "js": "console.log('This is JS for page HR Compliance Reporting');"
+            }
+        ]
+    },
+    {
+        "id": "diversity_dashboard",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "Diversity dashboard",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Diversity dashboard</h1>",
+                "css": "main {background: #8771A8;}",
+                "js": "console.log('This is JS for page Diversity dashboard');"
+            }
+        ]
+    },
+    {
+        "id": "eeo-1",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "EEO-1",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>EEO-1</h1>",
+                "css": "main {background: #F14EE0;}",
+                "js": "console.log('This is JS for page EEO-1');"
+            }
+        ]
+    },
+    {
+        "id": "eeo-1_dashboard",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "EEO-1 dashboard",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>EEO-1 dashboard</h1>",
+                "css": "main {background: #9626F3;}",
+                "js": "console.log('This is JS for page EEO-1 dashboard');"
+            }
+        ]
+    },
+    {
+        "id": "import",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "Import",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Import</h1>",
+                "css": "main {background: #92186F;}",
+                "js": "console.log('This is JS for page Import');"
+            }
+        ]
+    },
+    {
+        "id": "generate",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "Generate",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Generate</h1>",
+                "css": "main {background: #527E4F;}",
+                "js": "console.log('This is JS for page Generate');"
+            }
+        ]
+    },
+    {
+        "id": "vets_4212_data_file",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "VETS 4212 Data File",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>VETS 4212 Data File</h1>",
+                "css": "main {background: #429898;}",
+                "js": "console.log('This is JS for page VETS 4212 Data File');"
+            }
+        ]
+    },
+    {
+        "id": "osha",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "OSHA",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>OSHA</h1>",
+                "css": "main {background: #464D3A;}",
+                "js": "console.log('This is JS for page OSHA');"
+            }
+        ]
+    },
+    {
+        "id": "osha_300a_data_file",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "OSHA 300A data file",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>OSHA 300A data file</h1>",
+                "css": "main {background: #540F9E;}",
+                "js": "console.log('This is JS for page OSHA 300A data file');"
+            }
+        ]
+    },
+    {
+        "id": "roe_administration",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "ROE Administration",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>ROE Administration</h1>",
+                "css": "main {background: #2CE85B;}",
+                "js": "console.log('This is JS for page ROE Administration');"
+            }
+        ]
+    },
+    {
+        "id": "workflow_audit",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "Workflow audit",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Workflow audit</h1>",
+                "css": "main {background: #F3FF93;}",
+                "js": "console.log('This is JS for page Workflow audit');"
+            }
+        ]
+    },
+    {
+        "id": "communication_broadcast_usage",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "Communication broadcast usage",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Communication broadcast usage</h1>",
+                "css": "main {background: #B2C85B;}",
+                "js": "console.log('This is JS for page Communication broadcast usage');"
+            }
+        ]
+    },
+    {
+        "id": "sent_messages_admin",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "Sent messages admin",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Sent messages admin</h1>",
+                "css": "main {background: #84F942;}",
+                "js": "console.log('This is JS for page Sent messages admin');"
+            }
+        ]
+    },
+    {
+        "id": "reporting_settings",
+        "moduleId": "business_intelligence_and_reporting",
+        "label": "Reporting settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Reporting settings</h1>",
+                "css": "main {background: #036B8B;}",
+                "js": "console.log('This is JS for page Reporting settings');"
+            }
+        ]
+    },
+    {
+        "id": "business_rules",
+        "moduleId": "business_rules",
+        "label": "Business rules",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Business rules</h1>",
+                "css": "main {background: #90D0E5;}",
+                "js": "console.log('This is JS for page Business rules');"
+            }
+        ]
+    },
+    {
+        "id": "business_rule_imports",
+        "moduleId": "business_rule_imports",
+        "label": "Business rule imports",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Business rule imports</h1>",
+                "css": "main {background: #F606EA;}",
+                "js": "console.log('This is JS for page Business rule imports');"
+            }
+        ]
+    },
+    {
+        "id": "results",
+        "moduleId": "business_rule_imports",
+        "label": "Results",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Results</h1>",
+                "css": "main {background: #F9790B;}",
+                "js": "console.log('This is JS for page Results');"
+            }
+        ]
+    },
+    {
+        "id": "file_upload",
+        "moduleId": "business_rule_imports",
+        "label": "File upload",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>File upload</h1>",
+                "css": "main {background: #2336CC;}",
+                "js": "console.log('This is JS for page File upload');"
+            }
+        ]
+    },
+    {
+        "id": "file_mapping",
+        "moduleId": "business_rule_imports",
+        "label": "File mapping",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>File mapping</h1>",
+                "css": "main {background: #13BBAF;}",
+                "js": "console.log('This is JS for page File mapping');"
+            }
+        ]
+    },
+    {
+        "id": "translations",
+        "moduleId": "business_rule_imports",
+        "label": "Translations",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Translations</h1>",
+                "css": "main {background: #FB78A5;}",
+                "js": "console.log('This is JS for page Translations');"
+            }
+        ]
+    },
+    {
+        "id": "configurations",
+        "moduleId": "business_rule_imports",
+        "label": "Configurations",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Configurations</h1>",
+                "css": "main {background: #898A0E;}",
+                "js": "console.log('This is JS for page Configurations');"
+            }
+        ]
+    },
+    {
+        "id": "company_admin",
+        "moduleId": "company_admin",
+        "label": "Company admin",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Company admin</h1>",
+                "css": "main {background: #3BC3FD;}",
+                "js": "console.log('This is JS for page Company admin');"
+            }
+        ]
+    },
+    {
+        "id": "accelerate",
+        "moduleId": "company_admin",
+        "label": "Accelerate",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Accelerate</h1>",
+                "css": "main {background: #D96F2E;}",
+                "js": "console.log('This is JS for page Accelerate');"
+            }
+        ]
+    },
+    {
+        "id": "business_structure",
+        "moduleId": "company_admin",
+        "label": "Business structure",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Business structure</h1>",
+                "css": "main {background: #863A30;}",
+                "js": "console.log('This is JS for page Business structure');"
+            }
+        ]
+    },
+    {
+        "id": "company_setup_classic",
+        "moduleId": "company_admin",
+        "label": "Company setup classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Company setup classic</h1>",
+                "css": "main {background: #7E21CD;}",
+                "js": "console.log('This is JS for page Company setup classic');"
+            }
+        ]
+    },
+    {
+        "id": "compensation_admin",
+        "moduleId": "compensation_admin",
+        "label": "Compensation admin",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Compensation admin</h1>",
+                "css": "main {background: #46119E;}",
+                "js": "console.log('This is JS for page Compensation admin');"
+            }
+        ]
+    },
+    {
+        "id": "total_compensation_admin",
+        "moduleId": "compensation_admin",
+        "label": "Total compensation admin",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Total compensation admin</h1>",
+                "css": "main {background: #58B0D3;}",
+                "js": "console.log('This is JS for page Total compensation admin');"
+            }
+        ]
+    },
+    {
+        "id": "salary_planning_admin_classic",
+        "moduleId": "compensation_admin",
+        "label": "Salary planning admin classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Salary planning admin classic</h1>",
+                "css": "main {background: #7B7752;}",
+                "js": "console.log('This is JS for page Salary planning admin classic');"
+            }
+        ]
+    },
+    {
+        "id": "salary_session_setup",
+        "moduleId": "compensation_admin",
+        "label": "Salary session setup",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Salary session setup</h1>",
+                "css": "main {background: #58E749;}",
+                "js": "console.log('This is JS for page Salary session setup');"
+            }
+        ]
+    },
+    {
+        "id": "salary_session_status",
+        "moduleId": "compensation_admin",
+        "label": "Salary session status",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Salary session status</h1>",
+                "css": "main {background: #3A4D75;}",
+                "js": "console.log('This is JS for page Salary session status');"
+            }
+        ]
+    },
+    {
+        "id": "salary_session_utilities",
+        "moduleId": "compensation_admin",
+        "label": "Salary session utilities",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Salary session utilities</h1>",
+                "css": "main {background: #EF3D0D;}",
+                "js": "console.log('This is JS for page Salary session utilities');"
+            }
+        ]
+    },
+    {
+        "id": "salary_session_export",
+        "moduleId": "compensation_admin",
+        "label": "Salary session export",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Salary session export</h1>",
+                "css": "main {background: #B2F8FA;}",
+                "js": "console.log('This is JS for page Salary session export');"
+            }
+        ]
+    },
+    {
+        "id": "compensation_settings",
+        "moduleId": "compensation_admin",
+        "label": "Compensation settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Compensation settings</h1>",
+                "css": "main {background: #1104F6;}",
+                "js": "console.log('This is JS for page Compensation settings');"
+            }
+        ]
+    },
+    {
+        "id": "content_management",
+        "moduleId": "content_management",
+        "label": "Content management",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Content management</h1>",
+                "css": "main {background: #B206AB;}",
+                "js": "console.log('This is JS for page Content management');"
+            }
+        ]
+    },
+    {
+        "id": "content_hub",
+        "moduleId": "content_management",
+        "label": "Content hub",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Content hub</h1>",
+                "css": "main {background: #ADEF86;}",
+                "js": "console.log('This is JS for page Content hub');"
+            }
+        ]
+    },
+    {
+        "id": "home_page_setup",
+        "moduleId": "content_management",
+        "label": "Home page setup",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Home page setup</h1>",
+                "css": "main {background: #E5D809;}",
+                "js": "console.log('This is JS for page Home page setup');"
+            }
+        ]
+    },
+    {
+        "id": "knowledgebase_hrsd",
+        "moduleId": "content_management",
+        "label": "Knowledgebase HRSD",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Knowledgebase HRSD</h1>",
+                "css": "main {background: #34F15F;}",
+                "js": "console.log('This is JS for page Knowledgebase HRSD');"
+            }
+        ]
+    },
+    {
+        "id": "chat_and_groups",
+        "moduleId": "content_management",
+        "label": "Chat and groups",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Chat and groups</h1>",
+                "css": "main {background: #816AEE;}",
+                "js": "console.log('This is JS for page Chat and groups');"
+            }
+        ]
+    },
+    {
+        "id": "content_management_classic",
+        "moduleId": "content_management",
+        "label": "Content management classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Content management classic</h1>",
+                "css": "main {background: #284614;}",
+                "js": "console.log('This is JS for page Content management classic');"
+            }
+        ]
+    },
+    {
+        "id": "gadgets_classic",
+        "moduleId": "content_management",
+        "label": "Gadgets classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Gadgets classic</h1>",
+                "css": "main {background: #C83FFF;}",
+                "js": "console.log('This is JS for page Gadgets classic');"
+            }
+        ]
+    },
+    {
+        "id": "news_and_information_classic",
+        "moduleId": "content_management",
+        "label": "News and information classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>News and information classic</h1>",
+                "css": "main {background: #F485BA;}",
+                "js": "console.log('This is JS for page News and information classic');"
+            }
+        ]
+    },
+    {
+        "id": "page_links_classic",
+        "moduleId": "content_management",
+        "label": "Page links classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Page links classic</h1>",
+                "css": "main {background: #B050A3;}",
+                "js": "console.log('This is JS for page Page links classic');"
+            }
+        ]
+    },
+    {
+        "id": "manager_guide_content",
+        "moduleId": "content_management",
+        "label": "Manager guide content",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Manager guide content</h1>",
+                "css": "main {background: #3F9B8E;}",
+                "js": "console.log('This is JS for page Manager guide content');"
+            }
+        ]
+    },
+    {
+        "id": "payroll_guide_content",
+        "moduleId": "content_management",
+        "label": "Payroll guide content",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Payroll guide content</h1>",
+                "css": "main {background: #C4F22C;}",
+                "js": "console.log('This is JS for page Payroll guide content');"
+            }
+        ]
+    },
+    {
+        "id": "home_classic_content_gadgets",
+        "moduleId": "content_management",
+        "label": "Home classic content gadgets",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Home classic content gadgets</h1>",
+                "css": "main {background: #14BAC6;}",
+                "js": "console.log('This is JS for page Home classic content gadgets');"
+            }
+        ]
+    },
+    {
+        "id": "page_links_classic",
+        "moduleId": "content_management",
+        "label": "Page links classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Page links classic</h1>",
+                "css": "main {background: #AD9C1F;}",
+                "js": "console.log('This is JS for page Page links classic');"
+            }
+        ]
+    },
+    {
+        "id": "integration_and_configuration",
+        "moduleId": "integration_and_configuration",
+        "label": "Integration and configuration",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Integration and configuration</h1>",
+                "css": "main {background: #5EA70F;}",
+                "js": "console.log('This is JS for page Integration and configuration');"
+            }
+        ]
+    },
+    {
+        "id": "global_payroll_integration",
+        "moduleId": "integration_and_configuration",
+        "label": "Global Payroll Integration",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Global Payroll Integration</h1>",
+                "css": "main {background: #994FDF;}",
+                "js": "console.log('This is JS for page Global Payroll Integration');"
+            }
+        ]
+    },
+    {
+        "id": "global_payroll_integration_sessions",
+        "moduleId": "integration_and_configuration",
+        "label": "Global Payroll Integration Sessions",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Global Payroll Integration Sessions</h1>",
+                "css": "main {background: #510DAC;}",
+                "js": "console.log('This is JS for page Global Payroll Integration Sessions');"
+            }
+        ]
+    },
+    {
+        "id": "global_payroll_integration_session_history",
+        "moduleId": "integration_and_configuration",
+        "label": "Global Payroll Integration Session History",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Global Payroll Integration Session History</h1>",
+                "css": "main {background: #77A338;}",
+                "js": "console.log('This is JS for page Global Payroll Integration Session History');"
+            }
+        ]
+    },
+    {
+        "id": "integration_and_configuration_hub",
+        "moduleId": "integration_and_configuration",
+        "label": "Integration and configuration hub",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Integration and configuration hub</h1>",
+                "css": "main {background: #218221;}",
+                "js": "console.log('This is JS for page Integration and configuration hub');"
+            }
+        ]
+    },
+    {
+        "id": "imports_and_exports",
+        "moduleId": "integration_and_configuration",
+        "label": "Imports and Exports",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Imports and Exports</h1>",
+                "css": "main {background: #C94893;}",
+                "js": "console.log('This is JS for page Imports and Exports');"
+            }
+        ]
+    },
+    {
+        "id": "transfer_data",
+        "moduleId": "integration_and_configuration",
+        "label": "Transfer data",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Transfer data</h1>",
+                "css": "main {background: #E57B23;}",
+                "js": "console.log('This is JS for page Transfer data');"
+            }
+        ]
+    },
+    {
+        "id": "interfaces",
+        "moduleId": "integration_and_configuration",
+        "label": "Interfaces",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Interfaces</h1>",
+                "css": "main {background: #065A58;}",
+                "js": "console.log('This is JS for page Interfaces');"
+            }
+        ]
+    },
+    {
+        "id": "monitoring",
+        "moduleId": "integration_and_configuration",
+        "label": "Monitoring",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Monitoring</h1>",
+                "css": "main {background: #77F312;}",
+                "js": "console.log('This is JS for page Monitoring');"
+            }
+        ]
+    },
+    {
+        "id": "integrations_dashboard",
+        "moduleId": "integration_and_configuration",
+        "label": "Integrations dashboard",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Integrations dashboard</h1>",
+                "css": "main {background: #2F6EAB;}",
+                "js": "console.log('This is JS for page Integrations dashboard');"
+            }
+        ]
+    },
+    {
+        "id": "integration_studio",
+        "moduleId": "integration_and_configuration",
+        "label": "Integration Studio",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Integration Studio</h1>",
+                "css": "main {background: #950BDD;}",
+                "js": "console.log('This is JS for page Integration Studio');"
+            }
+        ]
+    },
+    {
+        "id": "activity_log",
+        "moduleId": "integration_and_configuration",
+        "label": "Activity Log",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Activity Log</h1>",
+                "css": "main {background: #C1E0D4;}",
+                "js": "console.log('This is JS for page Activity Log');"
+            }
+        ]
+    },
+    {
+        "id": "report_exports",
+        "moduleId": "integration_and_configuration",
+        "label": "Report Exports",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Report Exports</h1>",
+                "css": "main {background: #79ACBF;}",
+                "js": "console.log('This is JS for page Report Exports');"
+            }
+        ]
+    },
+    {
+        "id": "report_exports_list",
+        "moduleId": "integration_and_configuration",
+        "label": "Report Exports List",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Report Exports List</h1>",
+                "css": "main {background: #A04E09;}",
+                "js": "console.log('This is JS for page Report Exports List');"
+            }
+        ]
+    },
+    {
+        "id": "report_export_history",
+        "moduleId": "integration_and_configuration",
+        "label": "Report Export History",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Report Export History</h1>",
+                "css": "main {background: #650030;}",
+                "js": "console.log('This is JS for page Report Export History');"
+            }
+        ]
+    },
+    {
+        "id": "platform_configuration",
+        "moduleId": "integration_and_configuration",
+        "label": "Platform configuration",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Platform configuration</h1>",
+                "css": "main {background: #9E78A1;}",
+                "js": "console.log('This is JS for page Platform configuration');"
+            }
+        ]
+    },
+    {
+        "id": "application_connections",
+        "moduleId": "integration_and_configuration",
+        "label": "Application Connections",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Application Connections</h1>",
+                "css": "main {background: #82B747;}",
+                "js": "console.log('This is JS for page Application Connections');"
+            }
+        ]
+    },
+    {
+        "id": "celergo",
+        "moduleId": "integration_and_configuration",
+        "label": "Celergo",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Celergo</h1>",
+                "css": "main {background: #DB3854;}",
+                "js": "console.log('This is JS for page Celergo');"
+            }
+        ]
+    },
+    {
+        "id": "learning_management_systems",
+        "moduleId": "integration_and_configuration",
+        "label": "Learning Management Systems",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Learning Management Systems</h1>",
+                "css": "main {background: #AFF3B6;}",
+                "js": "console.log('This is JS for page Learning Management Systems');"
+            }
+        ]
+    },
+    {
+        "id": "transfer_data",
+        "moduleId": "integration_and_configuration",
+        "label": "Transfer Data",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Transfer Data</h1>",
+                "css": "main {background: #F4CF9B;}",
+                "js": "console.log('This is JS for page Transfer Data');"
+            }
+        ]
+    },
+    {
+        "id": "interfaces",
+        "moduleId": "integration_and_configuration",
+        "label": "Interfaces",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Interfaces</h1>",
+                "css": "main {background: #B37CD7;}",
+                "js": "console.log('This is JS for page Interfaces');"
+            }
+        ]
+    },
+    {
+        "id": "monitoring",
+        "moduleId": "integration_and_configuration",
+        "label": "Monitoring",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Monitoring</h1>",
+                "css": "main {background: #FCC39A;}",
+                "js": "console.log('This is JS for page Monitoring');"
+            }
+        ]
+    },
+    {
+        "id": "studio_designer",
+        "moduleId": "integration_and_configuration",
+        "label": "Studio Designer",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Studio Designer</h1>",
+                "css": "main {background: #C56B08;}",
+                "js": "console.log('This is JS for page Studio Designer');"
+            }
+        ]
+    },
+    {
+        "id": "import_tool",
+        "moduleId": "integration_and_configuration",
+        "label": "Import Tool",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Import Tool</h1>",
+                "css": "main {background: #B8B7A2;}",
+                "js": "console.log('This is JS for page Import Tool');"
+            }
+        ]
+    },
+    {
+        "id": "results",
+        "moduleId": "integration_and_configuration",
+        "label": "Results",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Results</h1>",
+                "css": "main {background: #2D7CC7;}",
+                "js": "console.log('This is JS for page Results');"
+            }
+        ]
+    },
+    {
+        "id": "file_upload",
+        "moduleId": "integration_and_configuration",
+        "label": "File Upload",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>File Upload</h1>",
+                "css": "main {background: #70401D;}",
+                "js": "console.log('This is JS for page File Upload');"
+            }
+        ]
+    },
+    {
+        "id": "file_mapping",
+        "moduleId": "integration_and_configuration",
+        "label": "File Mapping",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>File Mapping</h1>",
+                "css": "main {background: #1DF0E9;}",
+                "js": "console.log('This is JS for page File Mapping');"
+            }
+        ]
+    },
+    {
+        "id": "translations",
+        "moduleId": "integration_and_configuration",
+        "label": "Translations",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Translations</h1>",
+                "css": "main {background: #68F06E;}",
+                "js": "console.log('This is JS for page Translations');"
+            }
+        ]
+    },
+    {
+        "id": "configurations",
+        "moduleId": "integration_and_configuration",
+        "label": "Configurations",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Configurations</h1>",
+                "css": "main {background: #8FDFD3;}",
+                "js": "console.log('This is JS for page Configurations');"
+            }
+        ]
+    },
+    {
+        "id": "platform_configuration",
+        "moduleId": "integration_and_configuration",
+        "label": "Platform configuration",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Platform configuration</h1>",
+                "css": "main {background: #FA3FB5;}",
+                "js": "console.log('This is JS for page Platform configuration');"
+            }
+        ]
+    },
+    {
+        "id": "classes",
+        "moduleId": "integration_and_configuration",
+        "label": "Classes",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Classes</h1>",
+                "css": "main {background: #3C5ABE;}",
+                "js": "console.log('This is JS for page Classes');"
+            }
+        ]
+    },
+    {
+        "id": "data_services",
+        "moduleId": "integration_and_configuration",
+        "label": "Data services",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Data services</h1>",
+                "css": "main {background: #995DA6;}",
+                "js": "console.log('This is JS for page Data services');"
+            }
+        ]
+    },
+    {
+        "id": "pages",
+        "moduleId": "integration_and_configuration",
+        "label": "Pages",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Pages</h1>",
+                "css": "main {background: #04A798;}",
+                "js": "console.log('This is JS for page Pages');"
+            }
+        ]
+    },
+    {
+        "id": "labels",
+        "moduleId": "integration_and_configuration",
+        "label": "Labels",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Labels</h1>",
+                "css": "main {background: #8F2FE7;}",
+                "js": "console.log('This is JS for page Labels');"
+            }
+        ]
+    },
+    {
+        "id": "rules",
+        "moduleId": "integration_and_configuration",
+        "label": "Rules",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Rules</h1>",
+                "css": "main {background: #0D2979;}",
+                "js": "console.log('This is JS for page Rules');"
+            }
+        ]
+    },
+    {
+        "id": "ukg_pro_carrier_network_ucn",
+        "moduleId": "integration_and_configuration",
+        "label": "UKG Pro Carrier Network UCN",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>UKG Pro Carrier Network UCN</h1>",
+                "css": "main {background: #3DB749;}",
+                "js": "console.log('This is JS for page UKG Pro Carrier Network UCN');"
+            }
+        ]
+    },
+    {
+        "id": "integration_settings",
+        "moduleId": "integration_and_configuration",
+        "label": "Integration settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Integration settings</h1>",
+                "css": "main {background: #6646F4;}",
+                "js": "console.log('This is JS for page Integration settings');"
+            }
+        ]
+    },
+    {
+        "id": "application_connections",
+        "moduleId": "integration_and_configuration",
+        "label": "Application Connections",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Application Connections</h1>",
+                "css": "main {background: #32429D;}",
+                "js": "console.log('This is JS for page Application Connections');"
+            }
+        ]
+    },
+    {
+        "id": "celergo",
+        "moduleId": "integration_and_configuration",
+        "label": "Celergo",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Celergo</h1>",
+                "css": "main {background: #2BCDA6;}",
+                "js": "console.log('This is JS for page Celergo');"
+            }
+        ]
+    },
+    {
+        "id": "learning_management_systems",
+        "moduleId": "integration_and_configuration",
+        "label": "Learning Management Systems",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Learning Management Systems</h1>",
+                "css": "main {background: #28D66E;}",
+                "js": "console.log('This is JS for page Learning Management Systems');"
+            }
+        ]
+    },
+    {
+        "id": "document_admin",
+        "moduleId": "document_admin",
+        "label": "Document admin",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Document admin</h1>",
+                "css": "main {background: #C00C98;}",
+                "js": "console.log('This is JS for page Document admin');"
+            }
+        ]
+    },
+    {
+        "id": "document_acknowledgements",
+        "moduleId": "document_admin",
+        "label": "Document acknowledgements",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Document acknowledgements</h1>",
+                "css": "main {background: #97BC95;}",
+                "js": "console.log('This is JS for page Document acknowledgements');"
+            }
+        ]
+    },
+    {
+        "id": "document_acknowledgment_setup",
+        "moduleId": "document_admin",
+        "label": "Document acknowledgment setup",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Document acknowledgment setup</h1>",
+                "css": "main {background: #52A026;}",
+                "js": "console.log('This is JS for page Document acknowledgment setup');"
+            }
+        ]
+    },
+    {
+        "id": "payroll",
+        "moduleId": "payroll",
+        "label": "Payroll",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Payroll</h1>",
+                "css": "main {background: #A3123C;}",
+                "js": "console.log('This is JS for page Payroll');"
+            }
+        ]
+    },
+    {
+        "id": "payroll_hub",
+        "moduleId": "payroll",
+        "label": "Payroll hub",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Payroll hub</h1>",
+                "css": "main {background: #CD8350;}",
+                "js": "console.log('This is JS for page Payroll hub');"
+            }
+        ]
+    },
+    {
+        "id": "deduction_goal_update",
+        "moduleId": "payroll",
+        "label": "Deduction goal update",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Deduction goal update</h1>",
+                "css": "main {background: #FB8E19;}",
+                "js": "console.log('This is JS for page Deduction goal update');"
+            }
+        ]
+    },
+    {
+        "id": "earnings_and_deductions",
+        "moduleId": "payroll",
+        "label": "Earnings and deductions",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Earnings and deductions</h1>",
+                "css": "main {background: #5FA304;}",
+                "js": "console.log('This is JS for page Earnings and deductions');"
+            }
+        ]
+    },
+    {
+        "id": "deduction_goal_update",
+        "moduleId": "payroll",
+        "label": "Deduction goal update",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Deduction goal update</h1>",
+                "css": "main {background: #77A401;}",
+                "js": "console.log('This is JS for page Deduction goal update');"
+            }
+        ]
+    },
+    {
+        "id": "earnings_deductions_and_garnishments_settings",
+        "moduleId": "payroll",
+        "label": "Earnings deductions and garnishments settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Earnings deductions and garnishments settings</h1>",
+                "css": "main {background: #196FE0;}",
+                "js": "console.log('This is JS for page Earnings deductions and garnishments settings');"
+            }
+        ]
+    },
+    {
+        "id": "garnishments_and_wage_attachments",
+        "moduleId": "payroll",
+        "label": "Garnishments and wage attachments",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Garnishments and wage attachments</h1>",
+                "css": "main {background: #8ADA5A;}",
+                "js": "console.log('This is JS for page Garnishments and wage attachments');"
+            }
+        ]
+    },
+    {
+        "id": "garnishments_and_wage_attachments_hub",
+        "moduleId": "payroll",
+        "label": "Garnishments and wage attachments hub",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Garnishments and wage attachments hub</h1>",
+                "css": "main {background: #1CE542;}",
+                "js": "console.log('This is JS for page Garnishments and wage attachments hub');"
+            }
+        ]
+    },
+    {
+        "id": "wage_attachments",
+        "moduleId": "payroll",
+        "label": "Wage Attachments",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Wage Attachments</h1>",
+                "css": "main {background: #0E6F18;}",
+                "js": "console.log('This is JS for page Wage Attachments');"
+            }
+        ]
+    },
+    {
+        "id": "wage_attachment_alerts",
+        "moduleId": "payroll",
+        "label": "Wage attachment alerts",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Wage attachment alerts</h1>",
+                "css": "main {background: #93519E;}",
+                "js": "console.log('This is JS for page Wage attachment alerts');"
+            }
+        ]
+    },
+    {
+        "id": "garnishment_setup",
+        "moduleId": "payroll",
+        "label": "Garnishment setup",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Garnishment setup</h1>",
+                "css": "main {background: #1E1503;}",
+                "js": "console.log('This is JS for page Garnishment setup');"
+            }
+        ]
+    },
+    {
+        "id": "exceptions",
+        "moduleId": "payroll",
+        "label": "Exceptions",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Exceptions</h1>",
+                "css": "main {background: #CB41DD;}",
+                "js": "console.log('This is JS for page Exceptions');"
+            }
+        ]
+    },
+    {
+        "id": "change_log",
+        "moduleId": "payroll",
+        "label": "Change log",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Change log</h1>",
+                "css": "main {background: #28D91C;}",
+                "js": "console.log('This is JS for page Change log');"
+            }
+        ]
+    },
+    {
+        "id": "giving",
+        "moduleId": "payroll",
+        "label": "Giving",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Giving</h1>",
+                "css": "main {background: #A7E082;}",
+                "js": "console.log('This is JS for page Giving');"
+            }
+        ]
+    },
+    {
+        "id": "year-end",
+        "moduleId": "payroll",
+        "label": "Year-end",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Year-end</h1>",
+                "css": "main {background: #6A96C0;}",
+                "js": "console.log('This is JS for page Year-end');"
+            }
+        ]
+    },
+    {
+        "id": "year-end_settings",
+        "moduleId": "payroll",
+        "label": "Year-end settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Year-end settings</h1>",
+                "css": "main {background: #A56D28;}",
+                "js": "console.log('This is JS for page Year-end settings');"
+            }
+        ]
+    },
+    {
+        "id": "year-end_reporting_forms",
+        "moduleId": "payroll",
+        "label": "Year-end reporting forms",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Year-end reporting forms</h1>",
+                "css": "main {background: #B80C1F;}",
+                "js": "console.log('This is JS for page Year-end reporting forms');"
+            }
+        ]
+    },
+    {
+        "id": "pending_pay_items",
+        "moduleId": "payroll",
+        "label": "Pending Pay Items",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Pending Pay Items</h1>",
+                "css": "main {background: #2538AD;}",
+                "js": "console.log('This is JS for page Pending Pay Items');"
+            }
+        ]
+    },
+    {
+        "id": "retroactive_pay",
+        "moduleId": "payroll",
+        "label": "Retroactive Pay",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Retroactive Pay</h1>",
+                "css": "main {background: #3979B5;}",
+                "js": "console.log('This is JS for page Retroactive Pay');"
+            }
+        ]
+    },
+    {
+        "id": "set_time_and_attendance_balances",
+        "moduleId": "payroll",
+        "label": "Set Time and Attendance Balances",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Set Time and Attendance Balances</h1>",
+                "css": "main {background: #24F626;}",
+                "js": "console.log('This is JS for page Set Time and Attendance Balances');"
+            }
+        ]
+    },
+    {
+        "id": "time_and_attendance",
+        "moduleId": "payroll",
+        "label": "Time and Attendance",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time and Attendance</h1>",
+                "css": "main {background: #C8B961;}",
+                "js": "console.log('This is JS for page Time and Attendance');"
+            }
+        ]
+    },
+    {
+        "id": "time_management",
+        "moduleId": "payroll",
+        "label": "Time Management",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time Management</h1>",
+                "css": "main {background: #98F69F;}",
+                "js": "console.log('This is JS for page Time Management');"
+            }
+        ]
+    },
+    {
+        "id": "void_by_pay_period",
+        "moduleId": "payroll",
+        "label": "Void by Pay Period",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Void by Pay Period</h1>",
+                "css": "main {background: #26325A;}",
+                "js": "console.log('This is JS for page Void by Pay Period');"
+            }
+        ]
+    },
+    {
+        "id": "void_payment",
+        "moduleId": "payroll",
+        "label": "Void Payment",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Void Payment</h1>",
+                "css": "main {background: #8FE4EB;}",
+                "js": "console.log('This is JS for page Void Payment');"
+            }
+        ]
+    },
+    {
+        "id": "payroll_guide",
+        "moduleId": "payroll",
+        "label": "Payroll Guide",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Payroll Guide</h1>",
+                "css": "main {background: #F4C211;}",
+                "js": "console.log('This is JS for page Payroll Guide');"
+            }
+        ]
+    },
+    {
+        "id": "payroll_business_rules",
+        "moduleId": "payroll",
+        "label": "Payroll business rules",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Payroll business rules</h1>",
+                "css": "main {background: #2821D2;}",
+                "js": "console.log('This is JS for page Payroll business rules');"
+            }
+        ]
+    },
+    {
+        "id": "process_automation",
+        "moduleId": "payroll",
+        "label": "Process automation",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Process automation</h1>",
+                "css": "main {background: #A63256;}",
+                "js": "console.log('This is JS for page Process automation');"
+            }
+        ]
+    },
+    {
+        "id": "process_automation",
+        "moduleId": "payroll",
+        "label": "Process automation",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Process automation</h1>",
+                "css": "main {background: #6A69BB;}",
+                "js": "console.log('This is JS for page Process automation');"
+            }
+        ]
+    },
+    {
+        "id": "print_services_file_groups",
+        "moduleId": "payroll",
+        "label": "Print Services File Groups",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Print Services File Groups</h1>",
+                "css": "main {background: #FE1804;}",
+                "js": "console.log('This is JS for page Print Services File Groups');"
+            }
+        ]
+    },
+    {
+        "id": "print_services_contacts",
+        "moduleId": "payroll",
+        "label": "Print Services Contacts",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Print Services Contacts</h1>",
+                "css": "main {background: #A6CA84;}",
+                "js": "console.log('This is JS for page Print Services Contacts');"
+            }
+        ]
+    },
+    {
+        "id": "time_entry_setup",
+        "moduleId": "payroll",
+        "label": "Time entry setup",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time entry setup</h1>",
+                "css": "main {background: #4F22EA;}",
+                "js": "console.log('This is JS for page Time entry setup');"
+            }
+        ]
+    },
+    {
+        "id": "time_entry_templates",
+        "moduleId": "payroll",
+        "label": "Time entry templates",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time entry templates</h1>",
+                "css": "main {background: #77FBF6;}",
+                "js": "console.log('This is JS for page Time entry templates');"
+            }
+        ]
+    },
+    {
+        "id": "payroll_reconciliation",
+        "moduleId": "payroll",
+        "label": "Payroll Reconciliation",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Payroll Reconciliation</h1>",
+                "css": "main {background: #4C04DA;}",
+                "js": "console.log('This is JS for page Payroll Reconciliation');"
+            }
+        ]
+    },
+    {
+        "id": "tool_and_alerts",
+        "moduleId": "payroll",
+        "label": "Tool and Alerts",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Tool and Alerts</h1>",
+                "css": "main {background: #6242BC;}",
+                "js": "console.log('This is JS for page Tool and Alerts');"
+            }
+        ]
+    },
+    {
+        "id": "sessions",
+        "moduleId": "payroll",
+        "label": "Sessions",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Sessions</h1>",
+                "css": "main {background: #C61ACE;}",
+                "js": "console.log('This is JS for page Sessions');"
+            }
+        ]
+    },
+    {
+        "id": "tax_group_information",
+        "moduleId": "payroll",
+        "label": "Tax Group Information",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Tax Group Information</h1>",
+                "css": "main {background: #974E34;}",
+                "js": "console.log('This is JS for page Tax Group Information');"
+            }
+        ]
+    },
+    {
+        "id": "check_reconciliation",
+        "moduleId": "payroll",
+        "label": "Check Reconciliation",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Check Reconciliation</h1>",
+                "css": "main {background: #E8C246;}",
+                "js": "console.log('This is JS for page Check Reconciliation');"
+            }
+        ]
+    },
+    {
+        "id": "payroll_guide",
+        "moduleId": "payroll",
+        "label": "Payroll guide",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Payroll guide</h1>",
+                "css": "main {background: #3C4884;}",
+                "js": "console.log('This is JS for page Payroll guide');"
+            }
+        ]
+    },
+    {
+        "id": "payroll_business_rules",
+        "moduleId": "payroll",
+        "label": "Payroll business rules",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Payroll business rules</h1>",
+                "css": "main {background: #7E5261;}",
+                "js": "console.log('This is JS for page Payroll business rules');"
+            }
+        ]
+    },
+    {
+        "id": "payroll_setup_and_settings",
+        "moduleId": "payroll",
+        "label": "Payroll setup and settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Payroll setup and settings</h1>",
+                "css": "main {background: #8A0264;}",
+                "js": "console.log('This is JS for page Payroll setup and settings');"
+            }
+        ]
+    },
+    {
+        "id": "payroll_settings",
+        "moduleId": "payroll",
+        "label": "Payroll Settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Payroll Settings</h1>",
+                "css": "main {background: #AEFD9F;}",
+                "js": "console.log('This is JS for page Payroll Settings');"
+            }
+        ]
+    },
+    {
+        "id": "direct_deposit_file_groups",
+        "moduleId": "payroll",
+        "label": "Direct Deposit File Groups",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Direct Deposit File Groups</h1>",
+                "css": "main {background: #657888;}",
+                "js": "console.log('This is JS for page Direct Deposit File Groups');"
+            }
+        ]
+    },
+    {
+        "id": "retroactive_pay_settings",
+        "moduleId": "payroll",
+        "label": "Retroactive Pay Settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Retroactive Pay Settings</h1>",
+                "css": "main {background: #FAD50D;}",
+                "js": "console.log('This is JS for page Retroactive Pay Settings');"
+            }
+        ]
+    },
+    {
+        "id": "on_demand_pay",
+        "moduleId": "payroll",
+        "label": "On Demand Pay",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>On Demand Pay</h1>",
+                "css": "main {background: #263095;}",
+                "js": "console.log('This is JS for page On Demand Pay');"
+            }
+        ]
+    },
+    {
+        "id": "pay_statement_settings",
+        "moduleId": "payroll",
+        "label": "Pay statement settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Pay statement settings</h1>",
+                "css": "main {background: #953C51;}",
+                "js": "console.log('This is JS for page Pay statement settings');"
+            }
+        ]
+    },
+    {
+        "id": "pay_group_options",
+        "moduleId": "payroll",
+        "label": "Pay group options",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Pay group options</h1>",
+                "css": "main {background: #82D9F1;}",
+                "js": "console.log('This is JS for page Pay group options');"
+            }
+        ]
+    },
+    {
+        "id": "earnings_configuration",
+        "moduleId": "payroll",
+        "label": "Earnings configuration",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Earnings configuration</h1>",
+                "css": "main {background: #E0DB77;}",
+                "js": "console.log('This is JS for page Earnings configuration');"
+            }
+        ]
+    },
+    {
+        "id": "pay_insights_admin",
+        "moduleId": "payroll",
+        "label": "Pay insights admin",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Pay insights admin</h1>",
+                "css": "main {background: #C9D2FE;}",
+                "js": "console.log('This is JS for page Pay insights admin');"
+            }
+        ]
+    },
+    {
+        "id": "payroll_models_setup",
+        "moduleId": "payroll",
+        "label": "Payroll models setup",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Payroll models setup</h1>",
+                "css": "main {background: #266E56;}",
+                "js": "console.log('This is JS for page Payroll models setup');"
+            }
+        ]
+    },
+    {
+        "id": "retroactive_pay_settings",
+        "moduleId": "payroll",
+        "label": "Retroactive pay settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Retroactive pay settings</h1>",
+                "css": "main {background: #AF48E5;}",
+                "js": "console.log('This is JS for page Retroactive pay settings');"
+            }
+        ]
+    },
+    {
+        "id": "pay_statement_download",
+        "moduleId": "payroll",
+        "label": "Pay statement download",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Pay statement download</h1>",
+                "css": "main {background: #EC7A98;}",
+                "js": "console.log('This is JS for page Pay statement download');"
+            }
+        ]
+    },
+    {
+        "id": "employee_pay_totals",
+        "moduleId": "payroll",
+        "label": "Employee pay totals",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Employee pay totals</h1>",
+                "css": "main {background: #897DF7;}",
+                "js": "console.log('This is JS for page Employee pay totals');"
+            }
+        ]
+    },
+    {
+        "id": "third_party_pay",
+        "moduleId": "payroll",
+        "label": "Third party pay",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Third party pay</h1>",
+                "css": "main {background: #4B9D69;}",
+                "js": "console.log('This is JS for page Third party pay');"
+            }
+        ]
+    },
+    {
+        "id": "void_payment",
+        "moduleId": "payroll",
+        "label": "Void payment",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Void payment</h1>",
+                "css": "main {background: #046C52;}",
+                "js": "console.log('This is JS for page Void payment');"
+            }
+        ]
+    },
+    {
+        "id": "recruiting",
+        "moduleId": "recruiting",
+        "label": "Recruiting",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Recruiting</h1>",
+                "css": "main {background: #C761A6;}",
+                "js": "console.log('This is JS for page Recruiting');"
+            }
+        ]
+    },
+    {
+        "id": "recruiting_hub",
+        "moduleId": "recruiting",
+        "label": "Recruiting hub",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Recruiting hub</h1>",
+                "css": "main {background: #E1A65B;}",
+                "js": "console.log('This is JS for page Recruiting hub');"
+            }
+        ]
+    },
+    {
+        "id": "process_hires",
+        "moduleId": "recruiting",
+        "label": "Process hires",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Process hires</h1>",
+                "css": "main {background: #FC6ADE;}",
+                "js": "console.log('This is JS for page Process hires');"
+            }
+        ]
+    },
+    {
+        "id": "recruitment_classic",
+        "moduleId": "recruiting",
+        "label": "Recruitment classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Recruitment classic</h1>",
+                "css": "main {background: #5289F4;}",
+                "js": "console.log('This is JS for page Recruitment classic');"
+            }
+        ]
+    },
+    {
+        "id": "recruitment_gateway_classic",
+        "moduleId": "recruiting",
+        "label": "Recruitment gateway classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Recruitment gateway classic</h1>",
+                "css": "main {background: #F34E13;}",
+                "js": "console.log('This is JS for page Recruitment gateway classic');"
+            }
+        ]
+    },
+    {
+        "id": "process_hires_classic",
+        "moduleId": "recruiting",
+        "label": "Process hires classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Process hires classic</h1>",
+                "css": "main {background: #A7D01A;}",
+                "js": "console.log('This is JS for page Process hires classic');"
+            }
+        ]
+    },
+    {
+        "id": "onboarding",
+        "moduleId": "onboarding",
+        "label": "Onboarding",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Onboarding</h1>",
+                "css": "main {background: #98EBFF;}",
+                "js": "console.log('This is JS for page Onboarding');"
+            }
+        ]
+    },
+    {
+        "id": "onboarding_hub",
+        "moduleId": "onboarding",
+        "label": "Onboarding hub",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Onboarding hub</h1>",
+                "css": "main {background: #55BBCA;}",
+                "js": "console.log('This is JS for page Onboarding hub');"
+            }
+        ]
+    },
+    {
+        "id": "onboarding_classic?",
+        "moduleId": "onboarding",
+        "label": "Onboarding classic?",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Onboarding classic?</h1>",
+                "css": "main {background: #BB9359;}",
+                "js": "console.log('This is JS for page Onboarding classic?');"
+            }
+        ]
+    },
+    {
+        "id": "process_hires",
+        "moduleId": "onboarding",
+        "label": "Process hires",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Process hires</h1>",
+                "css": "main {background: #542A80;}",
+                "js": "console.log('This is JS for page Process hires');"
+            }
+        ]
+    },
+    {
+        "id": "process_hires_settings",
+        "moduleId": "onboarding",
+        "label": "Process hires settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Process hires settings</h1>",
+                "css": "main {background: #3A91B3;}",
+                "js": "console.log('This is JS for page Process hires settings');"
+            }
+        ]
+    },
+    {
+        "id": "configurations",
+        "moduleId": "onboarding",
+        "label": "configurations",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>configurations</h1>",
+                "css": "main {background: #73F934;}",
+                "js": "console.log('This is JS for page configurations');"
+            }
+        ]
+    },
+    {
+        "id": "mapping",
+        "moduleId": "onboarding",
+        "label": "mapping",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>mapping</h1>",
+                "css": "main {background: #8C3E98;}",
+                "js": "console.log('This is JS for page mapping');"
+            }
+        ]
+    },
+    {
+        "id": "onboarding_work_queue",
+        "moduleId": "onboarding",
+        "label": "Onboarding work queue",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Onboarding work queue</h1>",
+                "css": "main {background: #612D6E;}",
+                "js": "console.log('This is JS for page Onboarding work queue');"
+            }
+        ]
+    },
+    {
+        "id": "security",
+        "moduleId": "security",
+        "label": "Security",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Security</h1>",
+                "css": "main {background: #E5DBF8;}",
+                "js": "console.log('This is JS for page Security');"
+            }
+        ]
+    },
+    {
+        "id": "security_hub",
+        "moduleId": "security",
+        "label": "Security hub",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Security hub</h1>",
+                "css": "main {background: #BEF047;}",
+                "js": "console.log('This is JS for page Security hub');"
+            }
+        ]
+    },
+    {
+        "id": "role_administration",
+        "moduleId": "security",
+        "label": "Role administration",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Role administration</h1>",
+                "css": "main {background: #FD33B9;}",
+                "js": "console.log('This is JS for page Role administration');"
+            }
+        ]
+    },
+    {
+        "id": "role_automation",
+        "moduleId": "security",
+        "label": "Role automation",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Role automation</h1>",
+                "css": "main {background: #FB091C;}",
+                "js": "console.log('This is JS for page Role automation');"
+            }
+        ]
+    },
+    {
+        "id": "rules",
+        "moduleId": "security",
+        "label": "Rules",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Rules</h1>",
+                "css": "main {background: #3974AC;}",
+                "js": "console.log('This is JS for page Rules');"
+            }
+        ]
+    },
+    {
+        "id": "exceptions",
+        "moduleId": "security",
+        "label": "Exceptions",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Exceptions</h1>",
+                "css": "main {background: #6680F2;}",
+                "js": "console.log('This is JS for page Exceptions');"
+            }
+        ]
+    },
+    {
+        "id": "change_log",
+        "moduleId": "security",
+        "label": "Change log",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Change log</h1>",
+                "css": "main {background: #6209BE;}",
+                "js": "console.log('This is JS for page Change log');"
+            }
+        ]
+    },
+    {
+        "id": "user_administration",
+        "moduleId": "security",
+        "label": "User administration",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>User administration</h1>",
+                "css": "main {background: #8F0E4E;}",
+                "js": "console.log('This is JS for page User administration');"
+            }
+        ]
+    },
+    {
+        "id": "federated_sso",
+        "moduleId": "security",
+        "label": "Federated SSO",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Federated SSO</h1>",
+                "css": "main {background: #76CDD4;}",
+                "js": "console.log('This is JS for page Federated SSO');"
+            }
+        ]
+    },
+    {
+        "id": "sso_users",
+        "moduleId": "security",
+        "label": "SSO users",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>SSO users</h1>",
+                "css": "main {background: #0F4EFE;}",
+                "js": "console.log('This is JS for page SSO users');"
+            }
+        ]
+    },
+    {
+        "id": "setup",
+        "moduleId": "security",
+        "label": "Setup",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Setup</h1>",
+                "css": "main {background: #A7EDF9;}",
+                "js": "console.log('This is JS for page Setup');"
+            }
+        ]
+    },
+    {
+        "id": "direct_login",
+        "moduleId": "security",
+        "label": "Direct login",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Direct login</h1>",
+                "css": "main {background: #9D8377;}",
+                "js": "console.log('This is JS for page Direct login');"
+            }
+        ]
+    },
+    {
+        "id": "provisioning",
+        "moduleId": "security",
+        "label": "Provisioning",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Provisioning</h1>",
+                "css": "main {background: #0249AB;}",
+                "js": "console.log('This is JS for page Provisioning');"
+            }
+        ]
+    },
+    {
+        "id": "configurations",
+        "moduleId": "security",
+        "label": "Configurations",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Configurations</h1>",
+                "css": "main {background: #D84D0C;}",
+                "js": "console.log('This is JS for page Configurations');"
+            }
+        ]
+    },
+    {
+        "id": "import",
+        "moduleId": "security",
+        "label": "Import",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Import</h1>",
+                "css": "main {background: #9EB61D;}",
+                "js": "console.log('This is JS for page Import');"
+            }
+        ]
+    },
+    {
+        "id": "change_log",
+        "moduleId": "security",
+        "label": "Change log",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Change log</h1>",
+                "css": "main {background: #200D14;}",
+                "js": "console.log('This is JS for page Change log');"
+            }
+        ]
+    },
+    {
+        "id": "settings",
+        "moduleId": "security",
+        "label": "Settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Settings</h1>",
+                "css": "main {background: #8A7D52;}",
+                "js": "console.log('This is JS for page Settings');"
+            }
+        ]
+    },
+    {
+        "id": "ip_filtering",
+        "moduleId": "security",
+        "label": "IP Filtering",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>IP Filtering</h1>",
+                "css": "main {background: #59F5D7;}",
+                "js": "console.log('This is JS for page IP Filtering');"
+            }
+        ]
+    },
+    {
+        "id": "web_services",
+        "moduleId": "security",
+        "label": "Web Services",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Web Services</h1>",
+                "css": "main {background: #C4BF7A;}",
+                "js": "console.log('This is JS for page Web Services');"
+            }
+        ]
+    },
+    {
+        "id": "service_account_administration",
+        "moduleId": "security",
+        "label": "Service Account Administration",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Service Account Administration</h1>",
+                "css": "main {background: #6B5075;}",
+                "js": "console.log('This is JS for page Service Account Administration');"
+            }
+        ]
+    },
+    {
+        "id": "security_settings",
+        "moduleId": "security",
+        "label": "Security Settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Security Settings</h1>",
+                "css": "main {background: #C63769;}",
+                "js": "console.log('This is JS for page Security Settings');"
+            }
+        ]
+    },
+    {
+        "id": "multi-factor_authentication",
+        "moduleId": "security",
+        "label": "Multi-Factor Authentication",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Multi-Factor Authentication</h1>",
+                "css": "main {background: #FF2839;}",
+                "js": "console.log('This is JS for page Multi-Factor Authentication');"
+            }
+        ]
+    },
+    {
+        "id": "security_notifications",
+        "moduleId": "security",
+        "label": "Security Notifications",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Security Notifications</h1>",
+                "css": "main {background: #0CC8C6;}",
+                "js": "console.log('This is JS for page Security Notifications');"
+            }
+        ]
+    },
+    {
+        "id": "process_hires_filtering",
+        "moduleId": "security",
+        "label": "Process Hires Filtering",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Process Hires Filtering</h1>",
+                "css": "main {background: #32A3F4;}",
+                "js": "console.log('This is JS for page Process Hires Filtering');"
+            }
+        ]
+    },
+    {
+        "id": "talent_management",
+        "moduleId": "talent_management",
+        "label": "Talent Management",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Talent Management</h1>",
+                "css": "main {background: #C4BE5F;}",
+                "js": "console.log('This is JS for page Talent Management');"
+            }
+        ]
+    },
+    {
+        "id": "development_opportunities",
+        "moduleId": "talent_management",
+        "label": "Development Opportunities",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Development Opportunities</h1>",
+                "css": "main {background: #941A1E;}",
+                "js": "console.log('This is JS for page Development Opportunities');"
+            }
+        ]
+    },
+    {
+        "id": "performance_management",
+        "moduleId": "talent_management",
+        "label": "Performance Management",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Performance Management</h1>",
+                "css": "main {background: #1C2B4A;}",
+                "js": "console.log('This is JS for page Performance Management');"
+            }
+        ]
+    },
+    {
+        "id": "review_templates",
+        "moduleId": "talent_management",
+        "label": "Review templates",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Review templates</h1>",
+                "css": "main {background: #04D443;}",
+                "js": "console.log('This is JS for page Review templates');"
+            }
+        ]
+    },
+    {
+        "id": "distributed_reviews",
+        "moduleId": "talent_management",
+        "label": "Distributed reviews",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Distributed reviews</h1>",
+                "css": "main {background: #78D219;}",
+                "js": "console.log('This is JS for page Distributed reviews');"
+            }
+        ]
+    },
+    {
+        "id": "review_schedules",
+        "moduleId": "talent_management",
+        "label": "Review schedules",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Review schedules</h1>",
+                "css": "main {background: #54892C;}",
+                "js": "console.log('This is JS for page Review schedules');"
+            }
+        ]
+    },
+    {
+        "id": "goal_planning",
+        "moduleId": "talent_management",
+        "label": "Goal planning",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Goal planning</h1>",
+                "css": "main {background: #B5EE78;}",
+                "js": "console.log('This is JS for page Goal planning');"
+            }
+        ]
+    },
+    {
+        "id": "assignable_goals",
+        "moduleId": "talent_management",
+        "label": "Assignable goals",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Assignable goals</h1>",
+                "css": "main {background: #F0D40E;}",
+                "js": "console.log('This is JS for page Assignable goals');"
+            }
+        ]
+    },
+    {
+        "id": "recommended_goals",
+        "moduleId": "talent_management",
+        "label": "Recommended goals",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Recommended goals</h1>",
+                "css": "main {background: #6F2126;}",
+                "js": "console.log('This is JS for page Recommended goals');"
+            }
+        ]
+    },
+    {
+        "id": "competencies",
+        "moduleId": "talent_management",
+        "label": "Competencies",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Competencies</h1>",
+                "css": "main {background: #E00A2B;}",
+                "js": "console.log('This is JS for page Competencies');"
+            }
+        ]
+    },
+    {
+        "id": "performance_configuration",
+        "moduleId": "talent_management",
+        "label": "Performance configuration",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Performance configuration</h1>",
+                "css": "main {background: #7A7EE5;}",
+                "js": "console.log('This is JS for page Performance configuration');"
+            }
+        ]
+    },
+    {
+        "id": "succession_plans",
+        "moduleId": "talent_management",
+        "label": "Succession Plans",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Succession Plans</h1>",
+                "css": "main {background: #3CEF7E;}",
+                "js": "console.log('This is JS for page Succession Plans');"
+            }
+        ]
+    },
+    {
+        "id": "talent_management_setup",
+        "moduleId": "talent_management",
+        "label": "Talent Management Setup",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Talent Management Setup</h1>",
+                "css": "main {background: #F62CA0;}",
+                "js": "console.log('This is JS for page Talent Management Setup');"
+            }
+        ]
+    },
+    {
+        "id": "talent_management",
+        "moduleId": "talent_management",
+        "label": "Talent Management",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Talent Management</h1>",
+                "css": "main {background: #F138D0;}",
+                "js": "console.log('This is JS for page Talent Management');"
+            }
+        ]
+    },
+    {
+        "id": "talent_notifications",
+        "moduleId": "talent_management",
+        "label": "Talent Notifications",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Talent Notifications</h1>",
+                "css": "main {background: #685BAB;}",
+                "js": "console.log('This is JS for page Talent Notifications');"
+            }
+        ]
+    },
+    {
+        "id": "manager_notifications",
+        "moduleId": "talent_management",
+        "label": "Manager Notifications",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Manager Notifications</h1>",
+                "css": "main {background: #1ED101;}",
+                "js": "console.log('This is JS for page Manager Notifications');"
+            }
+        ]
+    },
+    {
+        "id": "leadership_actions",
+        "moduleId": "talent_management",
+        "label": "Leadership Actions",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Leadership Actions</h1>",
+                "css": "main {background: #D27C51;}",
+                "js": "console.log('This is JS for page Leadership Actions');"
+            }
+        ]
+    },
+    {
+        "id": "taxes",
+        "moduleId": "taxes",
+        "label": "Taxes",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Taxes</h1>",
+                "css": "main {background: #A9A1B3;}",
+                "js": "console.log('This is JS for page Taxes');"
+            }
+        ]
+    },
+    {
+        "id": "employee_withholding_forms_w-4",
+        "moduleId": "taxes",
+        "label": "Employee Withholding Forms W-4",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Employee Withholding Forms W-4</h1>",
+                "css": "main {background: #E0EBD2;}",
+                "js": "console.log('This is JS for page Employee Withholding Forms W-4');"
+            }
+        ]
+    },
+    {
+        "id": "pa_tax_collection_districts",
+        "moduleId": "taxes",
+        "label": "PA Tax collection districts",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>PA Tax collection districts</h1>",
+                "css": "main {background: #949DA7;}",
+                "js": "console.log('This is JS for page PA Tax collection districts');"
+            }
+        ]
+    },
+    {
+        "id": "smart_tax_search",
+        "moduleId": "taxes",
+        "label": "Smart tax search",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Smart tax search</h1>",
+                "css": "main {background: #8D2BEE;}",
+                "js": "console.log('This is JS for page Smart tax search');"
+            }
+        ]
+    },
+    {
+        "id": "workflow",
+        "moduleId": "workflow",
+        "label": "Workflow",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Workflow</h1>",
+                "css": "main {background: #89344F;}",
+                "js": "console.log('This is JS for page Workflow');"
+            }
+        ]
+    },
+    {
+        "id": "workflow_hub",
+        "moduleId": "workflow",
+        "label": "Workflow hub",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Workflow hub</h1>",
+                "css": "main {background: #C78247;}",
+                "js": "console.log('This is JS for page Workflow hub');"
+            }
+        ]
+    },
+    {
+        "id": "requests",
+        "moduleId": "workflow",
+        "label": "Requests",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Requests</h1>",
+                "css": "main {background: #6A32D4;}",
+                "js": "console.log('This is JS for page Requests');"
+            }
+        ]
+    },
+    {
+        "id": "out_of_office",
+        "moduleId": "workflow",
+        "label": "Out of office",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Out of office</h1>",
+                "css": "main {background: #0EEC4D;}",
+                "js": "console.log('This is JS for page Out of office');"
+            }
+        ]
+    },
+    {
+        "id": "notifications",
+        "moduleId": "workflow",
+        "label": "Notifications",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Notifications</h1>",
+                "css": "main {background: #FF590B;}",
+                "js": "console.log('This is JS for page Notifications');"
+            }
+        ]
+    },
+    {
+        "id": "business_processes",
+        "moduleId": "workflow",
+        "label": "Business processes",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Business processes</h1>",
+                "css": "main {background: #76124D;}",
+                "js": "console.log('This is JS for page Business processes');"
+            }
+        ]
+    },
+    {
+        "id": "workforce_management",
+        "moduleId": "workforce_management",
+        "label": "Workforce Management",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Workforce Management</h1>",
+                "css": "main {background: #F95365;}",
+                "js": "console.log('This is JS for page Workforce Management');"
+            }
+        ]
+    },
+    {
+        "id": "time_entry_templates_setup_classic",
+        "moduleId": "workforce_management",
+        "label": "Time entry templates setup classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time entry templates setup classic</h1>",
+                "css": "main {background: #85650E;}",
+                "js": "console.log('This is JS for page Time entry templates setup classic');"
+            }
+        ]
+    },
+    {
+        "id": "time_and_attendance_classic",
+        "moduleId": "workforce_management",
+        "label": "Time and attendance classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time and attendance classic</h1>",
+                "css": "main {background: #44CE84;}",
+                "js": "console.log('This is JS for page Time and attendance classic');"
+            }
+        ]
+    },
+    {
+        "id": "time_management_classic",
+        "moduleId": "workforce_management",
+        "label": "Time management classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time management classic</h1>",
+                "css": "main {background: #017B8A;}",
+                "js": "console.log('This is JS for page Time management classic');"
+            }
+        ]
+    },
+    {
+        "id": "paid_time_off_pto_classic",
+        "moduleId": "workforce_management",
+        "label": "Paid time off PTO classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Paid time off PTO classic</h1>",
+                "css": "main {background: #2E4688;}",
+                "js": "console.log('This is JS for page Paid time off PTO classic');"
+            }
+        ]
+    },
+    {
+        "id": "time_off_requests",
+        "moduleId": "workforce_management",
+        "label": "Time off requests",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time off requests</h1>",
+                "css": "main {background: #D4F008;}",
+                "js": "console.log('This is JS for page Time off requests');"
+            }
+        ]
+    },
+    {
+        "id": "set_balances",
+        "moduleId": "workforce_management",
+        "label": "Set balances",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Set balances</h1>",
+                "css": "main {background: #AD3123;}",
+                "js": "console.log('This is JS for page Set balances');"
+            }
+        ]
+    },
+    {
+        "id": "time_off_settings",
+        "moduleId": "workforce_management",
+        "label": "Time off settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time off settings</h1>",
+                "css": "main {background: #DD5397;}",
+                "js": "console.log('This is JS for page Time off settings');"
+            }
+        ]
+    },
+    {
+        "id": "workforce_continuity",
+        "moduleId": "workforce_management",
+        "label": "Workforce continuity",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Workforce continuity</h1>",
+                "css": "main {background: #1BFB1A;}",
+                "js": "console.log('This is JS for page Workforce continuity');"
+            }
+        ]
+    }
+]

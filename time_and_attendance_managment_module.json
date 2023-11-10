@@ -1,21 +1,86 @@
-{
-    "tab": "team",
-    "pages": [
-        {
-            "id": "time_and_attendance_managment",
-            "tab": "team",
-            "moduleId": "time_and_attendance_managment",
-            "label": "Time and attendance managment",
-            "description": "This is a description for page Time and attendance managment",
-            "containerId": "main-content",
-            "url": "",
-            "content": [
-                {
-                    "html": "<h1>Time and attendance managment</h1>",
-                    "css": "main {background: #90BCB2;}",
-                    "js": "console.log('This is JS for page Time and attendance managment');"
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "id": "time_and_attendance_managment",
+        "moduleId": "time_and_attendance_managment",
+        "label": "Time and attendance managment",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time and attendance managment</h1>",
+                "css": "main {background: #4C3CFA;}",
+                "js": "console.log('This is JS for page Time and attendance managment');"
+            }
+        ]
+    },
+    {
+        "id": "team_schedule",
+        "moduleId": "time_and_attendance_managment",
+        "label": "Team schedule",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Team schedule</h1>",
+                "css": "main {background: #203395;}",
+                "js": "console.log('This is JS for page Team schedule');"
+            }
+        ]
+    },
+    {
+        "id": "leave_management",
+        "moduleId": "time_and_attendance_managment",
+        "label": "Leave management",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Leave management</h1>",
+                "css": "main {background: #EEB8AB;}",
+                "js": "console.log('This is JS for page Leave management');"
+            }
+        ]
+    },
+    {
+        "id": "time_off_requests_classic",
+        "moduleId": "time_and_attendance_managment",
+        "label": "Time off requests classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time off requests classic</h1>",
+                "css": "main {background: #09E9E8;}",
+                "js": "console.log('This is JS for page Time off requests classic');"
+            }
+        ]
+    },
+    {
+        "id": "time_and_attendance_classic",
+        "moduleId": "time_and_attendance_managment",
+        "label": "Time and Attendance classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time and Attendance classic</h1>",
+                "css": "main {background: #D2FFCF;}",
+                "js": "console.log('This is JS for page Time and Attendance classic');"
+            }
+        ]
+    },
+    {
+        "id": "time_management_classic",
+        "moduleId": "time_and_attendance_managment",
+        "label": "Time Management classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time Management classic</h1>",
+                "css": "main {background: #175074;}",
+                "js": "console.log('This is JS for page Time Management classic');"
+            }
+        ]
+    }
+]

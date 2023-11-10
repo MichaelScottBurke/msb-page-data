@@ -1,21 +1,296 @@
-{
-    "tab": "administration_and_configuration",
-    "pages": [
-        {
-            "id": "application_settings",
-            "tab": "administration_and_configuration",
-            "moduleId": "application_settings",
-            "label": "Application settings",
-            "description": "This is a description for page Application settings",
-            "containerId": "main-content",
-            "url": "",
-            "content": [
-                {
-                    "html": "<h1>Application settings</h1>",
-                    "css": "main {background: #01BDD4;}",
-                    "js": "console.log('This is JS for page Application settings');"
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "id": "application_settings",
+        "moduleId": "application_settings",
+        "label": "Application settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Application settings</h1>",
+                "css": "main {background: #414413;}",
+                "js": "console.log('This is JS for page Application settings');"
+            }
+        ]
+    },
+    {
+        "id": "settings_hub",
+        "moduleId": "application_settings",
+        "label": "Settings hub",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Settings hub</h1>",
+                "css": "main {background: #B22307;}",
+                "js": "console.log('This is JS for page Settings hub');"
+            }
+        ]
+    },
+    {
+        "id": "additional_address_settings",
+        "moduleId": "application_settings",
+        "label": "Additional address settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Additional address settings</h1>",
+                "css": "main {background: #35B531;}",
+                "js": "console.log('This is JS for page Additional address settings');"
+            }
+        ]
+    },
+    {
+        "id": "employee_settings",
+        "moduleId": "application_settings",
+        "label": "Employee settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Employee settings</h1>",
+                "css": "main {background: #CE45E4;}",
+                "js": "console.log('This is JS for page Employee settings');"
+            }
+        ]
+    },
+    {
+        "id": "display_settings",
+        "moduleId": "application_settings",
+        "label": "Display settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Display settings</h1>",
+                "css": "main {background: #33F82A;}",
+                "js": "console.log('This is JS for page Display settings');"
+            }
+        ]
+    },
+    {
+        "id": "theming:_color_and_logo",
+        "moduleId": "application_settings",
+        "label": "Theming: color and logo",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Theming: color and logo</h1>",
+                "css": "main {background: #3A8418;}",
+                "js": "console.log('This is JS for page Theming: color and logo');"
+            }
+        ]
+    },
+    {
+        "id": "reporting",
+        "moduleId": "application_settings",
+        "label": "Reporting",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Reporting</h1>",
+                "css": "main {background: #1A00A4;}",
+                "js": "console.log('This is JS for page Reporting');"
+            }
+        ]
+    },
+    {
+        "id": "auditing",
+        "moduleId": "application_settings",
+        "label": "Auditing",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Auditing</h1>",
+                "css": "main {background: #43C749;}",
+                "js": "console.log('This is JS for page Auditing');"
+            }
+        ]
+    },
+    {
+        "id": "compensation_settings",
+        "moduleId": "application_settings",
+        "label": "Compensation settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Compensation settings</h1>",
+                "css": "main {background: #88308D;}",
+                "js": "console.log('This is JS for page Compensation settings');"
+            }
+        ]
+    },
+    {
+        "id": "pto_settings",
+        "moduleId": "application_settings",
+        "label": "PTO settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>PTO settings</h1>",
+                "css": "main {background: #C1DB7C;}",
+                "js": "console.log('This is JS for page PTO settings');"
+            }
+        ]
+    },
+    {
+        "id": "year-end_settings",
+        "moduleId": "application_settings",
+        "label": "Year-end settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Year-end settings</h1>",
+                "css": "main {background: #E453B2;}",
+                "js": "console.log('This is JS for page Year-end settings');"
+            }
+        ]
+    },
+    {
+        "id": "ppaca_reporting_settings",
+        "moduleId": "application_settings",
+        "label": "PPACA reporting settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>PPACA reporting settings</h1>",
+                "css": "main {background: #8949C0;}",
+                "js": "console.log('This is JS for page PPACA reporting settings');"
+            }
+        ]
+    },
+    {
+        "id": "organization_chart",
+        "moduleId": "application_settings",
+        "label": "Organization chart",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Organization chart</h1>",
+                "css": "main {background: #FF0EED;}",
+                "js": "console.log('This is JS for page Organization chart');"
+            }
+        ]
+    },
+    {
+        "id": "payroll_settings",
+        "moduleId": "application_settings",
+        "label": "Payroll settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Payroll settings</h1>",
+                "css": "main {background: #C8BC28;}",
+                "js": "console.log('This is JS for page Payroll settings');"
+            }
+        ]
+    },
+    {
+        "id": "predictive_analytics_settings",
+        "moduleId": "application_settings",
+        "label": "Predictive analytics settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Predictive analytics settings</h1>",
+                "css": "main {background: #A32458;}",
+                "js": "console.log('This is JS for page Predictive analytics settings');"
+            }
+        ]
+    },
+    {
+        "id": "record_of_employment_roe_settings",
+        "moduleId": "application_settings",
+        "label": "Record of employment ROE settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Record of employment ROE settings</h1>",
+                "css": "main {background: #0FE4B7;}",
+                "js": "console.log('This is JS for page Record of employment ROE settings');"
+            }
+        ]
+    },
+    {
+        "id": "organization_chart_settings",
+        "moduleId": "application_settings",
+        "label": "Organization chart settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Organization chart settings</h1>",
+                "css": "main {background: #56E6A9;}",
+                "js": "console.log('This is JS for page Organization chart settings');"
+            }
+        ]
+    },
+    {
+        "id": "process_hires_settings",
+        "moduleId": "application_settings",
+        "label": "Process hires settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Process hires settings</h1>",
+                "css": "main {background: #439CCC;}",
+                "js": "console.log('This is JS for page Process hires settings');"
+            }
+        ]
+    },
+    {
+        "id": "configurations",
+        "moduleId": "application_settings",
+        "label": "configurations",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>configurations</h1>",
+                "css": "main {background: #F5C96F;}",
+                "js": "console.log('This is JS for page configurations');"
+            }
+        ]
+    },
+    {
+        "id": "mapping",
+        "moduleId": "application_settings",
+        "label": "mapping",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>mapping</h1>",
+                "css": "main {background: #A13833;}",
+                "js": "console.log('This is JS for page mapping');"
+            }
+        ]
+    },
+    {
+        "id": "transfer_rule_settings",
+        "moduleId": "application_settings",
+        "label": "Transfer rule settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Transfer rule settings</h1>",
+                "css": "main {background: #BE3183;}",
+                "js": "console.log('This is JS for page Transfer rule settings');"
+            }
+        ]
+    }
+]

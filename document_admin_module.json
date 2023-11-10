@@ -1,21 +1,44 @@
-{
-    "tab": "administration_and_configuration",
-    "pages": [
-        {
-            "id": "document_admin",
-            "tab": "administration_and_configuration",
-            "moduleId": "document_admin",
-            "label": "Document admin",
-            "description": "This is a description for page Document admin",
-            "containerId": "main-content",
-            "url": "",
-            "content": [
-                {
-                    "html": "<h1>Document admin</h1>",
-                    "css": "main {background: #9FCE99;}",
-                    "js": "console.log('This is JS for page Document admin');"
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "id": "document_admin",
+        "moduleId": "document_admin",
+        "label": "Document admin",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Document admin</h1>",
+                "css": "main {background: #C00C98;}",
+                "js": "console.log('This is JS for page Document admin');"
+            }
+        ]
+    },
+    {
+        "id": "document_acknowledgements",
+        "moduleId": "document_admin",
+        "label": "Document acknowledgements",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Document acknowledgements</h1>",
+                "css": "main {background: #97BC95;}",
+                "js": "console.log('This is JS for page Document acknowledgements');"
+            }
+        ]
+    },
+    {
+        "id": "document_acknowledgment_setup",
+        "moduleId": "document_admin",
+        "label": "Document acknowledgment setup",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Document acknowledgment setup</h1>",
+                "css": "main {background: #52A026;}",
+                "js": "console.log('This is JS for page Document acknowledgment setup');"
+            }
+        ]
+    }
+]

@@ -1,21 +1,58 @@
-{
-    "tab": "administration_and_configuration",
-    "pages": [
-        {
-            "id": "taxes",
-            "tab": "administration_and_configuration",
-            "moduleId": "taxes",
-            "label": "Taxes",
-            "description": "This is a description for page Taxes",
-            "containerId": "main-content",
-            "url": "",
-            "content": [
-                {
-                    "html": "<h1>Taxes</h1>",
-                    "css": "main {background: #C21E1C;}",
-                    "js": "console.log('This is JS for page Taxes');"
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "id": "taxes",
+        "moduleId": "taxes",
+        "label": "Taxes",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Taxes</h1>",
+                "css": "main {background: #A9A1B3;}",
+                "js": "console.log('This is JS for page Taxes');"
+            }
+        ]
+    },
+    {
+        "id": "employee_withholding_forms_w-4",
+        "moduleId": "taxes",
+        "label": "Employee Withholding Forms W-4",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Employee Withholding Forms W-4</h1>",
+                "css": "main {background: #E0EBD2;}",
+                "js": "console.log('This is JS for page Employee Withholding Forms W-4');"
+            }
+        ]
+    },
+    {
+        "id": "pa_tax_collection_districts",
+        "moduleId": "taxes",
+        "label": "PA Tax collection districts",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>PA Tax collection districts</h1>",
+                "css": "main {background: #949DA7;}",
+                "js": "console.log('This is JS for page PA Tax collection districts');"
+            }
+        ]
+    },
+    {
+        "id": "smart_tax_search",
+        "moduleId": "taxes",
+        "label": "Smart tax search",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Smart tax search</h1>",
+                "css": "main {background: #8D2BEE;}",
+                "js": "console.log('This is JS for page Smart tax search');"
+            }
+        ]
+    }
+]

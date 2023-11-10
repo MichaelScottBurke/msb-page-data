@@ -1,21 +1,758 @@
-{
-    "tab": "administration_and_configuration",
-    "pages": [
-        {
-            "id": "payroll",
-            "tab": "administration_and_configuration",
-            "moduleId": "payroll",
-            "label": "Payroll",
-            "description": "This is a description for page Payroll",
-            "containerId": "main-content",
-            "url": "",
-            "content": [
-                {
-                    "html": "<h1>Payroll</h1>",
-                    "css": "main {background: #190210;}",
-                    "js": "console.log('This is JS for page Payroll');"
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "id": "payroll",
+        "moduleId": "payroll",
+        "label": "Payroll",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Payroll</h1>",
+                "css": "main {background: #A3123C;}",
+                "js": "console.log('This is JS for page Payroll');"
+            }
+        ]
+    },
+    {
+        "id": "payroll_hub",
+        "moduleId": "payroll",
+        "label": "Payroll hub",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Payroll hub</h1>",
+                "css": "main {background: #CD8350;}",
+                "js": "console.log('This is JS for page Payroll hub');"
+            }
+        ]
+    },
+    {
+        "id": "deduction_goal_update",
+        "moduleId": "payroll",
+        "label": "Deduction goal update",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Deduction goal update</h1>",
+                "css": "main {background: #FB8E19;}",
+                "js": "console.log('This is JS for page Deduction goal update');"
+            }
+        ]
+    },
+    {
+        "id": "earnings_and_deductions",
+        "moduleId": "payroll",
+        "label": "Earnings and deductions",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Earnings and deductions</h1>",
+                "css": "main {background: #5FA304;}",
+                "js": "console.log('This is JS for page Earnings and deductions');"
+            }
+        ]
+    },
+    {
+        "id": "deduction_goal_update",
+        "moduleId": "payroll",
+        "label": "Deduction goal update",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Deduction goal update</h1>",
+                "css": "main {background: #77A401;}",
+                "js": "console.log('This is JS for page Deduction goal update');"
+            }
+        ]
+    },
+    {
+        "id": "earnings_deductions_and_garnishments_settings",
+        "moduleId": "payroll",
+        "label": "Earnings deductions and garnishments settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Earnings deductions and garnishments settings</h1>",
+                "css": "main {background: #196FE0;}",
+                "js": "console.log('This is JS for page Earnings deductions and garnishments settings');"
+            }
+        ]
+    },
+    {
+        "id": "garnishments_and_wage_attachments",
+        "moduleId": "payroll",
+        "label": "Garnishments and wage attachments",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Garnishments and wage attachments</h1>",
+                "css": "main {background: #8ADA5A;}",
+                "js": "console.log('This is JS for page Garnishments and wage attachments');"
+            }
+        ]
+    },
+    {
+        "id": "garnishments_and_wage_attachments_hub",
+        "moduleId": "payroll",
+        "label": "Garnishments and wage attachments hub",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Garnishments and wage attachments hub</h1>",
+                "css": "main {background: #1CE542;}",
+                "js": "console.log('This is JS for page Garnishments and wage attachments hub');"
+            }
+        ]
+    },
+    {
+        "id": "wage_attachments",
+        "moduleId": "payroll",
+        "label": "Wage Attachments",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Wage Attachments</h1>",
+                "css": "main {background: #0E6F18;}",
+                "js": "console.log('This is JS for page Wage Attachments');"
+            }
+        ]
+    },
+    {
+        "id": "wage_attachment_alerts",
+        "moduleId": "payroll",
+        "label": "Wage attachment alerts",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Wage attachment alerts</h1>",
+                "css": "main {background: #93519E;}",
+                "js": "console.log('This is JS for page Wage attachment alerts');"
+            }
+        ]
+    },
+    {
+        "id": "garnishment_setup",
+        "moduleId": "payroll",
+        "label": "Garnishment setup",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Garnishment setup</h1>",
+                "css": "main {background: #1E1503;}",
+                "js": "console.log('This is JS for page Garnishment setup');"
+            }
+        ]
+    },
+    {
+        "id": "exceptions",
+        "moduleId": "payroll",
+        "label": "Exceptions",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Exceptions</h1>",
+                "css": "main {background: #CB41DD;}",
+                "js": "console.log('This is JS for page Exceptions');"
+            }
+        ]
+    },
+    {
+        "id": "change_log",
+        "moduleId": "payroll",
+        "label": "Change log",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Change log</h1>",
+                "css": "main {background: #28D91C;}",
+                "js": "console.log('This is JS for page Change log');"
+            }
+        ]
+    },
+    {
+        "id": "giving",
+        "moduleId": "payroll",
+        "label": "Giving",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Giving</h1>",
+                "css": "main {background: #A7E082;}",
+                "js": "console.log('This is JS for page Giving');"
+            }
+        ]
+    },
+    {
+        "id": "year-end",
+        "moduleId": "payroll",
+        "label": "Year-end",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Year-end</h1>",
+                "css": "main {background: #6A96C0;}",
+                "js": "console.log('This is JS for page Year-end');"
+            }
+        ]
+    },
+    {
+        "id": "year-end_settings",
+        "moduleId": "payroll",
+        "label": "Year-end settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Year-end settings</h1>",
+                "css": "main {background: #A56D28;}",
+                "js": "console.log('This is JS for page Year-end settings');"
+            }
+        ]
+    },
+    {
+        "id": "year-end_reporting_forms",
+        "moduleId": "payroll",
+        "label": "Year-end reporting forms",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Year-end reporting forms</h1>",
+                "css": "main {background: #B80C1F;}",
+                "js": "console.log('This is JS for page Year-end reporting forms');"
+            }
+        ]
+    },
+    {
+        "id": "pending_pay_items",
+        "moduleId": "payroll",
+        "label": "Pending Pay Items",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Pending Pay Items</h1>",
+                "css": "main {background: #2538AD;}",
+                "js": "console.log('This is JS for page Pending Pay Items');"
+            }
+        ]
+    },
+    {
+        "id": "retroactive_pay",
+        "moduleId": "payroll",
+        "label": "Retroactive Pay",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Retroactive Pay</h1>",
+                "css": "main {background: #3979B5;}",
+                "js": "console.log('This is JS for page Retroactive Pay');"
+            }
+        ]
+    },
+    {
+        "id": "set_time_and_attendance_balances",
+        "moduleId": "payroll",
+        "label": "Set Time and Attendance Balances",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Set Time and Attendance Balances</h1>",
+                "css": "main {background: #24F626;}",
+                "js": "console.log('This is JS for page Set Time and Attendance Balances');"
+            }
+        ]
+    },
+    {
+        "id": "time_and_attendance",
+        "moduleId": "payroll",
+        "label": "Time and Attendance",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time and Attendance</h1>",
+                "css": "main {background: #C8B961;}",
+                "js": "console.log('This is JS for page Time and Attendance');"
+            }
+        ]
+    },
+    {
+        "id": "time_management",
+        "moduleId": "payroll",
+        "label": "Time Management",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time Management</h1>",
+                "css": "main {background: #98F69F;}",
+                "js": "console.log('This is JS for page Time Management');"
+            }
+        ]
+    },
+    {
+        "id": "void_by_pay_period",
+        "moduleId": "payroll",
+        "label": "Void by Pay Period",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Void by Pay Period</h1>",
+                "css": "main {background: #26325A;}",
+                "js": "console.log('This is JS for page Void by Pay Period');"
+            }
+        ]
+    },
+    {
+        "id": "void_payment",
+        "moduleId": "payroll",
+        "label": "Void Payment",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Void Payment</h1>",
+                "css": "main {background: #8FE4EB;}",
+                "js": "console.log('This is JS for page Void Payment');"
+            }
+        ]
+    },
+    {
+        "id": "payroll_guide",
+        "moduleId": "payroll",
+        "label": "Payroll Guide",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Payroll Guide</h1>",
+                "css": "main {background: #F4C211;}",
+                "js": "console.log('This is JS for page Payroll Guide');"
+            }
+        ]
+    },
+    {
+        "id": "payroll_business_rules",
+        "moduleId": "payroll",
+        "label": "Payroll business rules",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Payroll business rules</h1>",
+                "css": "main {background: #2821D2;}",
+                "js": "console.log('This is JS for page Payroll business rules');"
+            }
+        ]
+    },
+    {
+        "id": "process_automation",
+        "moduleId": "payroll",
+        "label": "Process automation",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Process automation</h1>",
+                "css": "main {background: #A63256;}",
+                "js": "console.log('This is JS for page Process automation');"
+            }
+        ]
+    },
+    {
+        "id": "process_automation",
+        "moduleId": "payroll",
+        "label": "Process automation",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Process automation</h1>",
+                "css": "main {background: #6A69BB;}",
+                "js": "console.log('This is JS for page Process automation');"
+            }
+        ]
+    },
+    {
+        "id": "print_services_file_groups",
+        "moduleId": "payroll",
+        "label": "Print Services File Groups",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Print Services File Groups</h1>",
+                "css": "main {background: #FE1804;}",
+                "js": "console.log('This is JS for page Print Services File Groups');"
+            }
+        ]
+    },
+    {
+        "id": "print_services_contacts",
+        "moduleId": "payroll",
+        "label": "Print Services Contacts",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Print Services Contacts</h1>",
+                "css": "main {background: #A6CA84;}",
+                "js": "console.log('This is JS for page Print Services Contacts');"
+            }
+        ]
+    },
+    {
+        "id": "time_entry_setup",
+        "moduleId": "payroll",
+        "label": "Time entry setup",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time entry setup</h1>",
+                "css": "main {background: #4F22EA;}",
+                "js": "console.log('This is JS for page Time entry setup');"
+            }
+        ]
+    },
+    {
+        "id": "time_entry_templates",
+        "moduleId": "payroll",
+        "label": "Time entry templates",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time entry templates</h1>",
+                "css": "main {background: #77FBF6;}",
+                "js": "console.log('This is JS for page Time entry templates');"
+            }
+        ]
+    },
+    {
+        "id": "payroll_reconciliation",
+        "moduleId": "payroll",
+        "label": "Payroll Reconciliation",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Payroll Reconciliation</h1>",
+                "css": "main {background: #4C04DA;}",
+                "js": "console.log('This is JS for page Payroll Reconciliation');"
+            }
+        ]
+    },
+    {
+        "id": "tool_and_alerts",
+        "moduleId": "payroll",
+        "label": "Tool and Alerts",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Tool and Alerts</h1>",
+                "css": "main {background: #6242BC;}",
+                "js": "console.log('This is JS for page Tool and Alerts');"
+            }
+        ]
+    },
+    {
+        "id": "sessions",
+        "moduleId": "payroll",
+        "label": "Sessions",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Sessions</h1>",
+                "css": "main {background: #C61ACE;}",
+                "js": "console.log('This is JS for page Sessions');"
+            }
+        ]
+    },
+    {
+        "id": "tax_group_information",
+        "moduleId": "payroll",
+        "label": "Tax Group Information",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Tax Group Information</h1>",
+                "css": "main {background: #974E34;}",
+                "js": "console.log('This is JS for page Tax Group Information');"
+            }
+        ]
+    },
+    {
+        "id": "check_reconciliation",
+        "moduleId": "payroll",
+        "label": "Check Reconciliation",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Check Reconciliation</h1>",
+                "css": "main {background: #E8C246;}",
+                "js": "console.log('This is JS for page Check Reconciliation');"
+            }
+        ]
+    },
+    {
+        "id": "payroll_guide",
+        "moduleId": "payroll",
+        "label": "Payroll guide",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Payroll guide</h1>",
+                "css": "main {background: #3C4884;}",
+                "js": "console.log('This is JS for page Payroll guide');"
+            }
+        ]
+    },
+    {
+        "id": "payroll_business_rules",
+        "moduleId": "payroll",
+        "label": "Payroll business rules",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Payroll business rules</h1>",
+                "css": "main {background: #7E5261;}",
+                "js": "console.log('This is JS for page Payroll business rules');"
+            }
+        ]
+    },
+    {
+        "id": "payroll_setup_and_settings",
+        "moduleId": "payroll",
+        "label": "Payroll setup and settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Payroll setup and settings</h1>",
+                "css": "main {background: #8A0264;}",
+                "js": "console.log('This is JS for page Payroll setup and settings');"
+            }
+        ]
+    },
+    {
+        "id": "payroll_settings",
+        "moduleId": "payroll",
+        "label": "Payroll Settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Payroll Settings</h1>",
+                "css": "main {background: #AEFD9F;}",
+                "js": "console.log('This is JS for page Payroll Settings');"
+            }
+        ]
+    },
+    {
+        "id": "direct_deposit_file_groups",
+        "moduleId": "payroll",
+        "label": "Direct Deposit File Groups",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Direct Deposit File Groups</h1>",
+                "css": "main {background: #657888;}",
+                "js": "console.log('This is JS for page Direct Deposit File Groups');"
+            }
+        ]
+    },
+    {
+        "id": "retroactive_pay_settings",
+        "moduleId": "payroll",
+        "label": "Retroactive Pay Settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Retroactive Pay Settings</h1>",
+                "css": "main {background: #FAD50D;}",
+                "js": "console.log('This is JS for page Retroactive Pay Settings');"
+            }
+        ]
+    },
+    {
+        "id": "on_demand_pay",
+        "moduleId": "payroll",
+        "label": "On Demand Pay",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>On Demand Pay</h1>",
+                "css": "main {background: #263095;}",
+                "js": "console.log('This is JS for page On Demand Pay');"
+            }
+        ]
+    },
+    {
+        "id": "pay_statement_settings",
+        "moduleId": "payroll",
+        "label": "Pay statement settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Pay statement settings</h1>",
+                "css": "main {background: #953C51;}",
+                "js": "console.log('This is JS for page Pay statement settings');"
+            }
+        ]
+    },
+    {
+        "id": "pay_group_options",
+        "moduleId": "payroll",
+        "label": "Pay group options",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Pay group options</h1>",
+                "css": "main {background: #82D9F1;}",
+                "js": "console.log('This is JS for page Pay group options');"
+            }
+        ]
+    },
+    {
+        "id": "earnings_configuration",
+        "moduleId": "payroll",
+        "label": "Earnings configuration",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Earnings configuration</h1>",
+                "css": "main {background: #E0DB77;}",
+                "js": "console.log('This is JS for page Earnings configuration');"
+            }
+        ]
+    },
+    {
+        "id": "pay_insights_admin",
+        "moduleId": "payroll",
+        "label": "Pay insights admin",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Pay insights admin</h1>",
+                "css": "main {background: #C9D2FE;}",
+                "js": "console.log('This is JS for page Pay insights admin');"
+            }
+        ]
+    },
+    {
+        "id": "payroll_models_setup",
+        "moduleId": "payroll",
+        "label": "Payroll models setup",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Payroll models setup</h1>",
+                "css": "main {background: #266E56;}",
+                "js": "console.log('This is JS for page Payroll models setup');"
+            }
+        ]
+    },
+    {
+        "id": "retroactive_pay_settings",
+        "moduleId": "payroll",
+        "label": "Retroactive pay settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Retroactive pay settings</h1>",
+                "css": "main {background: #AF48E5;}",
+                "js": "console.log('This is JS for page Retroactive pay settings');"
+            }
+        ]
+    },
+    {
+        "id": "pay_statement_download",
+        "moduleId": "payroll",
+        "label": "Pay statement download",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Pay statement download</h1>",
+                "css": "main {background: #EC7A98;}",
+                "js": "console.log('This is JS for page Pay statement download');"
+            }
+        ]
+    },
+    {
+        "id": "employee_pay_totals",
+        "moduleId": "payroll",
+        "label": "Employee pay totals",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Employee pay totals</h1>",
+                "css": "main {background: #897DF7;}",
+                "js": "console.log('This is JS for page Employee pay totals');"
+            }
+        ]
+    },
+    {
+        "id": "third_party_pay",
+        "moduleId": "payroll",
+        "label": "Third party pay",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Third party pay</h1>",
+                "css": "main {background: #4B9D69;}",
+                "js": "console.log('This is JS for page Third party pay');"
+            }
+        ]
+    },
+    {
+        "id": "void_payment",
+        "moduleId": "payroll",
+        "label": "Void payment",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Void payment</h1>",
+                "css": "main {background: #046C52;}",
+                "js": "console.log('This is JS for page Void payment');"
+            }
+        ]
+    }
+]

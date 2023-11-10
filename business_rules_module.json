@@ -1,21 +1,16 @@
-{
-    "tab": "administration_and_configuration",
-    "pages": [
-        {
-            "id": "business_rules",
-            "tab": "administration_and_configuration",
-            "moduleId": "business_rules",
-            "label": "Business rules",
-            "description": "This is a description for page Business rules",
-            "containerId": "main-content",
-            "url": "",
-            "content": [
-                {
-                    "html": "<h1>Business rules</h1>",
-                    "css": "main {background: #97D5A0;}",
-                    "js": "console.log('This is JS for page Business rules');"
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "id": "business_rules",
+        "moduleId": "business_rules",
+        "label": "Business rules",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Business rules</h1>",
+                "css": "main {background: #90D0E5;}",
+                "js": "console.log('This is JS for page Business rules');"
+            }
+        ]
+    }
+]

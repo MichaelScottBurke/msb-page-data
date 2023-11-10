@@ -1,21 +1,114 @@
-{
-    "tab": "administration_and_configuration",
-    "pages": [
-        {
-            "id": "compensation_admin",
-            "tab": "administration_and_configuration",
-            "moduleId": "compensation_admin",
-            "label": "Compensation admin",
-            "description": "This is a description for page Compensation admin",
-            "containerId": "main-content",
-            "url": "",
-            "content": [
-                {
-                    "html": "<h1>Compensation admin</h1>",
-                    "css": "main {background: #67DFAC;}",
-                    "js": "console.log('This is JS for page Compensation admin');"
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "id": "compensation_admin",
+        "moduleId": "compensation_admin",
+        "label": "Compensation admin",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Compensation admin</h1>",
+                "css": "main {background: #46119E;}",
+                "js": "console.log('This is JS for page Compensation admin');"
+            }
+        ]
+    },
+    {
+        "id": "total_compensation_admin",
+        "moduleId": "compensation_admin",
+        "label": "Total compensation admin",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Total compensation admin</h1>",
+                "css": "main {background: #58B0D3;}",
+                "js": "console.log('This is JS for page Total compensation admin');"
+            }
+        ]
+    },
+    {
+        "id": "salary_planning_admin_classic",
+        "moduleId": "compensation_admin",
+        "label": "Salary planning admin classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Salary planning admin classic</h1>",
+                "css": "main {background: #7B7752;}",
+                "js": "console.log('This is JS for page Salary planning admin classic');"
+            }
+        ]
+    },
+    {
+        "id": "salary_session_setup",
+        "moduleId": "compensation_admin",
+        "label": "Salary session setup",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Salary session setup</h1>",
+                "css": "main {background: #58E749;}",
+                "js": "console.log('This is JS for page Salary session setup');"
+            }
+        ]
+    },
+    {
+        "id": "salary_session_status",
+        "moduleId": "compensation_admin",
+        "label": "Salary session status",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Salary session status</h1>",
+                "css": "main {background: #3A4D75;}",
+                "js": "console.log('This is JS for page Salary session status');"
+            }
+        ]
+    },
+    {
+        "id": "salary_session_utilities",
+        "moduleId": "compensation_admin",
+        "label": "Salary session utilities",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Salary session utilities</h1>",
+                "css": "main {background: #EF3D0D;}",
+                "js": "console.log('This is JS for page Salary session utilities');"
+            }
+        ]
+    },
+    {
+        "id": "salary_session_export",
+        "moduleId": "compensation_admin",
+        "label": "Salary session export",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Salary session export</h1>",
+                "css": "main {background: #B2F8FA;}",
+                "js": "console.log('This is JS for page Salary session export');"
+            }
+        ]
+    },
+    {
+        "id": "compensation_settings",
+        "moduleId": "compensation_admin",
+        "label": "Compensation settings",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Compensation settings</h1>",
+                "css": "main {background: #1104F6;}",
+                "js": "console.log('This is JS for page Compensation settings');"
+            }
+        ]
+    }
+]

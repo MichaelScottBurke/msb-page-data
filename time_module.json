@@ -1,21 +1,142 @@
-{
-    "tab": "myself",
-    "pages": [
-        {
-            "id": "time",
-            "tab": "myself",
-            "moduleId": "time",
-            "label": "Time",
-            "description": "This is a description for page Time",
-            "containerId": "main-content",
-            "url": "",
-            "content": [
-                {
-                    "html": "<h1>Time</h1>",
-                    "css": "main {background: #A96D6A;}",
-                    "js": "console.log('This is JS for page Time');"
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "id": "time",
+        "moduleId": "time",
+        "label": "Time",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time</h1>",
+                "css": "main {background: #1E6A7F;}",
+                "js": "console.log('This is JS for page Time');"
+            }
+        ]
+    },
+    {
+        "id": "time_and_attendance_hub",
+        "moduleId": "time",
+        "label": "Time and attendance hub",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time and attendance hub</h1>",
+                "css": "main {background: #FE2F61;}",
+                "js": "console.log('This is JS for page Time and attendance hub');"
+            }
+        ]
+    },
+    {
+        "id": "schedule",
+        "moduleId": "time",
+        "label": "Schedule",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Schedule</h1>",
+                "css": "main {background: #54D259;}",
+                "js": "console.log('This is JS for page Schedule');"
+            }
+        ]
+    },
+    {
+        "id": "time_sheets",
+        "moduleId": "time",
+        "label": "Time sheets",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time sheets</h1>",
+                "css": "main {background: #BFC9D2;}",
+                "js": "console.log('This is JS for page Time sheets');"
+            }
+        ]
+    },
+    {
+        "id": "time_off",
+        "moduleId": "time",
+        "label": "Time off",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time off</h1>",
+                "css": "main {background: #43697E;}",
+                "js": "console.log('This is JS for page Time off');"
+            }
+        ]
+    },
+    {
+        "id": "time_management_classic",
+        "moduleId": "time",
+        "label": "Time management classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time management classic</h1>",
+                "css": "main {background: #54A1F5;}",
+                "js": "console.log('This is JS for page Time management classic');"
+            }
+        ]
+    },
+    {
+        "id": "time_clock_entry_classic",
+        "moduleId": "time",
+        "label": "Time clock entry classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time clock entry classic</h1>",
+                "css": "main {background: #2BD49A;}",
+                "js": "console.log('This is JS for page Time clock entry classic');"
+            }
+        ]
+    },
+    {
+        "id": "paid_time_off_classic",
+        "moduleId": "time",
+        "label": "Paid time off classic",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Paid time off classic</h1>",
+                "css": "main {background: #BC8D7C;}",
+                "js": "console.log('This is JS for page Paid time off classic');"
+            }
+        ]
+    },
+    {
+        "id": "time_off_plans",
+        "moduleId": "time",
+        "label": "Time off plans",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time off plans</h1>",
+                "css": "main {background: #102705;}",
+                "js": "console.log('This is JS for page Time off plans');"
+            }
+        ]
+    },
+    {
+        "id": "time_off_requests",
+        "moduleId": "time",
+        "label": "Time off requests",
+        "description": "",
+        "url": "",
+        "content": [
+            {
+                "html": "<h1>Time off requests</h1>",
+                "css": "main {background: #2421DF;}",
+                "js": "console.log('This is JS for page Time off requests');"
+            }
+        ]
+    }
+]
