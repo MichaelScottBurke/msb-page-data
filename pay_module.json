@@ -5,13 +5,9 @@
         "label": "Pay",
         "description": "",
         "url": "",
-        "content": [
-            {
-                "html": "<h1>Pay</h1>",
-                "css": "main {background: #A53C6B;}",
-                "js": "console.log('This is JS for page Pay');"
-            }
-        ]
+        "html": "<h1>Pay</h1>",
+        "css": "main {background: #895A1E;}",
+        "js": "console.log('This is JS for page Pay');"
     },
     {
         "id": "pay_hub",
@@ -19,13 +15,9 @@
         "label": "Pay hub",
         "description": "",
         "url": "",
-        "content": [
-            {
-                "html": "<h1>Pay hub</h1>",
-                "css": "main {background: #778184;}",
-                "js": "console.log('This is JS for page Pay hub');"
-            }
-        ]
+        "html": "<h1>Pay hub</h1>",
+        "css": "main {background: #435CC8;}",
+        "js": "console.log('This is JS for page Pay hub');"
     },
     {
         "id": "current_pay_statement",
@@ -33,13 +25,9 @@
         "label": "Current pay statement",
         "description": "",
         "url": "",
-        "content": [
-            {
-                "html": "<h1>Current pay statement</h1>",
-                "css": "main {background: #7B72A4;}",
-                "js": "console.log('This is JS for page Current pay statement');"
-            }
-        ]
+        "html": "<h1>Current pay statement</h1>",
+        "css": "main {background: #27D3B8;}",
+        "js": "console.log('This is JS for page Current pay statement');"
     },
     {
         "id": "pay_history",
@@ -47,13 +35,9 @@
         "label": "Pay history",
         "description": "",
         "url": "",
-        "content": [
-            {
-                "html": "<h1>Pay history</h1>",
-                "css": "main {background: #4FB94C;}",
-                "js": "console.log('This is JS for page Pay history');"
-            }
-        ]
+        "html": "<h1>Pay history</h1>",
+        "css": "main {background: #A341D5;}",
+        "js": "console.log('This is JS for page Pay history');"
     },
     {
         "id": "year-to-date_summary",
@@ -61,13 +45,9 @@
         "label": "Year-to-date summary",
         "description": "",
         "url": "",
-        "content": [
-            {
-                "html": "<h1>Year-to-date summary</h1>",
-                "css": "main {background: #10290F;}",
-                "js": "console.log('This is JS for page Year-to-date summary');"
-            }
-        ]
+        "html": "<h1>Year-to-date summary</h1>",
+        "css": "main {background: #F9AB59;}",
+        "js": "console.log('This is JS for page Year-to-date summary');"
     },
     {
         "id": "total_compensation",
@@ -75,13 +55,9 @@
         "label": "Total compensation",
         "description": "",
         "url": "",
-        "content": [
-            {
-                "html": "<h1>Total compensation</h1>",
-                "css": "main {background: #A6A93B;}",
-                "js": "console.log('This is JS for page Total compensation');"
-            }
-        ]
+        "html": "<h1>Total compensation</h1>",
+        "css": "main {background: #9F64E3;}",
+        "js": "console.log('This is JS for page Total compensation');"
     },
     {
         "id": "third_party_pay",
@@ -89,13 +65,9 @@
         "label": "Third party pay",
         "description": "",
         "url": "",
-        "content": [
-            {
-                "html": "<h1>Third party pay</h1>",
-                "css": "main {background: #8CCEEA;}",
-                "js": "console.log('This is JS for page Third party pay');"
-            }
-        ]
+        "html": "<h1>Third party pay</h1>",
+        "css": "main {background: #BA0ABD;}",
+        "js": "console.log('This is JS for page Third party pay');"
     },
     {
         "id": "direct_deposit",
@@ -103,13 +75,9 @@
         "label": "Direct deposit",
         "description": "",
         "url": "",
-        "content": [
-            {
-                "html": "<h1>Direct deposit</h1>",
-                "css": "main {background: #84A3FA;}",
-                "js": "console.log('This is JS for page Direct deposit');"
-            }
-        ]
+        "html": "<h1>Direct deposit</h1>",
+        "css": "main {background: #823238;}",
+        "js": "console.log('This is JS for page Direct deposit');"
     },
     {
         "id": "income_tax",
@@ -117,13 +85,9 @@
         "label": "Income tax",
         "description": "",
         "url": "",
-        "content": [
-            {
-                "html": "<h1>Income tax</h1>",
-                "css": "main {background: #193FCB;}",
-                "js": "console.log('This is JS for page Income tax');"
-            }
-        ]
+        "html": "<h1>Income tax</h1>",
+        "css": "main {background: #EE097F;}",
+        "js": "console.log('This is JS for page Income tax');"
     },
     {
         "id": "w-2",
@@ -131,13 +95,9 @@
         "label": "W-2",
         "description": "",
         "url": "",
-        "content": [
-            {
-                "html": "<h1>W-2</h1>",
-                "css": "main {background: #5CE3C1;}",
-                "js": "console.log('This is JS for page W-2');"
-            }
-        ]
+        "html": "<h1>W-2</h1>",
+        "css": "main {background: #A7E6E1;}",
+        "js": "console.log('This is JS for page W-2');"
     },
     {
         "id": "model_my_pay",
@@ -145,13 +105,9 @@
         "label": "Model my pay",
         "description": "",
         "url": "",
-        "content": [
-            {
-                "html": "<h1>Model my pay</h1>",
-                "css": "main {background: #6D7E41;}",
-                "js": "console.log('This is JS for page Model my pay');"
-            }
-        ]
+        "html": "<h1>Model my pay</h1>",
+        "css": "main {background: #136913;}",
+        "js": "console.log('This is JS for page Model my pay');"
     },
     {
         "id": "giving",
@@ -159,12 +115,8 @@
         "label": "Giving",
         "description": "",
         "url": "",
-        "content": [
-            {
-                "html": "<h1>Giving</h1>",
-                "css": "main {background: #4F58E2;}",
-                "js": "console.log('This is JS for page Giving');"
-            }
-        ]
+        "html": "<h1>Giving</h1>",
+        "css": "main {background: #4AEB5B;}",
+        "js": "console.log('This is JS for page Giving');"
     }
 ]
