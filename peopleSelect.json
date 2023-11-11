@@ -1,4 +1,4 @@
-[
+{ "list": [
     {
         "value": 1,
         "id": "slct-people-1",
@@ -6513,3 +6513,4 @@
         "parentId": null
     }
 ]
+}
