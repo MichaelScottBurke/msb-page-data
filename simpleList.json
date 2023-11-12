@@ -1,0 +1,32 @@
+[
+  {
+    "id": "list-item-1",
+    "avatarUrl": "",
+    "initials": "",
+    "thumbnailUrl": "",
+    "linePrimary": "Jennifer Barnes",
+    "lineSecondary": "Data Analyst",
+    "lineTertiary": "Palo Alto",
+    "meta": "Today"
+  },
+  {
+    "id": "list-item-2",
+    "avatarUrl": "",
+    "initials": "",
+    "thumbnailUrl": "",
+    "linePrimary": "Peter Cerillo",
+    "lineSecondary": "Executive Assistant",
+    "lineTertiary": "Burbank",
+    "meta": "Yesterday"
+  },
+  {
+    "id": "list-item-3",
+    "avatarUrl": "",
+    "initials": "",
+    "thumbnailUrl": "",
+    "linePrimary": "Merritt Weaver",
+    "lineSecondary": "Chief Financial Officer",
+    "lineTertiary": "Palo Alot",
+    "meta": "Tuesday"
+  }
+]
