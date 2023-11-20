@@ -1,0 +1,51 @@
+[
+  {
+    "logo": "https://raw.githubusercontent.com/MichaelScottBurke/logos/main/blue-cross-logo.png",
+    "plan": "Medical",
+    "name": "Blue Cross & Blue Shield",
+    "details": "For you, Taylor, Cathy",
+    "cost": "45.00"
+  },
+  {
+    "logo": "https://raw.githubusercontent.com/MichaelScottBurke/logos/main/PayFlex.jpg",
+    "plan": "Health Savings Account (HSA)",
+    "name": "Payflex",
+    "details": "For you, Taylor, Cathy",
+    "cost": "57.69"
+  },
+  {
+    "logo": "https://raw.githubusercontent.com/MichaelScottBurke/logos/main/DeltaDental.png",
+    "plan": "Dental",
+    "name": "Delta Dental",
+    "details": "For you, Taylor, Cathy",
+    "cost": "33.00"
+  },
+  {
+    "logo": "https://raw.githubusercontent.com/MichaelScottBurke/logos/main/VSP-logo.png",
+    "plan": "Vision",
+    "name": "VSP Vision",
+    "details": "For you, Taylor, Cathy",
+    "cost": "20.00"
+  },
+  {
+    "logo": "https://raw.githubusercontent.com/MichaelScottBurke/logos/main/unum-logo.png",
+    "plan": "Short Term Disability",
+    "name": "Unum",
+    "details": "9 weeks, $150,000 maxiumum",
+    "cost": "18.00"
+  },
+  {
+    "logo": "https://raw.githubusercontent.com/MichaelScottBurke/logos/main/unum-logo.png",
+    "plan": "Voluntary Life Insurance",
+    "name": "Unum",
+    "details": "$150,000.00 coverage",
+    "cost": "17.50"
+  },
+  {
+    "logo": "https://raw.githubusercontent.com/MichaelScottBurke/logos/main/MetLife-logo.jpg",
+    "plan": "Accidental Death Insurance",
+    "name": "MetLife",
+    "details": "$325,000.00 coverage",
+    "cost": "24.00"
+  }
+]
