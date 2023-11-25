@@ -1,16 +1,19 @@
-[
-    {
-        "id": "team_hub",
-        "moduleId": "team_hub",
-        "label": "Team hub",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Team hub</h1>",
-                "css": "main {background: #7184C0;}",
-                "js": "console.log('This is JS for page Team hub');"
-            }
-        ]
-    }
-]
+{
+    "pages": [
+        {
+            "id": "team_hub",
+            "moduleId": "team_hub",
+            "label": "Team hub",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Team hub</h1>",
+                    "css": "main {background: #D43321;}",
+                    "js": "console.log('This is JS for page Team hub');"
+                }
+            ]
+        }
+    ]
+}

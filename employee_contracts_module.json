@@ -1,16 +1,19 @@
-[
-    {
-        "id": "employee_contracts",
-        "moduleId": "employee_contracts",
-        "label": "Employee contracts",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Employee contracts</h1>",
-                "css": "main {background: #EDCAD9;}",
-                "js": "console.log('This is JS for page Employee contracts');"
-            }
-        ]
-    }
-]
+{
+    "pages": [
+        {
+            "id": "employee_contracts",
+            "moduleId": "employee_contracts",
+            "label": "Employee contracts",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Employee contracts</h1>",
+                    "css": "main {background: #7E66C2;}",
+                    "js": "console.log('This is JS for page Employee contracts');"
+                }
+            ]
+        }
+    ]
+}

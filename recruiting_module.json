@@ -1,86 +1,94 @@
-[
-    {
-        "id": "recruiting",
-        "moduleId": "recruiting",
-        "label": "Recruiting",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Recruiting</h1>",
-                "css": "main {background: #C761A6;}",
-                "js": "console.log('This is JS for page Recruiting');"
-            }
-        ]
-    },
-    {
-        "id": "recruiting_hub",
-        "moduleId": "recruiting",
-        "label": "Recruiting hub",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Recruiting hub</h1>",
-                "css": "main {background: #E1A65B;}",
-                "js": "console.log('This is JS for page Recruiting hub');"
-            }
-        ]
-    },
-    {
-        "id": "process_hires",
-        "moduleId": "recruiting",
-        "label": "Process hires",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Process hires</h1>",
-                "css": "main {background: #FC6ADE;}",
-                "js": "console.log('This is JS for page Process hires');"
-            }
-        ]
-    },
-    {
-        "id": "recruitment_classic",
-        "moduleId": "recruiting",
-        "label": "Recruitment classic",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Recruitment classic</h1>",
-                "css": "main {background: #5289F4;}",
-                "js": "console.log('This is JS for page Recruitment classic');"
-            }
-        ]
-    },
-    {
-        "id": "recruitment_gateway_classic",
-        "moduleId": "recruiting",
-        "label": "Recruitment gateway classic",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Recruitment gateway classic</h1>",
-                "css": "main {background: #F34E13;}",
-                "js": "console.log('This is JS for page Recruitment gateway classic');"
-            }
-        ]
-    },
-    {
-        "id": "process_hires_classic",
-        "moduleId": "recruiting",
-        "label": "Process hires classic",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Process hires classic</h1>",
-                "css": "main {background: #A7D01A;}",
-                "js": "console.log('This is JS for page Process hires classic');"
-            }
-        ]
-    }
-]
+{
+    "pages": [
+        {
+            "id": "recruiting",
+            "moduleId": "recruiting",
+            "label": "Recruiting",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Recruiting</h1>",
+                    "css": "main {background: #56EE2B;}",
+                    "js": "console.log('This is JS for page Recruiting');"
+                }
+            ]
+        },
+        {
+            "id": "recruiting_hub",
+            "moduleId": "recruiting",
+            "label": "Recruiting hub",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Recruiting hub</h1>",
+                    "css": "main {background: #0E5C77;}",
+                    "js": "console.log('This is JS for page Recruiting hub');"
+                }
+            ]
+        },
+        {
+            "id": "process_hires",
+            "moduleId": "recruiting",
+            "label": "Process hires",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Process hires</h1>",
+                    "css": "main {background: #D0FCDB;}",
+                    "js": "console.log('This is JS for page Process hires');"
+                }
+            ]
+        },
+        {
+            "id": "recruitment_classic",
+            "moduleId": "recruiting",
+            "label": "Recruitment classic",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Recruitment classic</h1>",
+                    "css": "main {background: #F25C65;}",
+                    "js": "console.log('This is JS for page Recruitment classic');"
+                }
+            ]
+        },
+        {
+            "id": "recruitment_gateway_classic",
+            "moduleId": "recruiting",
+            "label": "Recruitment gateway classic",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Recruitment gateway classic</h1>",
+                    "css": "main {background: #F9A51A;}",
+                    "js": "console.log('This is JS for page Recruitment gateway classic');"
+                }
+            ]
+        },
+        {
+            "id": "process_hires_classic",
+            "moduleId": "recruiting",
+            "label": "Process hires classic",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Process hires classic</h1>",
+                    "css": "main {background: #168F82;}",
+                    "js": "console.log('This is JS for page Process hires classic');"
+                }
+            ]
+        }
+    ]
+}

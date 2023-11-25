@@ -1,30 +1,34 @@
-[
-    {
-        "id": "safety_and_compliance",
-        "moduleId": "safety_and_compliance",
-        "label": "Safety and Compliance",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Safety and Compliance</h1>",
-                "css": "main {background: #1F53DF;}",
-                "js": "console.log('This is JS for page Safety and Compliance');"
-            }
-        ]
-    },
-    {
-        "id": "osha_tracking",
-        "moduleId": "safety_and_compliance",
-        "label": "OSHA tracking",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>OSHA tracking</h1>",
-                "css": "main {background: #4CBB15;}",
-                "js": "console.log('This is JS for page OSHA tracking');"
-            }
-        ]
-    }
-]
+{
+    "pages": [
+        {
+            "id": "safety_and_compliance",
+            "moduleId": "safety_and_compliance",
+            "label": "Safety and Compliance",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Safety and Compliance</h1>",
+                    "css": "main {background: #333702;}",
+                    "js": "console.log('This is JS for page Safety and Compliance');"
+                }
+            ]
+        },
+        {
+            "id": "osha_tracking",
+            "moduleId": "safety_and_compliance",
+            "label": "OSHA tracking",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>OSHA tracking</h1>",
+                    "css": "main {background: #D6A37A;}",
+                    "js": "console.log('This is JS for page OSHA tracking');"
+                }
+            ]
+        }
+    ]
+}

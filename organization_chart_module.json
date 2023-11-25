@@ -1,16 +1,19 @@
-[
-    {
-        "id": "organization_chart",
-        "moduleId": "organization_chart",
-        "label": "Organization chart",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Organization chart</h1>",
-                "css": "main {background: #003E17;}",
-                "js": "console.log('This is JS for page Organization chart');"
-            }
-        ]
-    }
-]
+{
+    "pages": [
+        {
+            "id": "organization_chart",
+            "moduleId": "organization_chart",
+            "label": "Organization chart",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Organization chart</h1>",
+                    "css": "main {background: #03647E;}",
+                    "js": "console.log('This is JS for page Organization chart');"
+                }
+            ]
+        }
+    ]
+}

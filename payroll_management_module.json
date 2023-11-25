@@ -1,30 +1,34 @@
-[
-    {
-        "id": "payroll_management",
-        "moduleId": "payroll_management",
-        "label": "Payroll management",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Payroll management</h1>",
-                "css": "main {background: #839490;}",
-                "js": "console.log('This is JS for page Payroll management');"
-            }
-        ]
-    },
-    {
-        "id": "third_party_pay",
-        "moduleId": "payroll_management",
-        "label": "Third Party Pay",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Third Party Pay</h1>",
-                "css": "main {background: #8F5015;}",
-                "js": "console.log('This is JS for page Third Party Pay');"
-            }
-        ]
-    }
-]
+{
+    "pages": [
+        {
+            "id": "payroll_management",
+            "moduleId": "payroll_management",
+            "label": "Payroll management",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Payroll management</h1>",
+                    "css": "main {background: #AB65AE;}",
+                    "js": "console.log('This is JS for page Payroll management');"
+                }
+            ]
+        },
+        {
+            "id": "third_party_pay",
+            "moduleId": "payroll_management",
+            "label": "Third Party Pay",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Third Party Pay</h1>",
+                    "css": "main {background: #8CD083;}",
+                    "js": "console.log('This is JS for page Third Party Pay');"
+                }
+            ]
+        }
+    ]
+}

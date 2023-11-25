@@ -1,170 +1,184 @@
-[
-    {
-        "id": "benefits_admin",
-        "moduleId": "benefits_admin",
-        "label": "Benefits admin",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Benefits admin</h1>",
-                "css": "main {background: #A96715;}",
-                "js": "console.log('This is JS for page Benefits admin');"
-            }
-        ]
-    },
-    {
-        "id": "benefits_hub",
-        "moduleId": "benefits_admin",
-        "label": "Benefits hub",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Benefits hub</h1>",
-                "css": "main {background: #F302C8;}",
-                "js": "console.log('This is JS for page Benefits hub');"
-            }
-        ]
-    },
-    {
-        "id": "open_enrollment_setup_classic",
-        "moduleId": "benefits_admin",
-        "label": "Open enrollment setup classic",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Open enrollment setup classic</h1>",
-                "css": "main {background: #568524;}",
-                "js": "console.log('This is JS for page Open enrollment setup classic');"
-            }
-        ]
-    },
-    {
-        "id": "current_sessions",
-        "moduleId": "benefits_admin",
-        "label": "Current Sessions",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Current Sessions</h1>",
-                "css": "main {background: #51D14D;}",
-                "js": "console.log('This is JS for page Current Sessions');"
-            }
-        ]
-    },
-    {
-        "id": "employee_elections",
-        "moduleId": "benefits_admin",
-        "label": "Employee elections",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Employee elections</h1>",
-                "css": "main {background: #24ABC8;}",
-                "js": "console.log('This is JS for page Employee elections');"
-            }
-        ]
-    },
-    {
-        "id": "enrollment_history",
-        "moduleId": "benefits_admin",
-        "label": "Enrollment history",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Enrollment history</h1>",
-                "css": "main {background: #33F509;}",
-                "js": "console.log('This is JS for page Enrollment history');"
-            }
-        ]
-    },
-    {
-        "id": "life_events_setup_classic",
-        "moduleId": "benefits_admin",
-        "label": "Life Events setup classic",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Life Events setup classic</h1>",
-                "css": "main {background: #2F1558;}",
-                "js": "console.log('This is JS for page Life Events setup classic');"
-            }
-        ]
-    },
-    {
-        "id": "life_events",
-        "moduleId": "benefits_admin",
-        "label": "Life events",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Life events</h1>",
-                "css": "main {background: #F6C0A6;}",
-                "js": "console.log('This is JS for page Life events');"
-            }
-        ]
-    },
-    {
-        "id": "employee_progress",
-        "moduleId": "benefits_admin",
-        "label": "Employee progress",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Employee progress</h1>",
-                "css": "main {background: #5E5DB8;}",
-                "js": "console.log('This is JS for page Employee progress');"
-            }
-        ]
-    },
-    {
-        "id": "healthcare_eligibility",
-        "moduleId": "benefits_admin",
-        "label": "Healthcare eligibility",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Healthcare eligibility</h1>",
-                "css": "main {background: #4FDE20;}",
-                "js": "console.log('This is JS for page Healthcare eligibility');"
-            }
-        ]
-    },
-    {
-        "id": "healthcare_eligibility_summary",
-        "moduleId": "benefits_admin",
-        "label": "Healthcare eligibility summary",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Healthcare eligibility summary</h1>",
-                "css": "main {background: #64CE91;}",
-                "js": "console.log('This is JS for page Healthcare eligibility summary');"
-            }
-        ]
-    },
-    {
-        "id": "healthcare_measurement_groups",
-        "moduleId": "benefits_admin",
-        "label": "Healthcare measurement groups",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Healthcare measurement groups</h1>",
-                "css": "main {background: #65C8F5;}",
-                "js": "console.log('This is JS for page Healthcare measurement groups');"
-            }
-        ]
-    }
-]
+{
+    "pages": [
+        {
+            "id": "benefits_admin",
+            "moduleId": "benefits_admin",
+            "label": "Benefits admin",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Benefits admin</h1>",
+                    "css": "main {background: #A7A2C9;}",
+                    "js": "console.log('This is JS for page Benefits admin');"
+                }
+            ]
+        },
+        {
+            "id": "benefits_hub",
+            "moduleId": "benefits_admin",
+            "label": "Benefits hub",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Benefits hub</h1>",
+                    "css": "main {background: #FE9735;}",
+                    "js": "console.log('This is JS for page Benefits hub');"
+                }
+            ]
+        },
+        {
+            "id": "open_enrollment_setup_classic",
+            "moduleId": "benefits_admin",
+            "label": "Open enrollment setup classic",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Open enrollment setup classic</h1>",
+                    "css": "main {background: #C977AD;}",
+                    "js": "console.log('This is JS for page Open enrollment setup classic');"
+                }
+            ]
+        },
+        {
+            "id": "current_sessions",
+            "moduleId": "benefits_admin",
+            "label": "Current Sessions",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Current Sessions</h1>",
+                    "css": "main {background: #94A51F;}",
+                    "js": "console.log('This is JS for page Current Sessions');"
+                }
+            ]
+        },
+        {
+            "id": "employee_elections",
+            "moduleId": "benefits_admin",
+            "label": "Employee elections",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Employee elections</h1>",
+                    "css": "main {background: #AB5366;}",
+                    "js": "console.log('This is JS for page Employee elections');"
+                }
+            ]
+        },
+        {
+            "id": "enrollment_history",
+            "moduleId": "benefits_admin",
+            "label": "Enrollment history",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Enrollment history</h1>",
+                    "css": "main {background: #06EAF2;}",
+                    "js": "console.log('This is JS for page Enrollment history');"
+                }
+            ]
+        },
+        {
+            "id": "life_events_setup_classic",
+            "moduleId": "benefits_admin",
+            "label": "Life Events setup classic",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Life Events setup classic</h1>",
+                    "css": "main {background: #2D863D;}",
+                    "js": "console.log('This is JS for page Life Events setup classic');"
+                }
+            ]
+        },
+        {
+            "id": "life_events",
+            "moduleId": "benefits_admin",
+            "label": "Life events",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Life events</h1>",
+                    "css": "main {background: #D26C27;}",
+                    "js": "console.log('This is JS for page Life events');"
+                }
+            ]
+        },
+        {
+            "id": "employee_progress",
+            "moduleId": "benefits_admin",
+            "label": "Employee progress",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Employee progress</h1>",
+                    "css": "main {background: #96FE63;}",
+                    "js": "console.log('This is JS for page Employee progress');"
+                }
+            ]
+        },
+        {
+            "id": "healthcare_eligibility",
+            "moduleId": "benefits_admin",
+            "label": "Healthcare eligibility",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Healthcare eligibility</h1>",
+                    "css": "main {background: #7E1A6E;}",
+                    "js": "console.log('This is JS for page Healthcare eligibility');"
+                }
+            ]
+        },
+        {
+            "id": "healthcare_eligibility_summary",
+            "moduleId": "benefits_admin",
+            "label": "Healthcare eligibility summary",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Healthcare eligibility summary</h1>",
+                    "css": "main {background: #EE21C9;}",
+                    "js": "console.log('This is JS for page Healthcare eligibility summary');"
+                }
+            ]
+        },
+        {
+            "id": "healthcare_measurement_groups",
+            "moduleId": "benefits_admin",
+            "label": "Healthcare measurement groups",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Healthcare measurement groups</h1>",
+                    "css": "main {background: #C21918;}",
+                    "js": "console.log('This is JS for page Healthcare measurement groups');"
+                }
+            ]
+        }
+    ]
+}

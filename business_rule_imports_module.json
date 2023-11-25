@@ -1,86 +1,94 @@
-[
-    {
-        "id": "business_rule_imports",
-        "moduleId": "business_rule_imports",
-        "label": "Business rule imports",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Business rule imports</h1>",
-                "css": "main {background: #F606EA;}",
-                "js": "console.log('This is JS for page Business rule imports');"
-            }
-        ]
-    },
-    {
-        "id": "results",
-        "moduleId": "business_rule_imports",
-        "label": "Results",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Results</h1>",
-                "css": "main {background: #F9790B;}",
-                "js": "console.log('This is JS for page Results');"
-            }
-        ]
-    },
-    {
-        "id": "file_upload",
-        "moduleId": "business_rule_imports",
-        "label": "File upload",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>File upload</h1>",
-                "css": "main {background: #2336CC;}",
-                "js": "console.log('This is JS for page File upload');"
-            }
-        ]
-    },
-    {
-        "id": "file_mapping",
-        "moduleId": "business_rule_imports",
-        "label": "File mapping",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>File mapping</h1>",
-                "css": "main {background: #13BBAF;}",
-                "js": "console.log('This is JS for page File mapping');"
-            }
-        ]
-    },
-    {
-        "id": "translations",
-        "moduleId": "business_rule_imports",
-        "label": "Translations",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Translations</h1>",
-                "css": "main {background: #FB78A5;}",
-                "js": "console.log('This is JS for page Translations');"
-            }
-        ]
-    },
-    {
-        "id": "configurations",
-        "moduleId": "business_rule_imports",
-        "label": "Configurations",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Configurations</h1>",
-                "css": "main {background: #898A0E;}",
-                "js": "console.log('This is JS for page Configurations');"
-            }
-        ]
-    }
-]
+{
+    "pages": [
+        {
+            "id": "business_rule_imports",
+            "moduleId": "business_rule_imports",
+            "label": "Business rule imports",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Business rule imports</h1>",
+                    "css": "main {background: #569FD6;}",
+                    "js": "console.log('This is JS for page Business rule imports');"
+                }
+            ]
+        },
+        {
+            "id": "results",
+            "moduleId": "business_rule_imports",
+            "label": "Results",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Results</h1>",
+                    "css": "main {background: #B66254;}",
+                    "js": "console.log('This is JS for page Results');"
+                }
+            ]
+        },
+        {
+            "id": "file_upload",
+            "moduleId": "business_rule_imports",
+            "label": "File upload",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>File upload</h1>",
+                    "css": "main {background: #EEBB72;}",
+                    "js": "console.log('This is JS for page File upload');"
+                }
+            ]
+        },
+        {
+            "id": "file_mapping",
+            "moduleId": "business_rule_imports",
+            "label": "File mapping",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>File mapping</h1>",
+                    "css": "main {background: #3E21DD;}",
+                    "js": "console.log('This is JS for page File mapping');"
+                }
+            ]
+        },
+        {
+            "id": "translations",
+            "moduleId": "business_rule_imports",
+            "label": "Translations",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Translations</h1>",
+                    "css": "main {background: #F0D283;}",
+                    "js": "console.log('This is JS for page Translations');"
+                }
+            ]
+        },
+        {
+            "id": "configurations",
+            "moduleId": "business_rule_imports",
+            "label": "Configurations",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Configurations</h1>",
+                    "css": "main {background: #49A81D;}",
+                    "js": "console.log('This is JS for page Configurations');"
+                }
+            ]
+        }
+    ]
+}

@@ -1,86 +1,94 @@
-[
-    {
-        "id": "workflow",
-        "moduleId": "workflow",
-        "label": "Workflow",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Workflow</h1>",
-                "css": "main {background: #89344F;}",
-                "js": "console.log('This is JS for page Workflow');"
-            }
-        ]
-    },
-    {
-        "id": "workflow_hub",
-        "moduleId": "workflow",
-        "label": "Workflow hub",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Workflow hub</h1>",
-                "css": "main {background: #C78247;}",
-                "js": "console.log('This is JS for page Workflow hub');"
-            }
-        ]
-    },
-    {
-        "id": "requests",
-        "moduleId": "workflow",
-        "label": "Requests",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Requests</h1>",
-                "css": "main {background: #6A32D4;}",
-                "js": "console.log('This is JS for page Requests');"
-            }
-        ]
-    },
-    {
-        "id": "out_of_office",
-        "moduleId": "workflow",
-        "label": "Out of office",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Out of office</h1>",
-                "css": "main {background: #0EEC4D;}",
-                "js": "console.log('This is JS for page Out of office');"
-            }
-        ]
-    },
-    {
-        "id": "notifications",
-        "moduleId": "workflow",
-        "label": "Notifications",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Notifications</h1>",
-                "css": "main {background: #FF590B;}",
-                "js": "console.log('This is JS for page Notifications');"
-            }
-        ]
-    },
-    {
-        "id": "business_processes",
-        "moduleId": "workflow",
-        "label": "Business processes",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Business processes</h1>",
-                "css": "main {background: #76124D;}",
-                "js": "console.log('This is JS for page Business processes');"
-            }
-        ]
-    }
-]
+{
+    "pages": [
+        {
+            "id": "workflow",
+            "moduleId": "workflow",
+            "label": "Workflow",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Workflow</h1>",
+                    "css": "main {background: #0CA90F;}",
+                    "js": "console.log('This is JS for page Workflow');"
+                }
+            ]
+        },
+        {
+            "id": "workflow_hub",
+            "moduleId": "workflow",
+            "label": "Workflow hub",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Workflow hub</h1>",
+                    "css": "main {background: #4E9071;}",
+                    "js": "console.log('This is JS for page Workflow hub');"
+                }
+            ]
+        },
+        {
+            "id": "requests",
+            "moduleId": "workflow",
+            "label": "Requests",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Requests</h1>",
+                    "css": "main {background: #A66368;}",
+                    "js": "console.log('This is JS for page Requests');"
+                }
+            ]
+        },
+        {
+            "id": "out_of_office",
+            "moduleId": "workflow",
+            "label": "Out of office",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Out of office</h1>",
+                    "css": "main {background: #CF09B1;}",
+                    "js": "console.log('This is JS for page Out of office');"
+                }
+            ]
+        },
+        {
+            "id": "notifications",
+            "moduleId": "workflow",
+            "label": "Notifications",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Notifications</h1>",
+                    "css": "main {background: #F58B8B;}",
+                    "js": "console.log('This is JS for page Notifications');"
+                }
+            ]
+        },
+        {
+            "id": "business_processes",
+            "moduleId": "workflow",
+            "label": "Business processes",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Business processes</h1>",
+                    "css": "main {background: #3B66F8;}",
+                    "js": "console.log('This is JS for page Business processes');"
+                }
+            ]
+        }
+    ]
+}

@@ -1,142 +1,154 @@
-[
-    {
-        "id": "company",
-        "moduleId": "company",
-        "label": "Company",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Company</h1>",
-                "css": "main {background: #9D7ACB;}",
-                "js": "console.log('This is JS for page Company');"
-            }
-        ]
-    },
-    {
-        "id": "news_and_information",
-        "moduleId": "company",
-        "label": "News and information",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>News and information</h1>",
-                "css": "main {background: #3C15D8;}",
-                "js": "console.log('This is JS for page News and information');"
-            }
-        ]
-    },
-    {
-        "id": "company_info",
-        "moduleId": "company",
-        "label": "Company info",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Company info</h1>",
-                "css": "main {background: #85820C;}",
-                "js": "console.log('This is JS for page Company info');"
-            }
-        ]
-    },
-    {
-        "id": "employee_directory",
-        "moduleId": "company",
-        "label": "Employee directory",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Employee directory</h1>",
-                "css": "main {background: #0EF7C4;}",
-                "js": "console.log('This is JS for page Employee directory');"
-            }
-        ]
-    },
-    {
-        "id": "organization_chart",
-        "moduleId": "company",
-        "label": "Organization chart",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Organization chart</h1>",
-                "css": "main {background: #CB7049;}",
-                "js": "console.log('This is JS for page Organization chart');"
-            }
-        ]
-    },
-    {
-        "id": "view_opportunities",
-        "moduleId": "company",
-        "label": "View opportunities",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>View opportunities</h1>",
-                "css": "main {background: #FF2065;}",
-                "js": "console.log('This is JS for page View opportunities');"
-            }
-        ]
-    },
-    {
-        "id": "job_openings",
-        "moduleId": "company",
-        "label": "Job openings",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Job openings</h1>",
-                "css": "main {background: #4A6C2B;}",
-                "js": "console.log('This is JS for page Job openings');"
-            }
-        ]
-    },
-    {
-        "id": "training_schedule",
-        "moduleId": "company",
-        "label": "Training schedule",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Training schedule</h1>",
-                "css": "main {background: #07193E;}",
-                "js": "console.log('This is JS for page Training schedule');"
-            }
-        ]
-    },
-    {
-        "id": "ukg.com",
-        "moduleId": "company",
-        "label": "UKG.com",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>UKG.com</h1>",
-                "css": "main {background: #DA9F7B;}",
-                "js": "console.log('This is JS for page UKG.com');"
-            }
-        ]
-    },
-    {
-        "id": "workforce_continuity",
-        "moduleId": "company",
-        "label": "Workforce Continuity",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Workforce Continuity</h1>",
-                "css": "main {background: #7AAD44;}",
-                "js": "console.log('This is JS for page Workforce Continuity');"
-            }
-        ]
-    }
-]
+{
+    "pages": [
+        {
+            "id": "company",
+            "moduleId": "company",
+            "label": "Company",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Company</h1>",
+                    "css": "main {background: #710F5A;}",
+                    "js": "console.log('This is JS for page Company');"
+                }
+            ]
+        },
+        {
+            "id": "news_and_information",
+            "moduleId": "company",
+            "label": "News and information",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>News and information</h1>",
+                    "css": "main {background: #A0AC7D;}",
+                    "js": "console.log('This is JS for page News and information');"
+                }
+            ]
+        },
+        {
+            "id": "company_info",
+            "moduleId": "company",
+            "label": "Company info",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Company info</h1>",
+                    "css": "main {background: #4B0A2D;}",
+                    "js": "console.log('This is JS for page Company info');"
+                }
+            ]
+        },
+        {
+            "id": "employee_directory",
+            "moduleId": "company",
+            "label": "Employee directory",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Employee directory</h1>",
+                    "css": "main {background: #DC40AC;}",
+                    "js": "console.log('This is JS for page Employee directory');"
+                }
+            ]
+        },
+        {
+            "id": "organization_chart",
+            "moduleId": "company",
+            "label": "Organization chart",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Organization chart</h1>",
+                    "css": "main {background: #815F37;}",
+                    "js": "console.log('This is JS for page Organization chart');"
+                }
+            ]
+        },
+        {
+            "id": "view_opportunities",
+            "moduleId": "company",
+            "label": "View opportunities",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>View opportunities</h1>",
+                    "css": "main {background: #43005F;}",
+                    "js": "console.log('This is JS for page View opportunities');"
+                }
+            ]
+        },
+        {
+            "id": "job_openings",
+            "moduleId": "company",
+            "label": "Job openings",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Job openings</h1>",
+                    "css": "main {background: #F38A3E;}",
+                    "js": "console.log('This is JS for page Job openings');"
+                }
+            ]
+        },
+        {
+            "id": "training_schedule",
+            "moduleId": "company",
+            "label": "Training schedule",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Training schedule</h1>",
+                    "css": "main {background: #C91B7A;}",
+                    "js": "console.log('This is JS for page Training schedule');"
+                }
+            ]
+        },
+        {
+            "id": "ukg.com",
+            "moduleId": "company",
+            "label": "UKG.com",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>UKG.com</h1>",
+                    "css": "main {background: #5C64F0;}",
+                    "js": "console.log('This is JS for page UKG.com');"
+                }
+            ]
+        },
+        {
+            "id": "workforce_continuity",
+            "moduleId": "company",
+            "label": "Workforce Continuity",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Workforce Continuity</h1>",
+                    "css": "main {background: #E2BB78;}",
+                    "js": "console.log('This is JS for page Workforce Continuity');"
+                }
+            ]
+        }
+    ]
+}

@@ -1,173 +1,184 @@
 {
-  "tab": "myself",
-  "pages": [
-    {
-      "id": "pay",
-      "moduleId": "pay",
-      "label": "Pay",
-      "description": "",
-      "url": "",
-      "content": [
+    "pages": [
         {
-          "html": "<h1>Pay</h1>",
-          "css": "main {background: #1D998D;}",
-          "js": "console.log('This is JS for page Pay');"
-        }
-      ]
-    },
-    {
-      "id": "pay_hub",
-      "moduleId": "pay",
-      "label": "Pay hub",
-      "description": "",
-      "url": "",
-      "content": [
+            "id": "pay",
+            "moduleId": "pay",
+            "label": "Pay",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Pay</h1>",
+                    "css": "main {background: #463499;}",
+                    "js": "console.log('This is JS for page Pay');"
+                }
+            ]
+        },
         {
-          "html": "<h1>Pay hub</h1>",
-          "css": "main {background: #CA0330;}",
-          "js": "console.log('This is JS for page Pay hub');"
-        }
-      ]
-    },
-    {
-      "id": "current_pay_statement",
-      "moduleId": "pay",
-      "label": "Current pay statement",
-      "description": "",
-      "url": "",
-      "content": [
+            "id": "pay_hub",
+            "moduleId": "pay",
+            "label": "Pay hub",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Pay hub</h1>",
+                    "css": "main {background: #57158D;}",
+                    "js": "console.log('This is JS for page Pay hub');"
+                }
+            ]
+        },
         {
-          "html": "<h1>Current pay statement</h1>",
-          "css": "main {background: #C9E635;}",
-          "js": "console.log('This is JS for page Current pay statement');"
-        }
-      ]
-    },
-    {
-      "id": "pay_history",
-      "moduleId": "pay",
-      "label": "Pay history",
-      "description": "",
-      "url": "",
-      "content": [
+            "id": "current_pay_statement",
+            "moduleId": "pay",
+            "label": "Current pay statement",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Current pay statement</h1>",
+                    "css": "main {background: #1D79B7;}",
+                    "js": "console.log('This is JS for page Current pay statement');"
+                }
+            ]
+        },
         {
-          "html": "<h1>Pay history</h1>",
-          "css": "main {background: #6FFB30;}",
-          "js": "console.log('This is JS for page Pay history');"
-        }
-      ]
-    },
-    {
-      "id": "year-to-date_summary",
-      "moduleId": "pay",
-      "label": "Year-to-date summary",
-      "description": "",
-      "url": "",
-      "content": [
+            "id": "pay_history",
+            "moduleId": "pay",
+            "label": "Pay history",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Pay history</h1>",
+                    "css": "main {background: #D3E7FF;}",
+                    "js": "console.log('This is JS for page Pay history');"
+                }
+            ]
+        },
         {
-          "html": "<h1>Year-to-date summary</h1>",
-          "css": "main {background: #8B2788;}",
-          "js": "console.log('This is JS for page Year-to-date summary');"
-        }
-      ]
-    },
-    {
-      "id": "total_compensation",
-      "moduleId": "pay",
-      "label": "Total compensation",
-      "description": "",
-      "url": "",
-      "content": [
+            "id": "year-to-date_summary",
+            "moduleId": "pay",
+            "label": "Year-to-date summary",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Year-to-date summary</h1>",
+                    "css": "main {background: #3B24DF;}",
+                    "js": "console.log('This is JS for page Year-to-date summary');"
+                }
+            ]
+        },
         {
-          "html": "<h1>Total compensation</h1>",
-          "css": "main {background: #45D7DB;}",
-          "js": "console.log('This is JS for page Total compensation');"
-        }
-      ]
-    },
-    {
-      "id": "third_party_pay",
-      "moduleId": "pay",
-      "label": "Third party pay",
-      "description": "",
-      "url": "",
-      "content": [
+            "id": "total_compensation",
+            "moduleId": "pay",
+            "label": "Total compensation",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Total compensation</h1>",
+                    "css": "main {background: #7AAF4B;}",
+                    "js": "console.log('This is JS for page Total compensation');"
+                }
+            ]
+        },
         {
-          "html": "<h1>Third party pay</h1>",
-          "css": "main {background: #BBE0A1;}",
-          "js": "console.log('This is JS for page Third party pay');"
-        }
-      ]
-    },
-    {
-      "id": "direct_deposit",
-      "moduleId": "pay",
-      "label": "Direct deposit",
-      "description": "",
-      "url": "",
-      "content": [
+            "id": "third_party_pay",
+            "moduleId": "pay",
+            "label": "Third party pay",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Third party pay</h1>",
+                    "css": "main {background: #357172;}",
+                    "js": "console.log('This is JS for page Third party pay');"
+                }
+            ]
+        },
         {
-          "html": "<h1>Direct deposit</h1>",
-          "css": "main {background: #96B521;}",
-          "js": "console.log('This is JS for page Direct deposit');"
-        }
-      ]
-    },
-    {
-      "id": "income_tax",
-      "moduleId": "pay",
-      "label": "Income tax",
-      "description": "",
-      "url": "",
-      "content": [
+            "id": "direct_deposit",
+            "moduleId": "pay",
+            "label": "Direct deposit",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Direct deposit</h1>",
+                    "css": "main {background: #C10333;}",
+                    "js": "console.log('This is JS for page Direct deposit');"
+                }
+            ]
+        },
         {
-          "html": "<h1>Income tax</h1>",
-          "css": "main {background: #972FE1;}",
-          "js": "console.log('This is JS for page Income tax');"
-        }
-      ]
-    },
-    {
-      "id": "w-2",
-      "moduleId": "pay",
-      "label": "W-2",
-      "description": "",
-      "url": "",
-      "content": [
+            "id": "income_tax",
+            "moduleId": "pay",
+            "label": "Income tax",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Income tax</h1>",
+                    "css": "main {background: #8903D2;}",
+                    "js": "console.log('This is JS for page Income tax');"
+                }
+            ]
+        },
         {
-          "html": "<h1>W-2</h1>",
-          "css": "main {background: #75928D;}",
-          "js": "console.log('This is JS for page W-2');"
-        }
-      ]
-    },
-    {
-      "id": "model_my_pay",
-      "moduleId": "pay",
-      "label": "Model my pay",
-      "description": "",
-      "url": "",
-      "content": [
+            "id": "w-2",
+            "moduleId": "pay",
+            "label": "W-2",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>W-2</h1>",
+                    "css": "main {background: #C1E731;}",
+                    "js": "console.log('This is JS for page W-2');"
+                }
+            ]
+        },
         {
-          "html": "<h1>Model my pay</h1>",
-          "css": "main {background: #7CC46F;}",
-          "js": "console.log('This is JS for page Model my pay');"
-        }
-      ]
-    },
-    {
-      "id": "giving",
-      "moduleId": "pay",
-      "label": "Giving",
-      "description": "",
-      "url": "",
-      "content": [
+            "id": "model_my_pay",
+            "moduleId": "pay",
+            "label": "Model my pay",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Model my pay</h1>",
+                    "css": "main {background: #6C38F0;}",
+                    "js": "console.log('This is JS for page Model my pay');"
+                }
+            ]
+        },
         {
-          "html": "<h1>Giving</h1>",
-          "css": "main {background: #1EF676;}",
-          "js": "console.log('This is JS for page Giving');"
+            "id": "giving",
+            "moduleId": "pay",
+            "label": "Giving",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Giving</h1>",
+                    "css": "main {background: #9FA2CE;}",
+                    "js": "console.log('This is JS for page Giving');"
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }

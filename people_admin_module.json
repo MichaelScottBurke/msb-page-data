@@ -1,170 +1,184 @@
-[
-    {
-        "id": "people_admin",
-        "moduleId": "people_admin",
-        "label": "People admin",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>People admin</h1>",
-                "css": "main {background: #CBD27B;}",
-                "js": "console.log('This is JS for page People admin');"
-            }
-        ]
-    },
-    {
-        "id": "people_hub",
-        "moduleId": "people_admin",
-        "label": "People hub",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>People hub</h1>",
-                "css": "main {background: #CA5E48;}",
-                "js": "console.log('This is JS for page People hub');"
-            }
-        ]
-    },
-    {
-        "id": "people",
-        "moduleId": "people_admin",
-        "label": "People",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>People</h1>",
-                "css": "main {background: #251D44;}",
-                "js": "console.log('This is JS for page People');"
-            }
-        ]
-    },
-    {
-        "id": "employee_contracts",
-        "moduleId": "people_admin",
-        "label": "Employee contracts",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Employee contracts</h1>",
-                "css": "main {background: #2AFD15;}",
-                "js": "console.log('This is JS for page Employee contracts');"
-            }
-        ]
-    },
-    {
-        "id": "employee_relations",
-        "moduleId": "people_admin",
-        "label": "Employee relations",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Employee relations</h1>",
-                "css": "main {background: #DFA34D;}",
-                "js": "console.log('This is JS for page Employee relations');"
-            }
-        ]
-    },
-    {
-        "id": "disciplinary_actions",
-        "moduleId": "people_admin",
-        "label": "Disciplinary Actions",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Disciplinary Actions</h1>",
-                "css": "main {background: #97FEDA;}",
-                "js": "console.log('This is JS for page Disciplinary Actions');"
-            }
-        ]
-    },
-    {
-        "id": "grievances",
-        "moduleId": "people_admin",
-        "label": "Grievances",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Grievances</h1>",
-                "css": "main {background: #152399;}",
-                "js": "console.log('This is JS for page Grievances');"
-            }
-        ]
-    },
-    {
-        "id": "great_places_to_work",
-        "moduleId": "people_admin",
-        "label": "Great Places to Work",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Great Places to Work</h1>",
-                "css": "main {background: #77FFC8;}",
-                "js": "console.log('This is JS for page Great Places to Work');"
-            }
-        ]
-    },
-    {
-        "id": "mass_updates",
-        "moduleId": "people_admin",
-        "label": "Mass updates",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Mass updates</h1>",
-                "css": "main {background: #4DF1BD;}",
-                "js": "console.log('This is JS for page Mass updates');"
-            }
-        ]
-    },
-    {
-        "id": "people_settings",
-        "moduleId": "people_admin",
-        "label": "People settings",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>People settings</h1>",
-                "css": "main {background: #7967A5;}",
-                "js": "console.log('This is JS for page People settings');"
-            }
-        ]
-    },
-    {
-        "id": "employee_settings",
-        "moduleId": "people_admin",
-        "label": "Employee settings",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Employee settings</h1>",
-                "css": "main {background: #15DF8C;}",
-                "js": "console.log('This is JS for page Employee settings');"
-            }
-        ]
-    },
-    {
-        "id": "organization_chart_settings",
-        "moduleId": "people_admin",
-        "label": "Organization chart settings",
-        "description": "",
-        "url": "",
-        "content": [
-            {
-                "html": "<h1>Organization chart settings</h1>",
-                "css": "main {background: #9BD68E;}",
-                "js": "console.log('This is JS for page Organization chart settings');"
-            }
-        ]
-    }
-]
+{
+    "pages": [
+        {
+            "id": "people_admin",
+            "moduleId": "people_admin",
+            "label": "People admin",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>People admin</h1>",
+                    "css": "main {background: #446FE8;}",
+                    "js": "console.log('This is JS for page People admin');"
+                }
+            ]
+        },
+        {
+            "id": "people_hub",
+            "moduleId": "people_admin",
+            "label": "People hub",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>People hub</h1>",
+                    "css": "main {background: #5F51A6;}",
+                    "js": "console.log('This is JS for page People hub');"
+                }
+            ]
+        },
+        {
+            "id": "people",
+            "moduleId": "people_admin",
+            "label": "People",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>People</h1>",
+                    "css": "main {background: #6A0BF1;}",
+                    "js": "console.log('This is JS for page People');"
+                }
+            ]
+        },
+        {
+            "id": "employee_contracts",
+            "moduleId": "people_admin",
+            "label": "Employee contracts",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Employee contracts</h1>",
+                    "css": "main {background: #6397C8;}",
+                    "js": "console.log('This is JS for page Employee contracts');"
+                }
+            ]
+        },
+        {
+            "id": "employee_relations",
+            "moduleId": "people_admin",
+            "label": "Employee relations",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Employee relations</h1>",
+                    "css": "main {background: #09A8C7;}",
+                    "js": "console.log('This is JS for page Employee relations');"
+                }
+            ]
+        },
+        {
+            "id": "disciplinary_actions",
+            "moduleId": "people_admin",
+            "label": "Disciplinary Actions",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Disciplinary Actions</h1>",
+                    "css": "main {background: #3B6251;}",
+                    "js": "console.log('This is JS for page Disciplinary Actions');"
+                }
+            ]
+        },
+        {
+            "id": "grievances",
+            "moduleId": "people_admin",
+            "label": "Grievances",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Grievances</h1>",
+                    "css": "main {background: #6237C7;}",
+                    "js": "console.log('This is JS for page Grievances');"
+                }
+            ]
+        },
+        {
+            "id": "great_places_to_work",
+            "moduleId": "people_admin",
+            "label": "Great Places to Work",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Great Places to Work</h1>",
+                    "css": "main {background: #EAED80;}",
+                    "js": "console.log('This is JS for page Great Places to Work');"
+                }
+            ]
+        },
+        {
+            "id": "mass_updates",
+            "moduleId": "people_admin",
+            "label": "Mass updates",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Mass updates</h1>",
+                    "css": "main {background: #5985C8;}",
+                    "js": "console.log('This is JS for page Mass updates');"
+                }
+            ]
+        },
+        {
+            "id": "people_settings",
+            "moduleId": "people_admin",
+            "label": "People settings",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>People settings</h1>",
+                    "css": "main {background: #19F820;}",
+                    "js": "console.log('This is JS for page People settings');"
+                }
+            ]
+        },
+        {
+            "id": "employee_settings",
+            "moduleId": "people_admin",
+            "label": "Employee settings",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Employee settings</h1>",
+                    "css": "main {background: #C68F89;}",
+                    "js": "console.log('This is JS for page Employee settings');"
+                }
+            ]
+        },
+        {
+            "id": "organization_chart_settings",
+            "moduleId": "people_admin",
+            "label": "Organization chart settings",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Organization chart settings</h1>",
+                    "css": "main {background: #34B40A;}",
+                    "js": "console.log('This is JS for page Organization chart settings');"
+                }
+            ]
+        }
+    ]
+}
