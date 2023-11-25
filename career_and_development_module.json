@@ -10,7 +10,7 @@
             "content": [
                 {
                     "html": "<h1>Career and development</h1>",
-                    "css": "main {background: #F68D58;}",
+                    "css": "main {background: #1273AD;}",
                     "js": "console.log('This is JS for page Career and development');"
                 }
             ]
@@ -25,7 +25,7 @@
             "content": [
                 {
                     "html": "<h1>Career and development hub</h1>",
-                    "css": "main {background: #AE082E;}",
+                    "css": "main {background: #800B11;}",
                     "js": "console.log('This is JS for page Career and development hub');"
                 }
             ]
@@ -40,7 +40,7 @@
             "content": [
                 {
                     "html": "<h1>Career builder</h1>",
-                    "css": "main {background: #9AF072;}",
+                    "css": "main {background: #73BEB5;}",
                     "js": "console.log('This is JS for page Career builder');"
                 }
             ]
@@ -55,7 +55,7 @@
             "content": [
                 {
                     "html": "<h1>Onboarding</h1>",
-                    "css": "main {background: #230FBB;}",
+                    "css": "main {background: #4069A2;}",
                     "js": "console.log('This is JS for page Onboarding');"
                 }
             ]
@@ -70,7 +70,7 @@
             "content": [
                 {
                     "html": "<h1>Jobs</h1>",
-                    "css": "main {background: #524B34;}",
+                    "css": "main {background: #BAFBB5;}",
                     "js": "console.log('This is JS for page Jobs');"
                 }
             ]
@@ -85,7 +85,7 @@
             "content": [
                 {
                     "html": "<h1>Job profile</h1>",
-                    "css": "main {background: #FE288A;}",
+                    "css": "main {background: #4B36CC;}",
                     "js": "console.log('This is JS for page Job profile');"
                 }
             ]
@@ -100,7 +100,7 @@
             "content": [
                 {
                     "html": "<h1>Compensation</h1>",
-                    "css": "main {background: #906C09;}",
+                    "css": "main {background: #5B2C73;}",
                     "js": "console.log('This is JS for page Compensation');"
                 }
             ]
@@ -115,7 +115,7 @@
             "content": [
                 {
                     "html": "<h1>Variable pay</h1>",
-                    "css": "main {background: #58CAB4;}",
+                    "css": "main {background: #DCC121;}",
                     "js": "console.log('This is JS for page Variable pay');"
                 }
             ]
@@ -130,7 +130,7 @@
             "content": [
                 {
                     "html": "<h1>Job history</h1>",
-                    "css": "main {background: #892EFB;}",
+                    "css": "main {background: #36D3A1;}",
                     "js": "console.log('This is JS for page Job history');"
                 }
             ]
@@ -145,7 +145,7 @@
             "content": [
                 {
                     "html": "<h1>Secondary job history</h1>",
-                    "css": "main {background: #5959F9;}",
+                    "css": "main {background: #97D5D6;}",
                     "js": "console.log('This is JS for page Secondary job history');"
                 }
             ]
@@ -160,7 +160,7 @@
             "content": [
                 {
                     "html": "<h1>Performance reviews</h1>",
-                    "css": "main {background: #A64508;}",
+                    "css": "main {background: #E7215C;}",
                     "js": "console.log('This is JS for page Performance reviews');"
                 }
             ]
@@ -175,7 +175,7 @@
             "content": [
                 {
                     "html": "<h1>Goals</h1>",
-                    "css": "main {background: #4717F4;}",
+                    "css": "main {background: #D2F010;}",
                     "js": "console.log('This is JS for page Goals');"
                 }
             ]
@@ -190,7 +190,7 @@
             "content": [
                 {
                     "html": "<h1>Goal planning</h1>",
-                    "css": "main {background: #36C65A;}",
+                    "css": "main {background: #766F1B;}",
                     "js": "console.log('This is JS for page Goal planning');"
                 }
             ]
@@ -205,7 +205,7 @@
             "content": [
                 {
                     "html": "<h1>Competencies</h1>",
-                    "css": "main {background: #9F81D0;}",
+                    "css": "main {background: #74C343;}",
                     "js": "console.log('This is JS for page Competencies');"
                 }
             ]
@@ -220,7 +220,7 @@
             "content": [
                 {
                     "html": "<h1>Personal development</h1>",
-                    "css": "main {background: #891608;}",
+                    "css": "main {background: #9B151B;}",
                     "js": "console.log('This is JS for page Personal development');"
                 }
             ]
@@ -235,7 +235,7 @@
             "content": [
                 {
                     "html": "<h1>Talent profile</h1>",
-                    "css": "main {background: #6A5246;}",
+                    "css": "main {background: #C4335D;}",
                     "js": "console.log('This is JS for page Talent profile');"
                 }
             ]
@@ -250,7 +250,7 @@
             "content": [
                 {
                     "html": "<h1>Qualifications</h1>",
-                    "css": "main {background: #242AE5;}",
+                    "css": "main {background: #18B45E;}",
                     "js": "console.log('This is JS for page Qualifications');"
                 }
             ]
@@ -265,7 +265,7 @@
             "content": [
                 {
                     "html": "<h1>Licenses</h1>",
-                    "css": "main {background: #79B24C;}",
+                    "css": "main {background: #2DBEE7;}",
                     "js": "console.log('This is JS for page Licenses');"
                 }
             ]
@@ -280,7 +280,7 @@
             "content": [
                 {
                     "html": "<h1>Skills</h1>",
-                    "css": "main {background: #246661;}",
+                    "css": "main {background: #CA465A;}",
                     "js": "console.log('This is JS for page Skills');"
                 }
             ]
@@ -295,7 +295,7 @@
             "content": [
                 {
                     "html": "<h1>Tests</h1>",
-                    "css": "main {background: #777224;}",
+                    "css": "main {background: #D47DE6;}",
                     "js": "console.log('This is JS for page Tests');"
                 }
             ]
@@ -310,7 +310,7 @@
             "content": [
                 {
                     "html": "<h1>Previous employment</h1>",
-                    "css": "main {background: #EAE761;}",
+                    "css": "main {background: #FF5FA4;}",
                     "js": "console.log('This is JS for page Previous employment');"
                 }
             ]
@@ -325,7 +325,7 @@
             "content": [
                 {
                     "html": "<h1>Awards</h1>",
-                    "css": "main {background: #11345D;}",
+                    "css": "main {background: #FA9096;}",
                     "js": "console.log('This is JS for page Awards');"
                 }
             ]
@@ -340,7 +340,7 @@
             "content": [
                 {
                     "html": "<h1>Education</h1>",
-                    "css": "main {background: #87CDA3;}",
+                    "css": "main {background: #F8FFD7;}",
                     "js": "console.log('This is JS for page Education');"
                 }
             ]
@@ -355,7 +355,7 @@
             "content": [
                 {
                     "html": "<h1>Relocation preferences</h1>",
-                    "css": "main {background: #FF80ED;}",
+                    "css": "main {background: #41AFEB;}",
                     "js": "console.log('This is JS for page Relocation preferences');"
                 }
             ]
@@ -370,7 +370,7 @@
             "content": [
                 {
                     "html": "<h1>Learning development classic</h1>",
-                    "css": "main {background: #133177;}",
+                    "css": "main {background: #7820FF;}",
                     "js": "console.log('This is JS for page Learning development classic');"
                 }
             ]
@@ -385,7 +385,7 @@
             "content": [
                 {
                     "html": "<h1>Available learning</h1>",
-                    "css": "main {background: #6284DC;}",
+                    "css": "main {background: #7BDBF3;}",
                     "js": "console.log('This is JS for page Available learning');"
                 }
             ]
@@ -400,7 +400,7 @@
             "content": [
                 {
                     "html": "<h1>Completed learning</h1>",
-                    "css": "main {background: #B6FB5D;}",
+                    "css": "main {background: #EE4EA8;}",
                     "js": "console.log('This is JS for page Completed learning');"
                 }
             ]
@@ -415,7 +415,7 @@
             "content": [
                 {
                     "html": "<h1>Current learning</h1>",
-                    "css": "main {background: #F554BD;}",
+                    "css": "main {background: #1A99B1;}",
                     "js": "console.log('This is JS for page Current learning');"
                 }
             ]
@@ -430,7 +430,7 @@
             "content": [
                 {
                     "html": "<h1>Training classic</h1>",
-                    "css": "main {background: #9BFC74;}",
+                    "css": "main {background: #D5176F;}",
                     "js": "console.log('This is JS for page Training classic');"
                 }
             ]
@@ -445,7 +445,7 @@
             "content": [
                 {
                     "html": "<h1>Current enrollments</h1>",
-                    "css": "main {background: #FC1F36;}",
+                    "css": "main {background: #56FE98;}",
                     "js": "console.log('This is JS for page Current enrollments');"
                 }
             ]
@@ -460,7 +460,7 @@
             "content": [
                 {
                     "html": "<h1>Required training</h1>",
-                    "css": "main {background: #46D822;}",
+                    "css": "main {background: #6B71E1;}",
                     "js": "console.log('This is JS for page Required training');"
                 }
             ]
@@ -475,7 +475,7 @@
             "content": [
                 {
                     "html": "<h1>Training history</h1>",
-                    "css": "main {background: #6F7FD4;}",
+                    "css": "main {background: #5C974B;}",
                     "js": "console.log('This is JS for page Training history');"
                 }
             ]

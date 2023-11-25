@@ -1,0 +1,619 @@
+{
+    "pages": [
+        {
+            "id": "reporting_and_business_intelligence",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "Reporting and Business Intelligence",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Reporting and Business Intelligence</h1>",
+                    "css": "main {background: #BC1D7E;}",
+                    "js": "console.log('This is JS for page Reporting and Business Intelligence');"
+                }
+            ]
+        },
+        {
+            "id": "business_intelligence_and_reporting_hub",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "Business Intelligence and reporting hub",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Business Intelligence and reporting hub</h1>",
+                    "css": "main {background: #BC16EF;}",
+                    "js": "console.log('This is JS for page Business Intelligence and reporting hub');"
+                }
+            ]
+        },
+        {
+            "id": "aca_manager",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "ACA manager",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>ACA manager</h1>",
+                    "css": "main {background: #ADFD7B;}",
+                    "js": "console.log('This is JS for page ACA manager');"
+                }
+            ]
+        },
+        {
+            "id": "aca_hub",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "ACA hub",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>ACA hub</h1>",
+                    "css": "main {background: #D2BEF7;}",
+                    "js": "console.log('This is JS for page ACA hub');"
+                }
+            ]
+        },
+        {
+            "id": "checklist",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "Checklist",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Checklist</h1>",
+                    "css": "main {background: #891AA0;}",
+                    "js": "console.log('This is JS for page Checklist');"
+                }
+            ]
+        },
+        {
+            "id": "import_1095-c_file",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "Import 1095-C file",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Import 1095-C file</h1>",
+                    "css": "main {background: #D41F29;}",
+                    "js": "console.log('This is JS for page Import 1095-C file');"
+                }
+            ]
+        },
+        {
+            "id": "aca_monthly_details",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "ACA Monthly Details",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>ACA Monthly Details</h1>",
+                    "css": "main {background: #B29B6B;}",
+                    "js": "console.log('This is JS for page ACA Monthly Details');"
+                }
+            ]
+        },
+        {
+            "id": "generate_and_finalize",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "Generate and finalize",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Generate and finalize</h1>",
+                    "css": "main {background: #9A4F42;}",
+                    "js": "console.log('This is JS for page Generate and finalize');"
+                }
+            ]
+        },
+        {
+            "id": "filing_and_history",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "Filing and history",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Filing and history</h1>",
+                    "css": "main {background: #CAD865;}",
+                    "js": "console.log('This is JS for page Filing and history');"
+                }
+            ]
+        },
+        {
+            "id": "business_intelligence",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "Business intelligence",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Business intelligence</h1>",
+                    "css": "main {background: #E3E06E;}",
+                    "js": "console.log('This is JS for page Business intelligence');"
+                }
+            ]
+        },
+        {
+            "id": "standard_reports",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "Standard reports",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Standard reports</h1>",
+                    "css": "main {background: #7BACB0;}",
+                    "js": "console.log('This is JS for page Standard reports');"
+                }
+            ]
+        },
+        {
+            "id": "completed",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "Completed",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Completed</h1>",
+                    "css": "main {background: #9E844D;}",
+                    "js": "console.log('This is JS for page Completed');"
+                }
+            ]
+        },
+        {
+            "id": "available",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "Available",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Available</h1>",
+                    "css": "main {background: #E6AFEC;}",
+                    "js": "console.log('This is JS for page Available');"
+                }
+            ]
+        },
+        {
+            "id": "saved_templates",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "Saved templates",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Saved templates</h1>",
+                    "css": "main {background: #8ACE20;}",
+                    "js": "console.log('This is JS for page Saved templates');"
+                }
+            ]
+        },
+        {
+            "id": "version",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "Version",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Version</h1>",
+                    "css": "main {background: #718ED1;}",
+                    "js": "console.log('This is JS for page Version');"
+                }
+            ]
+        },
+        {
+            "id": "general_ledger",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "General ledger",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>General ledger</h1>",
+                    "css": "main {background: #82320F;}",
+                    "js": "console.log('This is JS for page General ledger');"
+                }
+            ]
+        },
+        {
+            "id": "custom_reports",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "Custom reports",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Custom reports</h1>",
+                    "css": "main {background: #5A07E8;}",
+                    "js": "console.log('This is JS for page Custom reports');"
+                }
+            ]
+        },
+        {
+            "id": "analytics",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "Analytics",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Analytics</h1>",
+                    "css": "main {background: #12B9D3;}",
+                    "js": "console.log('This is JS for page Analytics');"
+                }
+            ]
+        },
+        {
+            "id": "file_transfers",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "File transfers",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>File transfers</h1>",
+                    "css": "main {background: #09E557;}",
+                    "js": "console.log('This is JS for page File transfers');"
+                }
+            ]
+        },
+        {
+            "id": "year-end_forms",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "Year-end forms",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Year-end forms</h1>",
+                    "css": "main {background: #AB8EFF;}",
+                    "js": "console.log('This is JS for page Year-end forms');"
+                }
+            ]
+        },
+        {
+            "id": "aca_manager",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "ACA manager",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>ACA manager</h1>",
+                    "css": "main {background: #E51E75;}",
+                    "js": "console.log('This is JS for page ACA manager');"
+                }
+            ]
+        },
+        {
+            "id": "aca_dashboard",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "ACA dashboard",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>ACA dashboard</h1>",
+                    "css": "main {background: #D313E5;}",
+                    "js": "console.log('This is JS for page ACA dashboard');"
+                }
+            ]
+        },
+        {
+            "id": "checklist",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "Checklist",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Checklist</h1>",
+                    "css": "main {background: #5AF5E9;}",
+                    "js": "console.log('This is JS for page Checklist');"
+                }
+            ]
+        },
+        {
+            "id": "import_1095-c_file",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "Import 1095-C File",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Import 1095-C File</h1>",
+                    "css": "main {background: #A2328C;}",
+                    "js": "console.log('This is JS for page Import 1095-C File');"
+                }
+            ]
+        },
+        {
+            "id": "aca_monthly_details",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "ACA Monthly Details",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>ACA Monthly Details</h1>",
+                    "css": "main {background: #161B47;}",
+                    "js": "console.log('This is JS for page ACA Monthly Details');"
+                }
+            ]
+        },
+        {
+            "id": "generate_and_finalize",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "Generate and Finalize",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Generate and Finalize</h1>",
+                    "css": "main {background: #209B94;}",
+                    "js": "console.log('This is JS for page Generate and Finalize');"
+                }
+            ]
+        },
+        {
+            "id": "filing_and_history",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "Filing and History",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Filing and History</h1>",
+                    "css": "main {background: #E5FC1B;}",
+                    "js": "console.log('This is JS for page Filing and History');"
+                }
+            ]
+        },
+        {
+            "id": "hr_compliance_reporting",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "HR Compliance Reporting",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>HR Compliance Reporting</h1>",
+                    "css": "main {background: #8ACFC2;}",
+                    "js": "console.log('This is JS for page HR Compliance Reporting');"
+                }
+            ]
+        },
+        {
+            "id": "diversity_dashboard",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "Diversity dashboard",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Diversity dashboard</h1>",
+                    "css": "main {background: #75C545;}",
+                    "js": "console.log('This is JS for page Diversity dashboard');"
+                }
+            ]
+        },
+        {
+            "id": "eeo-1",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "EEO-1",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>EEO-1</h1>",
+                    "css": "main {background: #988B08;}",
+                    "js": "console.log('This is JS for page EEO-1');"
+                }
+            ]
+        },
+        {
+            "id": "eeo-1_dashboard",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "EEO-1 dashboard",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>EEO-1 dashboard</h1>",
+                    "css": "main {background: #DF1A07;}",
+                    "js": "console.log('This is JS for page EEO-1 dashboard');"
+                }
+            ]
+        },
+        {
+            "id": "import",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "Import",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Import</h1>",
+                    "css": "main {background: #6FB56D;}",
+                    "js": "console.log('This is JS for page Import');"
+                }
+            ]
+        },
+        {
+            "id": "generate",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "Generate",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Generate</h1>",
+                    "css": "main {background: #755212;}",
+                    "js": "console.log('This is JS for page Generate');"
+                }
+            ]
+        },
+        {
+            "id": "vets_4212_data_file",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "VETS 4212 Data File",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>VETS 4212 Data File</h1>",
+                    "css": "main {background: #D8B880;}",
+                    "js": "console.log('This is JS for page VETS 4212 Data File');"
+                }
+            ]
+        },
+        {
+            "id": "osha",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "OSHA",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>OSHA</h1>",
+                    "css": "main {background: #62A75B;}",
+                    "js": "console.log('This is JS for page OSHA');"
+                }
+            ]
+        },
+        {
+            "id": "osha_300a_data_file",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "OSHA 300A data file",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>OSHA 300A data file</h1>",
+                    "css": "main {background: #718A20;}",
+                    "js": "console.log('This is JS for page OSHA 300A data file');"
+                }
+            ]
+        },
+        {
+            "id": "roe_administration",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "ROE Administration",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>ROE Administration</h1>",
+                    "css": "main {background: #525D4E;}",
+                    "js": "console.log('This is JS for page ROE Administration');"
+                }
+            ]
+        },
+        {
+            "id": "workflow_audit",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "Workflow audit",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Workflow audit</h1>",
+                    "css": "main {background: #B96E98;}",
+                    "js": "console.log('This is JS for page Workflow audit');"
+                }
+            ]
+        },
+        {
+            "id": "communication_broadcast_usage",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "Communication broadcast usage",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Communication broadcast usage</h1>",
+                    "css": "main {background: #5AF952;}",
+                    "js": "console.log('This is JS for page Communication broadcast usage');"
+                }
+            ]
+        },
+        {
+            "id": "sent_messages_admin",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "Sent messages admin",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Sent messages admin</h1>",
+                    "css": "main {background: #14BE4F;}",
+                    "js": "console.log('This is JS for page Sent messages admin');"
+                }
+            ]
+        },
+        {
+            "id": "reporting_settings",
+            "moduleId": "reporting_and_business_intelligence",
+            "label": "Reporting settings",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Reporting settings</h1>",
+                    "css": "main {background: #CF1D2E;}",
+                    "js": "console.log('This is JS for page Reporting settings');"
+                }
+            ]
+        }
+    ]
+}

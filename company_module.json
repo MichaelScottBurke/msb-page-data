@@ -10,7 +10,7 @@
             "content": [
                 {
                     "html": "<h1>Company</h1>",
-                    "css": "main {background: #710F5A;}",
+                    "css": "main {background: #6E49F3;}",
                     "js": "console.log('This is JS for page Company');"
                 }
             ]
@@ -25,7 +25,7 @@
             "content": [
                 {
                     "html": "<h1>News and information</h1>",
-                    "css": "main {background: #A0AC7D;}",
+                    "css": "main {background: #5FDE66;}",
                     "js": "console.log('This is JS for page News and information');"
                 }
             ]
@@ -40,7 +40,7 @@
             "content": [
                 {
                     "html": "<h1>Company info</h1>",
-                    "css": "main {background: #4B0A2D;}",
+                    "css": "main {background: #27D916;}",
                     "js": "console.log('This is JS for page Company info');"
                 }
             ]
@@ -55,7 +55,7 @@
             "content": [
                 {
                     "html": "<h1>Employee directory</h1>",
-                    "css": "main {background: #DC40AC;}",
+                    "css": "main {background: #3DEC9F;}",
                     "js": "console.log('This is JS for page Employee directory');"
                 }
             ]
@@ -70,7 +70,7 @@
             "content": [
                 {
                     "html": "<h1>Organization chart</h1>",
-                    "css": "main {background: #815F37;}",
+                    "css": "main {background: #66B068;}",
                     "js": "console.log('This is JS for page Organization chart');"
                 }
             ]
@@ -85,7 +85,7 @@
             "content": [
                 {
                     "html": "<h1>View opportunities</h1>",
-                    "css": "main {background: #43005F;}",
+                    "css": "main {background: #BEA27D;}",
                     "js": "console.log('This is JS for page View opportunities');"
                 }
             ]
@@ -100,7 +100,7 @@
             "content": [
                 {
                     "html": "<h1>Job openings</h1>",
-                    "css": "main {background: #F38A3E;}",
+                    "css": "main {background: #EC83A3;}",
                     "js": "console.log('This is JS for page Job openings');"
                 }
             ]
@@ -115,7 +115,7 @@
             "content": [
                 {
                     "html": "<h1>Training schedule</h1>",
-                    "css": "main {background: #C91B7A;}",
+                    "css": "main {background: #DC24CB;}",
                     "js": "console.log('This is JS for page Training schedule');"
                 }
             ]
@@ -130,7 +130,7 @@
             "content": [
                 {
                     "html": "<h1>UKG.com</h1>",
-                    "css": "main {background: #5C64F0;}",
+                    "css": "main {background: #614F6D;}",
                     "js": "console.log('This is JS for page UKG.com');"
                 }
             ]
@@ -145,7 +145,7 @@
             "content": [
                 {
                     "html": "<h1>Workforce Continuity</h1>",
-                    "css": "main {background: #E2BB78;}",
+                    "css": "main {background: #A68698;}",
                     "js": "console.log('This is JS for page Workforce Continuity');"
                 }
             ]

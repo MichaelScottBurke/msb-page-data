@@ -10,7 +10,7 @@
             "content": [
                 {
                     "html": "<h1>Pay</h1>",
-                    "css": "main {background: #463499;}",
+                    "css": "main {background: #3C93A2;}",
                     "js": "console.log('This is JS for page Pay');"
                 }
             ]
@@ -25,7 +25,7 @@
             "content": [
                 {
                     "html": "<h1>Pay hub</h1>",
-                    "css": "main {background: #57158D;}",
+                    "css": "main {background: #E1613D;}",
                     "js": "console.log('This is JS for page Pay hub');"
                 }
             ]
@@ -40,7 +40,7 @@
             "content": [
                 {
                     "html": "<h1>Current pay statement</h1>",
-                    "css": "main {background: #1D79B7;}",
+                    "css": "main {background: #178EC3;}",
                     "js": "console.log('This is JS for page Current pay statement');"
                 }
             ]
@@ -55,7 +55,7 @@
             "content": [
                 {
                     "html": "<h1>Pay history</h1>",
-                    "css": "main {background: #D3E7FF;}",
+                    "css": "main {background: #4C7DF3;}",
                     "js": "console.log('This is JS for page Pay history');"
                 }
             ]
@@ -70,7 +70,7 @@
             "content": [
                 {
                     "html": "<h1>Year-to-date summary</h1>",
-                    "css": "main {background: #3B24DF;}",
+                    "css": "main {background: #EE87F1;}",
                     "js": "console.log('This is JS for page Year-to-date summary');"
                 }
             ]
@@ -85,7 +85,7 @@
             "content": [
                 {
                     "html": "<h1>Total compensation</h1>",
-                    "css": "main {background: #7AAF4B;}",
+                    "css": "main {background: #D0FF8C;}",
                     "js": "console.log('This is JS for page Total compensation');"
                 }
             ]
@@ -100,7 +100,7 @@
             "content": [
                 {
                     "html": "<h1>Third party pay</h1>",
-                    "css": "main {background: #357172;}",
+                    "css": "main {background: #060293;}",
                     "js": "console.log('This is JS for page Third party pay');"
                 }
             ]
@@ -115,7 +115,7 @@
             "content": [
                 {
                     "html": "<h1>Direct deposit</h1>",
-                    "css": "main {background: #C10333;}",
+                    "css": "main {background: #FB0E41;}",
                     "js": "console.log('This is JS for page Direct deposit');"
                 }
             ]
@@ -130,7 +130,7 @@
             "content": [
                 {
                     "html": "<h1>Income tax</h1>",
-                    "css": "main {background: #8903D2;}",
+                    "css": "main {background: #230CFF;}",
                     "js": "console.log('This is JS for page Income tax');"
                 }
             ]
@@ -145,7 +145,7 @@
             "content": [
                 {
                     "html": "<h1>W-2</h1>",
-                    "css": "main {background: #C1E731;}",
+                    "css": "main {background: #8B44D0;}",
                     "js": "console.log('This is JS for page W-2');"
                 }
             ]
@@ -160,7 +160,7 @@
             "content": [
                 {
                     "html": "<h1>Model my pay</h1>",
-                    "css": "main {background: #6C38F0;}",
+                    "css": "main {background: #5A9A84;}",
                     "js": "console.log('This is JS for page Model my pay');"
                 }
             ]
@@ -175,7 +175,7 @@
             "content": [
                 {
                     "html": "<h1>Giving</h1>",
-                    "css": "main {background: #9FA2CE;}",
+                    "css": "main {background: #F209C1;}",
                     "js": "console.log('This is JS for page Giving');"
                 }
             ]

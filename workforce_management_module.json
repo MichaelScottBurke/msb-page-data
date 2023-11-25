@@ -10,8 +10,83 @@
             "content": [
                 {
                     "html": "<h1>Workforce Management</h1>",
-                    "css": "main {background: #345D3F;}",
+                    "css": "main {background: #B6B6A3;}",
                     "js": "console.log('This is JS for page Workforce Management');"
+                }
+            ]
+        },
+        {
+            "id": "team_schedule",
+            "moduleId": "workforce_management",
+            "label": "Team schedule",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Team schedule</h1>",
+                    "css": "main {background: #1AD952;}",
+                    "js": "console.log('This is JS for page Team schedule');"
+                }
+            ]
+        },
+        {
+            "id": "leave_management",
+            "moduleId": "workforce_management",
+            "label": "Leave management",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Leave management</h1>",
+                    "css": "main {background: #D11AB5;}",
+                    "js": "console.log('This is JS for page Leave management');"
+                }
+            ]
+        },
+        {
+            "id": "time_off_requests_classic",
+            "moduleId": "workforce_management",
+            "label": "Time off requests classic",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Time off requests classic</h1>",
+                    "css": "main {background: #01D6A0;}",
+                    "js": "console.log('This is JS for page Time off requests classic');"
+                }
+            ]
+        },
+        {
+            "id": "time_and_attendance_classic",
+            "moduleId": "workforce_management",
+            "label": "Time and Attendance classic",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Time and Attendance classic</h1>",
+                    "css": "main {background: #BB7E3E;}",
+                    "js": "console.log('This is JS for page Time and Attendance classic');"
+                }
+            ]
+        },
+        {
+            "id": "time_management_classic",
+            "moduleId": "workforce_management",
+            "label": "Time Management classic",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Time Management classic</h1>",
+                    "css": "main {background: #56E960;}",
+                    "js": "console.log('This is JS for page Time Management classic');"
                 }
             ]
         },
@@ -25,7 +100,7 @@
             "content": [
                 {
                     "html": "<h1>Time entry templates setup classic</h1>",
-                    "css": "main {background: #E74F62;}",
+                    "css": "main {background: #F812EF;}",
                     "js": "console.log('This is JS for page Time entry templates setup classic');"
                 }
             ]
@@ -40,7 +115,7 @@
             "content": [
                 {
                     "html": "<h1>Time and attendance classic</h1>",
-                    "css": "main {background: #B8F45B;}",
+                    "css": "main {background: #4EBBD6;}",
                     "js": "console.log('This is JS for page Time and attendance classic');"
                 }
             ]
@@ -55,7 +130,7 @@
             "content": [
                 {
                     "html": "<h1>Time management classic</h1>",
-                    "css": "main {background: #CE093A;}",
+                    "css": "main {background: #C328CB;}",
                     "js": "console.log('This is JS for page Time management classic');"
                 }
             ]
@@ -70,7 +145,7 @@
             "content": [
                 {
                     "html": "<h1>Paid time off PTO classic</h1>",
-                    "css": "main {background: #4049D9;}",
+                    "css": "main {background: #5D00C5;}",
                     "js": "console.log('This is JS for page Paid time off PTO classic');"
                 }
             ]
@@ -85,7 +160,7 @@
             "content": [
                 {
                     "html": "<h1>Time off requests</h1>",
-                    "css": "main {background: #B300B0;}",
+                    "css": "main {background: #8BA5BC;}",
                     "js": "console.log('This is JS for page Time off requests');"
                 }
             ]
@@ -100,7 +175,7 @@
             "content": [
                 {
                     "html": "<h1>Set balances</h1>",
-                    "css": "main {background: #8D7A26;}",
+                    "css": "main {background: #29C627;}",
                     "js": "console.log('This is JS for page Set balances');"
                 }
             ]
@@ -115,7 +190,7 @@
             "content": [
                 {
                     "html": "<h1>Time off settings</h1>",
-                    "css": "main {background: #D465DC;}",
+                    "css": "main {background: #444F19;}",
                     "js": "console.log('This is JS for page Time off settings');"
                 }
             ]
@@ -130,7 +205,7 @@
             "content": [
                 {
                     "html": "<h1>Workforce continuity</h1>",
-                    "css": "main {background: #740594;}",
+                    "css": "main {background: #A8A714;}",
                     "js": "console.log('This is JS for page Workforce continuity');"
                 }
             ]

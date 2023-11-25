@@ -10,23 +10,23 @@
             "content": [
                 {
                     "html": "<h1>Application settings</h1>",
-                    "css": "main {background: #F55C5D;}",
+                    "css": "main {background: #FFD2B7;}",
                     "js": "console.log('This is JS for page Application settings');"
                 }
             ]
         },
         {
-            "id": "settings_hub",
+            "id": "application_settings_hub",
             "moduleId": "application_settings",
-            "label": "Settings hub",
+            "label": "Application settings hub",
             "description": "",
             "containerId": "main-content",
             "url": "",
             "content": [
                 {
-                    "html": "<h1>Settings hub</h1>",
-                    "css": "main {background: #21EEDB;}",
-                    "js": "console.log('This is JS for page Settings hub');"
+                    "html": "<h1>Application settings hub</h1>",
+                    "css": "main {background: #022983;}",
+                    "js": "console.log('This is JS for page Application settings hub');"
                 }
             ]
         },
@@ -40,7 +40,7 @@
             "content": [
                 {
                     "html": "<h1>Additional address settings</h1>",
-                    "css": "main {background: #1D2DBF;}",
+                    "css": "main {background: #83BF7B;}",
                     "js": "console.log('This is JS for page Additional address settings');"
                 }
             ]
@@ -55,7 +55,7 @@
             "content": [
                 {
                     "html": "<h1>Employee settings</h1>",
-                    "css": "main {background: #2E4809;}",
+                    "css": "main {background: #A9745B;}",
                     "js": "console.log('This is JS for page Employee settings');"
                 }
             ]
@@ -70,7 +70,7 @@
             "content": [
                 {
                     "html": "<h1>Display settings</h1>",
-                    "css": "main {background: #918CF5;}",
+                    "css": "main {background: #77B477;}",
                     "js": "console.log('This is JS for page Display settings');"
                 }
             ]
@@ -85,7 +85,7 @@
             "content": [
                 {
                     "html": "<h1>Theming: color and logo</h1>",
-                    "css": "main {background: #7A600E;}",
+                    "css": "main {background: #17639C;}",
                     "js": "console.log('This is JS for page Theming: color and logo');"
                 }
             ]
@@ -100,7 +100,7 @@
             "content": [
                 {
                     "html": "<h1>Reporting</h1>",
-                    "css": "main {background: #369A59;}",
+                    "css": "main {background: #6CF55F;}",
                     "js": "console.log('This is JS for page Reporting');"
                 }
             ]
@@ -115,7 +115,7 @@
             "content": [
                 {
                     "html": "<h1>Auditing</h1>",
-                    "css": "main {background: #3D398D;}",
+                    "css": "main {background: #8C2A73;}",
                     "js": "console.log('This is JS for page Auditing');"
                 }
             ]
@@ -130,7 +130,7 @@
             "content": [
                 {
                     "html": "<h1>Compensation settings</h1>",
-                    "css": "main {background: #6014C6;}",
+                    "css": "main {background: #788DE7;}",
                     "js": "console.log('This is JS for page Compensation settings');"
                 }
             ]
@@ -145,7 +145,7 @@
             "content": [
                 {
                     "html": "<h1>PTO settings</h1>",
-                    "css": "main {background: #064720;}",
+                    "css": "main {background: #648998;}",
                     "js": "console.log('This is JS for page PTO settings');"
                 }
             ]
@@ -160,7 +160,7 @@
             "content": [
                 {
                     "html": "<h1>Year-end settings</h1>",
-                    "css": "main {background: #DC0C90;}",
+                    "css": "main {background: #AACCD1;}",
                     "js": "console.log('This is JS for page Year-end settings');"
                 }
             ]
@@ -175,23 +175,8 @@
             "content": [
                 {
                     "html": "<h1>PPACA reporting settings</h1>",
-                    "css": "main {background: #B340DE;}",
+                    "css": "main {background: #67B8FD;}",
                     "js": "console.log('This is JS for page PPACA reporting settings');"
-                }
-            ]
-        },
-        {
-            "id": "organization_chart",
-            "moduleId": "application_settings",
-            "label": "Organization chart",
-            "description": "",
-            "containerId": "main-content",
-            "url": "",
-            "content": [
-                {
-                    "html": "<h1>Organization chart</h1>",
-                    "css": "main {background: #CA26BE;}",
-                    "js": "console.log('This is JS for page Organization chart');"
                 }
             ]
         },
@@ -205,7 +190,7 @@
             "content": [
                 {
                     "html": "<h1>Payroll settings</h1>",
-                    "css": "main {background: #72D8F6;}",
+                    "css": "main {background: #320F52;}",
                     "js": "console.log('This is JS for page Payroll settings');"
                 }
             ]
@@ -220,7 +205,7 @@
             "content": [
                 {
                     "html": "<h1>Predictive analytics settings</h1>",
-                    "css": "main {background: #2FF947;}",
+                    "css": "main {background: #1D293B;}",
                     "js": "console.log('This is JS for page Predictive analytics settings');"
                 }
             ]
@@ -235,7 +220,7 @@
             "content": [
                 {
                     "html": "<h1>Record of employment ROE settings</h1>",
-                    "css": "main {background: #69CF72;}",
+                    "css": "main {background: #378700;}",
                     "js": "console.log('This is JS for page Record of employment ROE settings');"
                 }
             ]
@@ -250,7 +235,7 @@
             "content": [
                 {
                     "html": "<h1>Organization chart settings</h1>",
-                    "css": "main {background: #BEA849;}",
+                    "css": "main {background: #659D18;}",
                     "js": "console.log('This is JS for page Organization chart settings');"
                 }
             ]
@@ -265,7 +250,7 @@
             "content": [
                 {
                     "html": "<h1>Process hires settings</h1>",
-                    "css": "main {background: #356D0F;}",
+                    "css": "main {background: #77F62B;}",
                     "js": "console.log('This is JS for page Process hires settings');"
                 }
             ]
@@ -280,7 +265,7 @@
             "content": [
                 {
                     "html": "<h1>configurations</h1>",
-                    "css": "main {background: #845F18;}",
+                    "css": "main {background: #6AA30B;}",
                     "js": "console.log('This is JS for page configurations');"
                 }
             ]
@@ -295,7 +280,7 @@
             "content": [
                 {
                     "html": "<h1>mapping</h1>",
-                    "css": "main {background: #49408F;}",
+                    "css": "main {background: #36D51F;}",
                     "js": "console.log('This is JS for page mapping');"
                 }
             ]
@@ -310,7 +295,7 @@
             "content": [
                 {
                     "html": "<h1>Transfer rule settings</h1>",
-                    "css": "main {background: #1FF8F9;}",
+                    "css": "main {background: #90A0D7;}",
                     "js": "console.log('This is JS for page Transfer rule settings');"
                 }
             ]

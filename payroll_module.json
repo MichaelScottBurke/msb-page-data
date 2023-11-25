@@ -10,7 +10,7 @@
             "content": [
                 {
                     "html": "<h1>Payroll</h1>",
-                    "css": "main {background: #434B2C;}",
+                    "css": "main {background: #6A1011;}",
                     "js": "console.log('This is JS for page Payroll');"
                 }
             ]
@@ -25,7 +25,7 @@
             "content": [
                 {
                     "html": "<h1>Payroll hub</h1>",
-                    "css": "main {background: #373DF9;}",
+                    "css": "main {background: #13E80E;}",
                     "js": "console.log('This is JS for page Payroll hub');"
                 }
             ]
@@ -40,7 +40,7 @@
             "content": [
                 {
                     "html": "<h1>Deduction goal update</h1>",
-                    "css": "main {background: #D8F55F;}",
+                    "css": "main {background: #E3B62B;}",
                     "js": "console.log('This is JS for page Deduction goal update');"
                 }
             ]
@@ -55,7 +55,7 @@
             "content": [
                 {
                     "html": "<h1>Earnings and deductions</h1>",
-                    "css": "main {background: #6AED49;}",
+                    "css": "main {background: #43B086;}",
                     "js": "console.log('This is JS for page Earnings and deductions');"
                 }
             ]
@@ -70,7 +70,7 @@
             "content": [
                 {
                     "html": "<h1>Deduction goal update</h1>",
-                    "css": "main {background: #588C2C;}",
+                    "css": "main {background: #C1C614;}",
                     "js": "console.log('This is JS for page Deduction goal update');"
                 }
             ]
@@ -85,7 +85,7 @@
             "content": [
                 {
                     "html": "<h1>Earnings deductions and garnishments settings</h1>",
-                    "css": "main {background: #7BC111;}",
+                    "css": "main {background: #7C734E;}",
                     "js": "console.log('This is JS for page Earnings deductions and garnishments settings');"
                 }
             ]
@@ -100,7 +100,7 @@
             "content": [
                 {
                     "html": "<h1>Garnishments and wage attachments</h1>",
-                    "css": "main {background: #ADC79C;}",
+                    "css": "main {background: #0C1E38;}",
                     "js": "console.log('This is JS for page Garnishments and wage attachments');"
                 }
             ]
@@ -115,7 +115,7 @@
             "content": [
                 {
                     "html": "<h1>Garnishments and wage attachments hub</h1>",
-                    "css": "main {background: #184741;}",
+                    "css": "main {background: #A3C363;}",
                     "js": "console.log('This is JS for page Garnishments and wage attachments hub');"
                 }
             ]
@@ -130,7 +130,7 @@
             "content": [
                 {
                     "html": "<h1>Wage Attachments</h1>",
-                    "css": "main {background: #921CE8;}",
+                    "css": "main {background: #3810E3;}",
                     "js": "console.log('This is JS for page Wage Attachments');"
                 }
             ]
@@ -145,7 +145,7 @@
             "content": [
                 {
                     "html": "<h1>Wage attachment alerts</h1>",
-                    "css": "main {background: #1CF40C;}",
+                    "css": "main {background: #A48ED0;}",
                     "js": "console.log('This is JS for page Wage attachment alerts');"
                 }
             ]
@@ -160,7 +160,7 @@
             "content": [
                 {
                     "html": "<h1>Garnishment setup</h1>",
-                    "css": "main {background: #A3D51A;}",
+                    "css": "main {background: #A4E446;}",
                     "js": "console.log('This is JS for page Garnishment setup');"
                 }
             ]
@@ -175,7 +175,7 @@
             "content": [
                 {
                     "html": "<h1>Exceptions</h1>",
-                    "css": "main {background: #67711F;}",
+                    "css": "main {background: #16E633;}",
                     "js": "console.log('This is JS for page Exceptions');"
                 }
             ]
@@ -190,7 +190,7 @@
             "content": [
                 {
                     "html": "<h1>Change log</h1>",
-                    "css": "main {background: #340098;}",
+                    "css": "main {background: #F2AC76;}",
                     "js": "console.log('This is JS for page Change log');"
                 }
             ]
@@ -205,7 +205,7 @@
             "content": [
                 {
                     "html": "<h1>Giving</h1>",
-                    "css": "main {background: #8E9C05;}",
+                    "css": "main {background: #0DF776;}",
                     "js": "console.log('This is JS for page Giving');"
                 }
             ]
@@ -220,7 +220,7 @@
             "content": [
                 {
                     "html": "<h1>Year-end</h1>",
-                    "css": "main {background: #8E82EB;}",
+                    "css": "main {background: #B2EE90;}",
                     "js": "console.log('This is JS for page Year-end');"
                 }
             ]
@@ -235,7 +235,7 @@
             "content": [
                 {
                     "html": "<h1>Year-end settings</h1>",
-                    "css": "main {background: #70B6CF;}",
+                    "css": "main {background: #764564;}",
                     "js": "console.log('This is JS for page Year-end settings');"
                 }
             ]
@@ -250,7 +250,7 @@
             "content": [
                 {
                     "html": "<h1>Year-end reporting forms</h1>",
-                    "css": "main {background: #C68970;}",
+                    "css": "main {background: #6A0A3B;}",
                     "js": "console.log('This is JS for page Year-end reporting forms');"
                 }
             ]
@@ -265,7 +265,7 @@
             "content": [
                 {
                     "html": "<h1>Pending Pay Items</h1>",
-                    "css": "main {background: #0E707E;}",
+                    "css": "main {background: #E60FC8;}",
                     "js": "console.log('This is JS for page Pending Pay Items');"
                 }
             ]
@@ -280,7 +280,7 @@
             "content": [
                 {
                     "html": "<h1>Retroactive Pay</h1>",
-                    "css": "main {background: #B4FB62;}",
+                    "css": "main {background: #B0EC78;}",
                     "js": "console.log('This is JS for page Retroactive Pay');"
                 }
             ]
@@ -295,7 +295,7 @@
             "content": [
                 {
                     "html": "<h1>Set Time and Attendance Balances</h1>",
-                    "css": "main {background: #340175;}",
+                    "css": "main {background: #154D8F;}",
                     "js": "console.log('This is JS for page Set Time and Attendance Balances');"
                 }
             ]
@@ -310,7 +310,7 @@
             "content": [
                 {
                     "html": "<h1>Time and Attendance</h1>",
-                    "css": "main {background: #000E8D;}",
+                    "css": "main {background: #084C69;}",
                     "js": "console.log('This is JS for page Time and Attendance');"
                 }
             ]
@@ -325,7 +325,7 @@
             "content": [
                 {
                     "html": "<h1>Time Management</h1>",
-                    "css": "main {background: #BF1BAE;}",
+                    "css": "main {background: #8804B6;}",
                     "js": "console.log('This is JS for page Time Management');"
                 }
             ]
@@ -340,7 +340,7 @@
             "content": [
                 {
                     "html": "<h1>Void by Pay Period</h1>",
-                    "css": "main {background: #3DB341;}",
+                    "css": "main {background: #9E2B39;}",
                     "js": "console.log('This is JS for page Void by Pay Period');"
                 }
             ]
@@ -355,7 +355,7 @@
             "content": [
                 {
                     "html": "<h1>Void Payment</h1>",
-                    "css": "main {background: #8628FD;}",
+                    "css": "main {background: #E79A2B;}",
                     "js": "console.log('This is JS for page Void Payment');"
                 }
             ]
@@ -370,7 +370,7 @@
             "content": [
                 {
                     "html": "<h1>Payroll Guide</h1>",
-                    "css": "main {background: #8D0C8D;}",
+                    "css": "main {background: #D65A02;}",
                     "js": "console.log('This is JS for page Payroll Guide');"
                 }
             ]
@@ -385,7 +385,7 @@
             "content": [
                 {
                     "html": "<h1>Payroll business rules</h1>",
-                    "css": "main {background: #D9F9F0;}",
+                    "css": "main {background: #BA1738;}",
                     "js": "console.log('This is JS for page Payroll business rules');"
                 }
             ]
@@ -400,7 +400,7 @@
             "content": [
                 {
                     "html": "<h1>Process automation</h1>",
-                    "css": "main {background: #4492C9;}",
+                    "css": "main {background: #802E72;}",
                     "js": "console.log('This is JS for page Process automation');"
                 }
             ]
@@ -415,7 +415,7 @@
             "content": [
                 {
                     "html": "<h1>Process automation</h1>",
-                    "css": "main {background: #86D438;}",
+                    "css": "main {background: #5A3EC6;}",
                     "js": "console.log('This is JS for page Process automation');"
                 }
             ]
@@ -430,7 +430,7 @@
             "content": [
                 {
                     "html": "<h1>Print Services File Groups</h1>",
-                    "css": "main {background: #419ED2;}",
+                    "css": "main {background: #56ED93;}",
                     "js": "console.log('This is JS for page Print Services File Groups');"
                 }
             ]
@@ -445,7 +445,7 @@
             "content": [
                 {
                     "html": "<h1>Print Services Contacts</h1>",
-                    "css": "main {background: #FADB84;}",
+                    "css": "main {background: #5631F8;}",
                     "js": "console.log('This is JS for page Print Services Contacts');"
                 }
             ]
@@ -460,7 +460,7 @@
             "content": [
                 {
                     "html": "<h1>Time entry setup</h1>",
-                    "css": "main {background: #8191FD;}",
+                    "css": "main {background: #05520D;}",
                     "js": "console.log('This is JS for page Time entry setup');"
                 }
             ]
@@ -475,7 +475,7 @@
             "content": [
                 {
                     "html": "<h1>Time entry templates</h1>",
-                    "css": "main {background: #E09655;}",
+                    "css": "main {background: #4E13C9;}",
                     "js": "console.log('This is JS for page Time entry templates');"
                 }
             ]
@@ -490,7 +490,7 @@
             "content": [
                 {
                     "html": "<h1>Payroll Reconciliation</h1>",
-                    "css": "main {background: #31B9AB;}",
+                    "css": "main {background: #8C9F5D;}",
                     "js": "console.log('This is JS for page Payroll Reconciliation');"
                 }
             ]
@@ -505,7 +505,7 @@
             "content": [
                 {
                     "html": "<h1>Tool and Alerts</h1>",
-                    "css": "main {background: #F9AE76;}",
+                    "css": "main {background: #8D80D1;}",
                     "js": "console.log('This is JS for page Tool and Alerts');"
                 }
             ]
@@ -520,7 +520,7 @@
             "content": [
                 {
                     "html": "<h1>Sessions</h1>",
-                    "css": "main {background: #B95606;}",
+                    "css": "main {background: #9268B8;}",
                     "js": "console.log('This is JS for page Sessions');"
                 }
             ]
@@ -535,7 +535,7 @@
             "content": [
                 {
                     "html": "<h1>Tax Group Information</h1>",
-                    "css": "main {background: #2EAE80;}",
+                    "css": "main {background: #1D931A;}",
                     "js": "console.log('This is JS for page Tax Group Information');"
                 }
             ]
@@ -550,7 +550,7 @@
             "content": [
                 {
                     "html": "<h1>Check Reconciliation</h1>",
-                    "css": "main {background: #BB34E1;}",
+                    "css": "main {background: #DBA112;}",
                     "js": "console.log('This is JS for page Check Reconciliation');"
                 }
             ]
@@ -565,7 +565,7 @@
             "content": [
                 {
                     "html": "<h1>Payroll guide</h1>",
-                    "css": "main {background: #2DA3BB;}",
+                    "css": "main {background: #7D15BC;}",
                     "js": "console.log('This is JS for page Payroll guide');"
                 }
             ]
@@ -580,7 +580,7 @@
             "content": [
                 {
                     "html": "<h1>Payroll business rules</h1>",
-                    "css": "main {background: #BCD7C3;}",
+                    "css": "main {background: #9FBB99;}",
                     "js": "console.log('This is JS for page Payroll business rules');"
                 }
             ]
@@ -595,7 +595,7 @@
             "content": [
                 {
                     "html": "<h1>Payroll setup and settings</h1>",
-                    "css": "main {background: #D35917;}",
+                    "css": "main {background: #BA5D4D;}",
                     "js": "console.log('This is JS for page Payroll setup and settings');"
                 }
             ]
@@ -610,7 +610,7 @@
             "content": [
                 {
                     "html": "<h1>Payroll Settings</h1>",
-                    "css": "main {background: #FDD106;}",
+                    "css": "main {background: #010E55;}",
                     "js": "console.log('This is JS for page Payroll Settings');"
                 }
             ]
@@ -625,7 +625,7 @@
             "content": [
                 {
                     "html": "<h1>Direct Deposit File Groups</h1>",
-                    "css": "main {background: #7B06F3;}",
+                    "css": "main {background: #B7942A;}",
                     "js": "console.log('This is JS for page Direct Deposit File Groups');"
                 }
             ]
@@ -640,7 +640,7 @@
             "content": [
                 {
                     "html": "<h1>Retroactive Pay Settings</h1>",
-                    "css": "main {background: #F6B625;}",
+                    "css": "main {background: #A2249C;}",
                     "js": "console.log('This is JS for page Retroactive Pay Settings');"
                 }
             ]
@@ -655,7 +655,7 @@
             "content": [
                 {
                     "html": "<h1>On Demand Pay</h1>",
-                    "css": "main {background: #5153E6;}",
+                    "css": "main {background: #6C1124;}",
                     "js": "console.log('This is JS for page On Demand Pay');"
                 }
             ]
@@ -670,7 +670,7 @@
             "content": [
                 {
                     "html": "<h1>Pay statement settings</h1>",
-                    "css": "main {background: #572358;}",
+                    "css": "main {background: #CE93FF;}",
                     "js": "console.log('This is JS for page Pay statement settings');"
                 }
             ]
@@ -685,7 +685,7 @@
             "content": [
                 {
                     "html": "<h1>Pay group options</h1>",
-                    "css": "main {background: #4CB234;}",
+                    "css": "main {background: #DC43F8;}",
                     "js": "console.log('This is JS for page Pay group options');"
                 }
             ]
@@ -700,7 +700,7 @@
             "content": [
                 {
                     "html": "<h1>Earnings configuration</h1>",
-                    "css": "main {background: #621CD0;}",
+                    "css": "main {background: #47A73F;}",
                     "js": "console.log('This is JS for page Earnings configuration');"
                 }
             ]
@@ -715,7 +715,7 @@
             "content": [
                 {
                     "html": "<h1>Pay insights admin</h1>",
-                    "css": "main {background: #3200A1;}",
+                    "css": "main {background: #506C14;}",
                     "js": "console.log('This is JS for page Pay insights admin');"
                 }
             ]
@@ -730,7 +730,7 @@
             "content": [
                 {
                     "html": "<h1>Payroll models setup</h1>",
-                    "css": "main {background: #2F801E;}",
+                    "css": "main {background: #2B3E9C;}",
                     "js": "console.log('This is JS for page Payroll models setup');"
                 }
             ]
@@ -745,7 +745,7 @@
             "content": [
                 {
                     "html": "<h1>Retroactive pay settings</h1>",
-                    "css": "main {background: #2AF5D1;}",
+                    "css": "main {background: #B6481F;}",
                     "js": "console.log('This is JS for page Retroactive pay settings');"
                 }
             ]
@@ -760,7 +760,7 @@
             "content": [
                 {
                     "html": "<h1>Pay statement download</h1>",
-                    "css": "main {background: #AE8602;}",
+                    "css": "main {background: #A122AC;}",
                     "js": "console.log('This is JS for page Pay statement download');"
                 }
             ]
@@ -775,7 +775,7 @@
             "content": [
                 {
                     "html": "<h1>Employee pay totals</h1>",
-                    "css": "main {background: #01E18E;}",
+                    "css": "main {background: #916BBE;}",
                     "js": "console.log('This is JS for page Employee pay totals');"
                 }
             ]
@@ -790,7 +790,7 @@
             "content": [
                 {
                     "html": "<h1>Third party pay</h1>",
-                    "css": "main {background: #4FE106;}",
+                    "css": "main {background: #359D06;}",
                     "js": "console.log('This is JS for page Third party pay');"
                 }
             ]
@@ -805,7 +805,7 @@
             "content": [
                 {
                     "html": "<h1>Void payment</h1>",
-                    "css": "main {background: #8CEEA5;}",
+                    "css": "main {background: #F50EF2;}",
                     "js": "console.log('This is JS for page Void payment');"
                 }
             ]

@@ -10,7 +10,7 @@
             "content": [
                 {
                     "html": "<h1>People admin</h1>",
-                    "css": "main {background: #446FE8;}",
+                    "css": "main {background: #D1C0FE;}",
                     "js": "console.log('This is JS for page People admin');"
                 }
             ]
@@ -25,7 +25,7 @@
             "content": [
                 {
                     "html": "<h1>People hub</h1>",
-                    "css": "main {background: #5F51A6;}",
+                    "css": "main {background: #E82DA1;}",
                     "js": "console.log('This is JS for page People hub');"
                 }
             ]
@@ -40,7 +40,7 @@
             "content": [
                 {
                     "html": "<h1>People</h1>",
-                    "css": "main {background: #6A0BF1;}",
+                    "css": "main {background: #7174AA;}",
                     "js": "console.log('This is JS for page People');"
                 }
             ]
@@ -55,7 +55,7 @@
             "content": [
                 {
                     "html": "<h1>Employee contracts</h1>",
-                    "css": "main {background: #6397C8;}",
+                    "css": "main {background: #34EE0D;}",
                     "js": "console.log('This is JS for page Employee contracts');"
                 }
             ]
@@ -70,7 +70,7 @@
             "content": [
                 {
                     "html": "<h1>Employee relations</h1>",
-                    "css": "main {background: #09A8C7;}",
+                    "css": "main {background: #AF410E;}",
                     "js": "console.log('This is JS for page Employee relations');"
                 }
             ]
@@ -85,7 +85,7 @@
             "content": [
                 {
                     "html": "<h1>Disciplinary Actions</h1>",
-                    "css": "main {background: #3B6251;}",
+                    "css": "main {background: #E2FD08;}",
                     "js": "console.log('This is JS for page Disciplinary Actions');"
                 }
             ]
@@ -100,7 +100,7 @@
             "content": [
                 {
                     "html": "<h1>Grievances</h1>",
-                    "css": "main {background: #6237C7;}",
+                    "css": "main {background: #390F80;}",
                     "js": "console.log('This is JS for page Grievances');"
                 }
             ]
@@ -115,7 +115,7 @@
             "content": [
                 {
                     "html": "<h1>Great Places to Work</h1>",
-                    "css": "main {background: #EAED80;}",
+                    "css": "main {background: #7C4143;}",
                     "js": "console.log('This is JS for page Great Places to Work');"
                 }
             ]
@@ -130,8 +130,38 @@
             "content": [
                 {
                     "html": "<h1>Mass updates</h1>",
-                    "css": "main {background: #5985C8;}",
+                    "css": "main {background: #D29F24;}",
                     "js": "console.log('This is JS for page Mass updates');"
+                }
+            ]
+        },
+        {
+            "id": "organization_chart",
+            "moduleId": "people_admin",
+            "label": "Organization chart",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Organization chart</h1>",
+                    "css": "main {background: #B19FF8;}",
+                    "js": "console.log('This is JS for page Organization chart');"
+                }
+            ]
+        },
+        {
+            "id": "organization_view_classic",
+            "moduleId": "people_admin",
+            "label": "Organization view classic",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Organization view classic</h1>",
+                    "css": "main {background: #03B207;}",
+                    "js": "console.log('This is JS for page Organization view classic');"
                 }
             ]
         },
@@ -145,7 +175,7 @@
             "content": [
                 {
                     "html": "<h1>People settings</h1>",
-                    "css": "main {background: #19F820;}",
+                    "css": "main {background: #A6D198;}",
                     "js": "console.log('This is JS for page People settings');"
                 }
             ]
@@ -160,7 +190,7 @@
             "content": [
                 {
                     "html": "<h1>Employee settings</h1>",
-                    "css": "main {background: #C68F89;}",
+                    "css": "main {background: #9B442E;}",
                     "js": "console.log('This is JS for page Employee settings');"
                 }
             ]
@@ -175,7 +205,7 @@
             "content": [
                 {
                     "html": "<h1>Organization chart settings</h1>",
-                    "css": "main {background: #34B40A;}",
+                    "css": "main {background: #F05CC3;}",
                     "js": "console.log('This is JS for page Organization chart settings');"
                 }
             ]

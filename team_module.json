@@ -1,0 +1,139 @@
+{
+    "pages": [
+        {
+            "id": "team",
+            "moduleId": "team",
+            "label": "Team",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Team</h1>",
+                    "css": "main {background: #88DA38;}",
+                    "js": "console.log('This is JS for page Team');"
+                }
+            ]
+        },
+        {
+            "id": "team_hub",
+            "moduleId": "team",
+            "label": "Team hub",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Team hub</h1>",
+                    "css": "main {background: #CB4C54;}",
+                    "js": "console.log('This is JS for page Team hub');"
+                }
+            ]
+        },
+        {
+            "id": "my_people",
+            "moduleId": "team",
+            "label": "My people",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>My people</h1>",
+                    "css": "main {background: #F65715;}",
+                    "js": "console.log('This is JS for page My people');"
+                }
+            ]
+        },
+        {
+            "id": "manager_guide",
+            "moduleId": "team",
+            "label": "Manager Guide",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Manager Guide</h1>",
+                    "css": "main {background: #9037F8;}",
+                    "js": "console.log('This is JS for page Manager Guide');"
+                }
+            ]
+        },
+        {
+            "id": "talent_hub",
+            "moduleId": "team",
+            "label": "Talent hub",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Talent hub</h1>",
+                    "css": "main {background: #43B9E9;}",
+                    "js": "console.log('This is JS for page Talent hub');"
+                }
+            ]
+        },
+        {
+            "id": "succession_plans",
+            "moduleId": "team",
+            "label": "Succession Plans",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Succession Plans</h1>",
+                    "css": "main {background: #AD4F3F;}",
+                    "js": "console.log('This is JS for page Succession Plans');"
+                }
+            ]
+        },
+        {
+            "id": "team_competencies",
+            "moduleId": "team",
+            "label": "Team Competencies",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Team Competencies</h1>",
+                    "css": "main {background: #B8CFB1;}",
+                    "js": "console.log('This is JS for page Team Competencies');"
+                }
+            ]
+        },
+        {
+            "id": "safety_and_compliance",
+            "moduleId": "team",
+            "label": "Safety and Compliance",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Safety and Compliance</h1>",
+                    "css": "main {background: #8DD6AB;}",
+                    "js": "console.log('This is JS for page Safety and Compliance');"
+                }
+            ]
+        },
+        {
+            "id": "osha_tracking",
+            "moduleId": "team",
+            "label": "OSHA tracking",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>OSHA tracking</h1>",
+                    "css": "main {background: #1CFA6E;}",
+                    "js": "console.log('This is JS for page OSHA tracking');"
+                }
+            ]
+        }
+    ]
+}

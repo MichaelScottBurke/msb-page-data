@@ -10,7 +10,7 @@
             "content": [
                 {
                     "html": "<h1>Documents</h1>",
-                    "css": "main {background: #55AB2D;}",
+                    "css": "main {background: #74A2FF;}",
                     "js": "console.log('This is JS for page Documents');"
                 }
             ]
@@ -25,7 +25,7 @@
             "content": [
                 {
                     "html": "<h1>Documents hub</h1>",
-                    "css": "main {background: #BAF52D;}",
+                    "css": "main {background: #FBE4E4;}",
                     "js": "console.log('This is JS for page Documents hub');"
                 }
             ]
@@ -40,7 +40,7 @@
             "content": [
                 {
                     "html": "<h1>Document acknowledgments</h1>",
-                    "css": "main {background: #F7A31A;}",
+                    "css": "main {background: #977E3A;}",
                     "js": "console.log('This is JS for page Document acknowledgments');"
                 }
             ]
@@ -55,7 +55,7 @@
             "content": [
                 {
                     "html": "<h1>Employee documents</h1>",
-                    "css": "main {background: #2441E4;}",
+                    "css": "main {background: #BDF5DB;}",
                     "js": "console.log('This is JS for page Employee documents');"
                 }
             ]
@@ -70,7 +70,7 @@
             "content": [
                 {
                     "html": "<h1>Electronic forms</h1>",
-                    "css": "main {background: #8CB8F7;}",
+                    "css": "main {background: #85DD53;}",
                     "js": "console.log('This is JS for page Electronic forms');"
                 }
             ]

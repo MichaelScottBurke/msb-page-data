@@ -10,7 +10,7 @@
             "content": [
                 {
                     "html": "<h1>Talent Management</h1>",
-                    "css": "main {background: #357160;}",
+                    "css": "main {background: #F1F427;}",
                     "js": "console.log('This is JS for page Talent Management');"
                 }
             ]
@@ -25,23 +25,23 @@
             "content": [
                 {
                     "html": "<h1>Development Opportunities</h1>",
-                    "css": "main {background: #6E9D79;}",
+                    "css": "main {background: #188A52;}",
                     "js": "console.log('This is JS for page Development Opportunities');"
                 }
             ]
         },
         {
-            "id": "performance_management",
+            "id": "performance",
             "moduleId": "talent_management",
-            "label": "Performance Management",
+            "label": "Performance",
             "description": "",
             "containerId": "main-content",
             "url": "",
             "content": [
                 {
-                    "html": "<h1>Performance Management</h1>",
-                    "css": "main {background: #754B90;}",
-                    "js": "console.log('This is JS for page Performance Management');"
+                    "html": "<h1>Performance</h1>",
+                    "css": "main {background: #75F3F9;}",
+                    "js": "console.log('This is JS for page Performance');"
                 }
             ]
         },
@@ -55,7 +55,7 @@
             "content": [
                 {
                     "html": "<h1>Review templates</h1>",
-                    "css": "main {background: #92A3A1;}",
+                    "css": "main {background: #4EF13E;}",
                     "js": "console.log('This is JS for page Review templates');"
                 }
             ]
@@ -70,7 +70,7 @@
             "content": [
                 {
                     "html": "<h1>Distributed reviews</h1>",
-                    "css": "main {background: #0B1784;}",
+                    "css": "main {background: #90064B;}",
                     "js": "console.log('This is JS for page Distributed reviews');"
                 }
             ]
@@ -85,23 +85,23 @@
             "content": [
                 {
                     "html": "<h1>Review schedules</h1>",
-                    "css": "main {background: #4EDAAC;}",
+                    "css": "main {background: #7C997A;}",
                     "js": "console.log('This is JS for page Review schedules');"
                 }
             ]
         },
         {
-            "id": "goal_planning",
+            "id": "goals",
             "moduleId": "talent_management",
-            "label": "Goal planning",
+            "label": "Goals",
             "description": "",
             "containerId": "main-content",
             "url": "",
             "content": [
                 {
-                    "html": "<h1>Goal planning</h1>",
-                    "css": "main {background: #CA1DBC;}",
-                    "js": "console.log('This is JS for page Goal planning');"
+                    "html": "<h1>Goals</h1>",
+                    "css": "main {background: #8B4B14;}",
+                    "js": "console.log('This is JS for page Goals');"
                 }
             ]
         },
@@ -115,7 +115,7 @@
             "content": [
                 {
                     "html": "<h1>Assignable goals</h1>",
-                    "css": "main {background: #FA9DA4;}",
+                    "css": "main {background: #1AFD68;}",
                     "js": "console.log('This is JS for page Assignable goals');"
                 }
             ]
@@ -130,7 +130,7 @@
             "content": [
                 {
                     "html": "<h1>Recommended goals</h1>",
-                    "css": "main {background: #D35AED;}",
+                    "css": "main {background: #4D0890;}",
                     "js": "console.log('This is JS for page Recommended goals');"
                 }
             ]
@@ -145,7 +145,7 @@
             "content": [
                 {
                     "html": "<h1>Competencies</h1>",
-                    "css": "main {background: #9C7EB1;}",
+                    "css": "main {background: #878328;}",
                     "js": "console.log('This is JS for page Competencies');"
                 }
             ]
@@ -160,7 +160,7 @@
             "content": [
                 {
                     "html": "<h1>Performance configuration</h1>",
-                    "css": "main {background: #6CDE82;}",
+                    "css": "main {background: #0CBD6C;}",
                     "js": "console.log('This is JS for page Performance configuration');"
                 }
             ]
@@ -168,45 +168,30 @@
         {
             "id": "succession_plans",
             "moduleId": "talent_management",
-            "label": "Succession Plans",
+            "label": "Succession plans",
             "description": "",
             "containerId": "main-content",
             "url": "",
             "content": [
                 {
-                    "html": "<h1>Succession Plans</h1>",
-                    "css": "main {background: #0E0304;}",
-                    "js": "console.log('This is JS for page Succession Plans');"
+                    "html": "<h1>Succession plans</h1>",
+                    "css": "main {background: #2DF3DB;}",
+                    "js": "console.log('This is JS for page Succession plans');"
                 }
             ]
         },
         {
-            "id": "talent_management_setup",
+            "id": "talent_management_settings",
             "moduleId": "talent_management",
-            "label": "Talent Management Setup",
+            "label": "Talent management settings",
             "description": "",
             "containerId": "main-content",
             "url": "",
             "content": [
                 {
-                    "html": "<h1>Talent Management Setup</h1>",
-                    "css": "main {background: #5CE006;}",
-                    "js": "console.log('This is JS for page Talent Management Setup');"
-                }
-            ]
-        },
-        {
-            "id": "talent_management",
-            "moduleId": "talent_management",
-            "label": "Talent Management",
-            "description": "",
-            "containerId": "main-content",
-            "url": "",
-            "content": [
-                {
-                    "html": "<h1>Talent Management</h1>",
-                    "css": "main {background: #C0AEFE;}",
-                    "js": "console.log('This is JS for page Talent Management');"
+                    "html": "<h1>Talent management settings</h1>",
+                    "css": "main {background: #C58D12;}",
+                    "js": "console.log('This is JS for page Talent management settings');"
                 }
             ]
         },
@@ -220,7 +205,7 @@
             "content": [
                 {
                     "html": "<h1>Talent Notifications</h1>",
-                    "css": "main {background: #90CAC6;}",
+                    "css": "main {background: #8815EE;}",
                     "js": "console.log('This is JS for page Talent Notifications');"
                 }
             ]
@@ -235,7 +220,7 @@
             "content": [
                 {
                     "html": "<h1>Manager Notifications</h1>",
-                    "css": "main {background: #E5EB62;}",
+                    "css": "main {background: #3BFA34;}",
                     "js": "console.log('This is JS for page Manager Notifications');"
                 }
             ]
@@ -250,7 +235,7 @@
             "content": [
                 {
                     "html": "<h1>Leadership Actions</h1>",
-                    "css": "main {background: #8200CD;}",
+                    "css": "main {background: #6E54DB;}",
                     "js": "console.log('This is JS for page Leadership Actions');"
                 }
             ]

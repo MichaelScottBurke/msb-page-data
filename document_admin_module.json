@@ -10,7 +10,7 @@
             "content": [
                 {
                     "html": "<h1>Document admin</h1>",
-                    "css": "main {background: #C8B6C0;}",
+                    "css": "main {background: #C2FA43;}",
                     "js": "console.log('This is JS for page Document admin');"
                 }
             ]
@@ -25,7 +25,7 @@
             "content": [
                 {
                     "html": "<h1>Document acknowledgements</h1>",
-                    "css": "main {background: #492E2A;}",
+                    "css": "main {background: #1027B4;}",
                     "js": "console.log('This is JS for page Document acknowledgements');"
                 }
             ]
@@ -40,7 +40,7 @@
             "content": [
                 {
                     "html": "<h1>Document acknowledgment setup</h1>",
-                    "css": "main {background: #329BC6;}",
+                    "css": "main {background: #07C311;}",
                     "js": "console.log('This is JS for page Document acknowledgment setup');"
                 }
             ]

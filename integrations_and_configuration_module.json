@@ -1,0 +1,604 @@
+{
+    "pages": [
+        {
+            "id": "integrations_and_configuration",
+            "moduleId": "integrations_and_configuration",
+            "label": "Integrations and configuration",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Integrations and configuration</h1>",
+                    "css": "main {background: #672C89;}",
+                    "js": "console.log('This is JS for page Integrations and configuration');"
+                }
+            ]
+        },
+        {
+            "id": "global_payroll_integration",
+            "moduleId": "integrations_and_configuration",
+            "label": "Global Payroll Integration",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Global Payroll Integration</h1>",
+                    "css": "main {background: #93C1A5;}",
+                    "js": "console.log('This is JS for page Global Payroll Integration');"
+                }
+            ]
+        },
+        {
+            "id": "global_payroll_integration_sessions",
+            "moduleId": "integrations_and_configuration",
+            "label": "Global Payroll Integration Sessions",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Global Payroll Integration Sessions</h1>",
+                    "css": "main {background: #1D8F30;}",
+                    "js": "console.log('This is JS for page Global Payroll Integration Sessions');"
+                }
+            ]
+        },
+        {
+            "id": "global_payroll_integration_session_history",
+            "moduleId": "integrations_and_configuration",
+            "label": "Global Payroll Integration Session History",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Global Payroll Integration Session History</h1>",
+                    "css": "main {background: #761186;}",
+                    "js": "console.log('This is JS for page Global Payroll Integration Session History');"
+                }
+            ]
+        },
+        {
+            "id": "integration_and_configuration_hub",
+            "moduleId": "integrations_and_configuration",
+            "label": "Integration and configuration hub",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Integration and configuration hub</h1>",
+                    "css": "main {background: #88EBB5;}",
+                    "js": "console.log('This is JS for page Integration and configuration hub');"
+                }
+            ]
+        },
+        {
+            "id": "imports_and_exports",
+            "moduleId": "integrations_and_configuration",
+            "label": "Imports and Exports",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Imports and Exports</h1>",
+                    "css": "main {background: #E8C539;}",
+                    "js": "console.log('This is JS for page Imports and Exports');"
+                }
+            ]
+        },
+        {
+            "id": "transfer_data",
+            "moduleId": "integrations_and_configuration",
+            "label": "Transfer data",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Transfer data</h1>",
+                    "css": "main {background: #57F6E9;}",
+                    "js": "console.log('This is JS for page Transfer data');"
+                }
+            ]
+        },
+        {
+            "id": "interfaces",
+            "moduleId": "integrations_and_configuration",
+            "label": "Interfaces",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Interfaces</h1>",
+                    "css": "main {background: #6B7B9A;}",
+                    "js": "console.log('This is JS for page Interfaces');"
+                }
+            ]
+        },
+        {
+            "id": "monitoring",
+            "moduleId": "integrations_and_configuration",
+            "label": "Monitoring",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Monitoring</h1>",
+                    "css": "main {background: #011890;}",
+                    "js": "console.log('This is JS for page Monitoring');"
+                }
+            ]
+        },
+        {
+            "id": "integrations_dashboard",
+            "moduleId": "integrations_and_configuration",
+            "label": "Integrations dashboard",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Integrations dashboard</h1>",
+                    "css": "main {background: #A21A1A;}",
+                    "js": "console.log('This is JS for page Integrations dashboard');"
+                }
+            ]
+        },
+        {
+            "id": "integration_studio",
+            "moduleId": "integrations_and_configuration",
+            "label": "Integration Studio",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Integration Studio</h1>",
+                    "css": "main {background: #145529;}",
+                    "js": "console.log('This is JS for page Integration Studio');"
+                }
+            ]
+        },
+        {
+            "id": "activity_log",
+            "moduleId": "integrations_and_configuration",
+            "label": "Activity Log",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Activity Log</h1>",
+                    "css": "main {background: #195DCC;}",
+                    "js": "console.log('This is JS for page Activity Log');"
+                }
+            ]
+        },
+        {
+            "id": "report_exports",
+            "moduleId": "integrations_and_configuration",
+            "label": "Report Exports",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Report Exports</h1>",
+                    "css": "main {background: #663784;}",
+                    "js": "console.log('This is JS for page Report Exports');"
+                }
+            ]
+        },
+        {
+            "id": "report_exports_list",
+            "moduleId": "integrations_and_configuration",
+            "label": "Report Exports List",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Report Exports List</h1>",
+                    "css": "main {background: #6C3446;}",
+                    "js": "console.log('This is JS for page Report Exports List');"
+                }
+            ]
+        },
+        {
+            "id": "report_export_history",
+            "moduleId": "integrations_and_configuration",
+            "label": "Report Export History",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Report Export History</h1>",
+                    "css": "main {background: #BD9671;}",
+                    "js": "console.log('This is JS for page Report Export History');"
+                }
+            ]
+        },
+        {
+            "id": "platform_configuration",
+            "moduleId": "integrations_and_configuration",
+            "label": "Platform configuration",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Platform configuration</h1>",
+                    "css": "main {background: #49DD7B;}",
+                    "js": "console.log('This is JS for page Platform configuration');"
+                }
+            ]
+        },
+        {
+            "id": "application_connections",
+            "moduleId": "integrations_and_configuration",
+            "label": "Application Connections",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Application Connections</h1>",
+                    "css": "main {background: #8EFB0A;}",
+                    "js": "console.log('This is JS for page Application Connections');"
+                }
+            ]
+        },
+        {
+            "id": "celergo",
+            "moduleId": "integrations_and_configuration",
+            "label": "Celergo",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Celergo</h1>",
+                    "css": "main {background: #ADE9C7;}",
+                    "js": "console.log('This is JS for page Celergo');"
+                }
+            ]
+        },
+        {
+            "id": "learning_management_systems",
+            "moduleId": "integrations_and_configuration",
+            "label": "Learning Management Systems",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Learning Management Systems</h1>",
+                    "css": "main {background: #27ED6A;}",
+                    "js": "console.log('This is JS for page Learning Management Systems');"
+                }
+            ]
+        },
+        {
+            "id": "transfer_data",
+            "moduleId": "integrations_and_configuration",
+            "label": "Transfer Data",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Transfer Data</h1>",
+                    "css": "main {background: #DB499D;}",
+                    "js": "console.log('This is JS for page Transfer Data');"
+                }
+            ]
+        },
+        {
+            "id": "interfaces",
+            "moduleId": "integrations_and_configuration",
+            "label": "Interfaces",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Interfaces</h1>",
+                    "css": "main {background: #C4E771;}",
+                    "js": "console.log('This is JS for page Interfaces');"
+                }
+            ]
+        },
+        {
+            "id": "monitoring",
+            "moduleId": "integrations_and_configuration",
+            "label": "Monitoring",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Monitoring</h1>",
+                    "css": "main {background: #FA7834;}",
+                    "js": "console.log('This is JS for page Monitoring');"
+                }
+            ]
+        },
+        {
+            "id": "studio_designer",
+            "moduleId": "integrations_and_configuration",
+            "label": "Studio Designer",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Studio Designer</h1>",
+                    "css": "main {background: #C37635;}",
+                    "js": "console.log('This is JS for page Studio Designer');"
+                }
+            ]
+        },
+        {
+            "id": "import_tool",
+            "moduleId": "integrations_and_configuration",
+            "label": "Import Tool",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Import Tool</h1>",
+                    "css": "main {background: #C1DADF;}",
+                    "js": "console.log('This is JS for page Import Tool');"
+                }
+            ]
+        },
+        {
+            "id": "results",
+            "moduleId": "integrations_and_configuration",
+            "label": "Results",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Results</h1>",
+                    "css": "main {background: #8B48E1;}",
+                    "js": "console.log('This is JS for page Results');"
+                }
+            ]
+        },
+        {
+            "id": "file_upload",
+            "moduleId": "integrations_and_configuration",
+            "label": "File Upload",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>File Upload</h1>",
+                    "css": "main {background: #C243C8;}",
+                    "js": "console.log('This is JS for page File Upload');"
+                }
+            ]
+        },
+        {
+            "id": "file_mapping",
+            "moduleId": "integrations_and_configuration",
+            "label": "File Mapping",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>File Mapping</h1>",
+                    "css": "main {background: #CC1BC5;}",
+                    "js": "console.log('This is JS for page File Mapping');"
+                }
+            ]
+        },
+        {
+            "id": "translations",
+            "moduleId": "integrations_and_configuration",
+            "label": "Translations",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Translations</h1>",
+                    "css": "main {background: #125707;}",
+                    "js": "console.log('This is JS for page Translations');"
+                }
+            ]
+        },
+        {
+            "id": "configurations",
+            "moduleId": "integrations_and_configuration",
+            "label": "Configurations",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Configurations</h1>",
+                    "css": "main {background: #481AAE;}",
+                    "js": "console.log('This is JS for page Configurations');"
+                }
+            ]
+        },
+        {
+            "id": "platform_configuration",
+            "moduleId": "integrations_and_configuration",
+            "label": "Platform configuration",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Platform configuration</h1>",
+                    "css": "main {background: #DF9CE6;}",
+                    "js": "console.log('This is JS for page Platform configuration');"
+                }
+            ]
+        },
+        {
+            "id": "classes",
+            "moduleId": "integrations_and_configuration",
+            "label": "Classes",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Classes</h1>",
+                    "css": "main {background: #CF71CF;}",
+                    "js": "console.log('This is JS for page Classes');"
+                }
+            ]
+        },
+        {
+            "id": "data_services",
+            "moduleId": "integrations_and_configuration",
+            "label": "Data services",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Data services</h1>",
+                    "css": "main {background: #CC7F86;}",
+                    "js": "console.log('This is JS for page Data services');"
+                }
+            ]
+        },
+        {
+            "id": "pages",
+            "moduleId": "integrations_and_configuration",
+            "label": "Pages",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Pages</h1>",
+                    "css": "main {background: #50827D;}",
+                    "js": "console.log('This is JS for page Pages');"
+                }
+            ]
+        },
+        {
+            "id": "labels",
+            "moduleId": "integrations_and_configuration",
+            "label": "Labels",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Labels</h1>",
+                    "css": "main {background: #220E0D;}",
+                    "js": "console.log('This is JS for page Labels');"
+                }
+            ]
+        },
+        {
+            "id": "rules",
+            "moduleId": "integrations_and_configuration",
+            "label": "Rules",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Rules</h1>",
+                    "css": "main {background: #00F2F1;}",
+                    "js": "console.log('This is JS for page Rules');"
+                }
+            ]
+        },
+        {
+            "id": "ukg_pro_carrier_network_ucn",
+            "moduleId": "integrations_and_configuration",
+            "label": "UKG Pro Carrier Network UCN",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>UKG Pro Carrier Network UCN</h1>",
+                    "css": "main {background: #7EDCCB;}",
+                    "js": "console.log('This is JS for page UKG Pro Carrier Network UCN');"
+                }
+            ]
+        },
+        {
+            "id": "integration_settings",
+            "moduleId": "integrations_and_configuration",
+            "label": "Integration settings",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Integration settings</h1>",
+                    "css": "main {background: #86A70F;}",
+                    "js": "console.log('This is JS for page Integration settings');"
+                }
+            ]
+        },
+        {
+            "id": "application_connections",
+            "moduleId": "integrations_and_configuration",
+            "label": "Application Connections",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Application Connections</h1>",
+                    "css": "main {background: #8C7BD3;}",
+                    "js": "console.log('This is JS for page Application Connections');"
+                }
+            ]
+        },
+        {
+            "id": "celergo",
+            "moduleId": "integrations_and_configuration",
+            "label": "Celergo",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Celergo</h1>",
+                    "css": "main {background: #C3E5AF;}",
+                    "js": "console.log('This is JS for page Celergo');"
+                }
+            ]
+        },
+        {
+            "id": "learning_management_systems",
+            "moduleId": "integrations_and_configuration",
+            "label": "Learning Management Systems",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Learning Management Systems</h1>",
+                    "css": "main {background: #550E54;}",
+                    "js": "console.log('This is JS for page Learning Management Systems');"
+                }
+            ]
+        }
+    ]
+}

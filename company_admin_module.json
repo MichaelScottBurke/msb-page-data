@@ -10,7 +10,7 @@
             "content": [
                 {
                     "html": "<h1>Company admin</h1>",
-                    "css": "main {background: #44DE26;}",
+                    "css": "main {background: #0F3C98;}",
                     "js": "console.log('This is JS for page Company admin');"
                 }
             ]
@@ -25,7 +25,7 @@
             "content": [
                 {
                     "html": "<h1>Accelerate</h1>",
-                    "css": "main {background: #6F62FA;}",
+                    "css": "main {background: #0657E1;}",
                     "js": "console.log('This is JS for page Accelerate');"
                 }
             ]
@@ -40,7 +40,7 @@
             "content": [
                 {
                     "html": "<h1>Business structure</h1>",
-                    "css": "main {background: #D705EA;}",
+                    "css": "main {background: #D569EC;}",
                     "js": "console.log('This is JS for page Business structure');"
                 }
             ]
@@ -55,7 +55,7 @@
             "content": [
                 {
                     "html": "<h1>Company setup classic</h1>",
-                    "css": "main {background: #184E28;}",
+                    "css": "main {background: #6B5675;}",
                     "js": "console.log('This is JS for page Company setup classic');"
                 }
             ]

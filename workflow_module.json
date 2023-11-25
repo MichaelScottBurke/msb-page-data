@@ -10,7 +10,7 @@
             "content": [
                 {
                     "html": "<h1>Workflow</h1>",
-                    "css": "main {background: #0CA90F;}",
+                    "css": "main {background: #277827;}",
                     "js": "console.log('This is JS for page Workflow');"
                 }
             ]
@@ -25,7 +25,7 @@
             "content": [
                 {
                     "html": "<h1>Workflow hub</h1>",
-                    "css": "main {background: #4E9071;}",
+                    "css": "main {background: #CFF5FB;}",
                     "js": "console.log('This is JS for page Workflow hub');"
                 }
             ]
@@ -40,7 +40,7 @@
             "content": [
                 {
                     "html": "<h1>Requests</h1>",
-                    "css": "main {background: #A66368;}",
+                    "css": "main {background: #49967E;}",
                     "js": "console.log('This is JS for page Requests');"
                 }
             ]
@@ -55,7 +55,7 @@
             "content": [
                 {
                     "html": "<h1>Out of office</h1>",
-                    "css": "main {background: #CF09B1;}",
+                    "css": "main {background: #D8D60A;}",
                     "js": "console.log('This is JS for page Out of office');"
                 }
             ]
@@ -70,7 +70,7 @@
             "content": [
                 {
                     "html": "<h1>Notifications</h1>",
-                    "css": "main {background: #F58B8B;}",
+                    "css": "main {background: #D99686;}",
                     "js": "console.log('This is JS for page Notifications');"
                 }
             ]
@@ -85,7 +85,7 @@
             "content": [
                 {
                     "html": "<h1>Business processes</h1>",
-                    "css": "main {background: #3B66F8;}",
+                    "css": "main {background: #DF6A9A;}",
                     "js": "console.log('This is JS for page Business processes');"
                 }
             ]

@@ -10,8 +10,23 @@
             "content": [
                 {
                     "html": "<h1>Compensation admin</h1>",
-                    "css": "main {background: #67A630;}",
+                    "css": "main {background: #61B78D;}",
                     "js": "console.log('This is JS for page Compensation admin');"
+                }
+            ]
+        },
+        {
+            "id": "compensation_hub",
+            "moduleId": "compensation_admin",
+            "label": "Compensation hub",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Compensation hub</h1>",
+                    "css": "main {background: #1C519F;}",
+                    "js": "console.log('This is JS for page Compensation hub');"
                 }
             ]
         },
@@ -25,23 +40,38 @@
             "content": [
                 {
                     "html": "<h1>Total compensation admin</h1>",
-                    "css": "main {background: #597433;}",
+                    "css": "main {background: #0FCFC1;}",
                     "js": "console.log('This is JS for page Total compensation admin');"
                 }
             ]
         },
         {
-            "id": "salary_planning_admin_classic",
+            "id": "compensation_summary",
             "moduleId": "compensation_admin",
-            "label": "Salary planning admin classic",
+            "label": "Compensation Summary",
             "description": "",
             "containerId": "main-content",
             "url": "",
             "content": [
                 {
-                    "html": "<h1>Salary planning admin classic</h1>",
-                    "css": "main {background: #3ADEFF;}",
-                    "js": "console.log('This is JS for page Salary planning admin classic');"
+                    "html": "<h1>Compensation Summary</h1>",
+                    "css": "main {background: #0C3DC3;}",
+                    "js": "console.log('This is JS for page Compensation Summary');"
+                }
+            ]
+        },
+        {
+            "id": "salary_planning_classic",
+            "moduleId": "compensation_admin",
+            "label": "Salary planning classic",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Salary planning classic</h1>",
+                    "css": "main {background: #ACCD6A;}",
+                    "js": "console.log('This is JS for page Salary planning classic');"
                 }
             ]
         },
@@ -55,7 +85,7 @@
             "content": [
                 {
                     "html": "<h1>Salary session setup</h1>",
-                    "css": "main {background: #2EF630;}",
+                    "css": "main {background: #787C6F;}",
                     "js": "console.log('This is JS for page Salary session setup');"
                 }
             ]
@@ -70,7 +100,7 @@
             "content": [
                 {
                     "html": "<h1>Salary session status</h1>",
-                    "css": "main {background: #5B7832;}",
+                    "css": "main {background: #3CCE01;}",
                     "js": "console.log('This is JS for page Salary session status');"
                 }
             ]
@@ -85,7 +115,7 @@
             "content": [
                 {
                     "html": "<h1>Salary session utilities</h1>",
-                    "css": "main {background: #CF9A86;}",
+                    "css": "main {background: #BAE73B;}",
                     "js": "console.log('This is JS for page Salary session utilities');"
                 }
             ]
@@ -100,7 +130,7 @@
             "content": [
                 {
                     "html": "<h1>Salary session export</h1>",
-                    "css": "main {background: #B5AE3E;}",
+                    "css": "main {background: #50EB83;}",
                     "js": "console.log('This is JS for page Salary session export');"
                 }
             ]
@@ -115,7 +145,7 @@
             "content": [
                 {
                     "html": "<h1>Compensation settings</h1>",
-                    "css": "main {background: #F11158;}",
+                    "css": "main {background: #58CE89;}",
                     "js": "console.log('This is JS for page Compensation settings');"
                 }
             ]

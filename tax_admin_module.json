@@ -1,0 +1,64 @@
+{
+    "pages": [
+        {
+            "id": "tax_admin",
+            "moduleId": "tax_admin",
+            "label": "Tax admin",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Tax admin</h1>",
+                    "css": "main {background: #CFF997;}",
+                    "js": "console.log('This is JS for page Tax admin');"
+                }
+            ]
+        },
+        {
+            "id": "employee_withholding_forms_w-4",
+            "moduleId": "tax_admin",
+            "label": "Employee Withholding Forms W-4",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Employee Withholding Forms W-4</h1>",
+                    "css": "main {background: #61F9D1;}",
+                    "js": "console.log('This is JS for page Employee Withholding Forms W-4');"
+                }
+            ]
+        },
+        {
+            "id": "pa_tax_collection_districts",
+            "moduleId": "tax_admin",
+            "label": "PA Tax collection districts",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>PA Tax collection districts</h1>",
+                    "css": "main {background: #1B6E06;}",
+                    "js": "console.log('This is JS for page PA Tax collection districts');"
+                }
+            ]
+        },
+        {
+            "id": "smart_tax_search",
+            "moduleId": "tax_admin",
+            "label": "Smart tax search",
+            "description": "",
+            "containerId": "main-content",
+            "url": "",
+            "content": [
+                {
+                    "html": "<h1>Smart tax search</h1>",
+                    "css": "main {background: #5C255E;}",
+                    "js": "console.log('This is JS for page Smart tax search');"
+                }
+            ]
+        }
+    ]
+}

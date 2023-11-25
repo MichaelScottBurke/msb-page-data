@@ -10,7 +10,7 @@
             "content": [
                 {
                     "html": "<h1>Profile</h1>",
-                    "css": "main {background: #79BB37;}",
+                    "css": "main {background: #15D1B7;}",
                     "js": "console.log('This is JS for page Profile');"
                 }
             ]
@@ -25,7 +25,7 @@
             "content": [
                 {
                     "html": "<h1>Profile hub</h1>",
-                    "css": "main {background: #D39760;}",
+                    "css": "main {background: #94CE1E;}",
                     "js": "console.log('This is JS for page Profile hub');"
                 }
             ]
@@ -40,7 +40,7 @@
             "content": [
                 {
                     "html": "<h1>Personal profile</h1>",
-                    "css": "main {background: #E90829;}",
+                    "css": "main {background: #3F293B;}",
                     "js": "console.log('This is JS for page Personal profile');"
                 }
             ]
@@ -55,7 +55,7 @@
             "content": [
                 {
                     "html": "<h1>Name address and telephone</h1>",
-                    "css": "main {background: #AD3025;}",
+                    "css": "main {background: #1E5991;}",
                     "js": "console.log('This is JS for page Name address and telephone');"
                 }
             ]
@@ -70,7 +70,7 @@
             "content": [
                 {
                     "html": "<h1>Family and emergency contacts</h1>",
-                    "css": "main {background: #46B87C;}",
+                    "css": "main {background: #B4C1DD;}",
                     "js": "console.log('This is JS for page Family and emergency contacts');"
                 }
             ]
@@ -85,7 +85,7 @@
             "content": [
                 {
                     "html": "<h1>Private information</h1>",
-                    "css": "main {background: #417023;}",
+                    "css": "main {background: #A11E75;}",
                     "js": "console.log('This is JS for page Private information');"
                 }
             ]
@@ -100,7 +100,7 @@
             "content": [
                 {
                     "html": "<h1>Identification documents</h1>",
-                    "css": "main {background: #4C003A;}",
+                    "css": "main {background: #2D7405;}",
                     "js": "console.log('This is JS for page Identification documents');"
                 }
             ]
@@ -115,7 +115,7 @@
             "content": [
                 {
                     "html": "<h1>Other personal info</h1>",
-                    "css": "main {background: #C310A5;}",
+                    "css": "main {background: #1E99A4;}",
                     "js": "console.log('This is JS for page Other personal info');"
                 }
             ]
@@ -130,7 +130,7 @@
             "content": [
                 {
                     "html": "<h1>Job profile</h1>",
-                    "css": "main {background: #D1F4F3;}",
+                    "css": "main {background: #59153C;}",
                     "js": "console.log('This is JS for page Job profile');"
                 }
             ]
@@ -145,7 +145,7 @@
             "content": [
                 {
                     "html": "<h1>Status and key dates</h1>",
-                    "css": "main {background: #8DF51C;}",
+                    "css": "main {background: #D68FB0;}",
                     "js": "console.log('This is JS for page Status and key dates');"
                 }
             ]
@@ -160,7 +160,7 @@
             "content": [
                 {
                     "html": "<h1>Status history</h1>",
-                    "css": "main {background: #2A021A;}",
+                    "css": "main {background: #D1EBB1;}",
                     "js": "console.log('This is JS for page Status history');"
                 }
             ]
@@ -175,7 +175,7 @@
             "content": [
                 {
                     "html": "<h1>Property</h1>",
-                    "css": "main {background: #65D311;}",
+                    "css": "main {background: #3ADC32;}",
                     "js": "console.log('This is JS for page Property');"
                 }
             ]
@@ -190,7 +190,7 @@
             "content": [
                 {
                     "html": "<h1>Talent profile</h1>",
-                    "css": "main {background: #0E32F3;}",
+                    "css": "main {background: #2C1FB1;}",
                     "js": "console.log('This is JS for page Talent profile');"
                 }
             ]
@@ -205,7 +205,7 @@
             "content": [
                 {
                     "html": "<h1>Time and attendance profile</h1>",
-                    "css": "main {background: #21E42C;}",
+                    "css": "main {background: #5FE635;}",
                     "js": "console.log('This is JS for page Time and attendance profile');"
                 }
             ]

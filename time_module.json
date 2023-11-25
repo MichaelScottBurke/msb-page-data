@@ -10,7 +10,7 @@
             "content": [
                 {
                     "html": "<h1>Time</h1>",
-                    "css": "main {background: #2A53D1;}",
+                    "css": "main {background: #494D75;}",
                     "js": "console.log('This is JS for page Time');"
                 }
             ]
@@ -25,7 +25,7 @@
             "content": [
                 {
                     "html": "<h1>Time and attendance hub</h1>",
-                    "css": "main {background: #7E5413;}",
+                    "css": "main {background: #03C010;}",
                     "js": "console.log('This is JS for page Time and attendance hub');"
                 }
             ]
@@ -40,7 +40,7 @@
             "content": [
                 {
                     "html": "<h1>Schedule</h1>",
-                    "css": "main {background: #9E76F2;}",
+                    "css": "main {background: #938980;}",
                     "js": "console.log('This is JS for page Schedule');"
                 }
             ]
@@ -55,7 +55,7 @@
             "content": [
                 {
                     "html": "<h1>Time sheets</h1>",
-                    "css": "main {background: #B477AB;}",
+                    "css": "main {background: #91E57C;}",
                     "js": "console.log('This is JS for page Time sheets');"
                 }
             ]
@@ -70,7 +70,7 @@
             "content": [
                 {
                     "html": "<h1>Time off</h1>",
-                    "css": "main {background: #5CB403;}",
+                    "css": "main {background: #09125F;}",
                     "js": "console.log('This is JS for page Time off');"
                 }
             ]
@@ -85,7 +85,7 @@
             "content": [
                 {
                     "html": "<h1>Time management classic</h1>",
-                    "css": "main {background: #FD8866;}",
+                    "css": "main {background: #8487B4;}",
                     "js": "console.log('This is JS for page Time management classic');"
                 }
             ]
@@ -100,7 +100,7 @@
             "content": [
                 {
                     "html": "<h1>Time clock entry classic</h1>",
-                    "css": "main {background: #669295;}",
+                    "css": "main {background: #117916;}",
                     "js": "console.log('This is JS for page Time clock entry classic');"
                 }
             ]
@@ -115,7 +115,7 @@
             "content": [
                 {
                     "html": "<h1>Paid time off classic</h1>",
-                    "css": "main {background: #91ED1E;}",
+                    "css": "main {background: #D24AE2;}",
                     "js": "console.log('This is JS for page Paid time off classic');"
                 }
             ]
@@ -130,7 +130,7 @@
             "content": [
                 {
                     "html": "<h1>Time off plans</h1>",
-                    "css": "main {background: #7DC51D;}",
+                    "css": "main {background: #302FCF;}",
                     "js": "console.log('This is JS for page Time off plans');"
                 }
             ]
@@ -145,7 +145,7 @@
             "content": [
                 {
                     "html": "<h1>Time off requests</h1>",
-                    "css": "main {background: #0885A5;}",
+                    "css": "main {background: #17F4EA;}",
                     "js": "console.log('This is JS for page Time off requests');"
                 }
             ]

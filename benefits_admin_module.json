@@ -10,23 +10,23 @@
             "content": [
                 {
                     "html": "<h1>Benefits admin</h1>",
-                    "css": "main {background: #A7A2C9;}",
+                    "css": "main {background: #DEAD2B;}",
                     "js": "console.log('This is JS for page Benefits admin');"
                 }
             ]
         },
         {
-            "id": "benefits_hub",
+            "id": "benefits_admin_hub",
             "moduleId": "benefits_admin",
-            "label": "Benefits hub",
+            "label": "Benefits admin hub",
             "description": "",
             "containerId": "main-content",
             "url": "",
             "content": [
                 {
-                    "html": "<h1>Benefits hub</h1>",
-                    "css": "main {background: #FE9735;}",
-                    "js": "console.log('This is JS for page Benefits hub');"
+                    "html": "<h1>Benefits admin hub</h1>",
+                    "css": "main {background: #288344;}",
+                    "js": "console.log('This is JS for page Benefits admin hub');"
                 }
             ]
         },
@@ -40,7 +40,7 @@
             "content": [
                 {
                     "html": "<h1>Open enrollment setup classic</h1>",
-                    "css": "main {background: #C977AD;}",
+                    "css": "main {background: #898F25;}",
                     "js": "console.log('This is JS for page Open enrollment setup classic');"
                 }
             ]
@@ -55,7 +55,7 @@
             "content": [
                 {
                     "html": "<h1>Current Sessions</h1>",
-                    "css": "main {background: #94A51F;}",
+                    "css": "main {background: #1300CF;}",
                     "js": "console.log('This is JS for page Current Sessions');"
                 }
             ]
@@ -70,7 +70,7 @@
             "content": [
                 {
                     "html": "<h1>Employee elections</h1>",
-                    "css": "main {background: #AB5366;}",
+                    "css": "main {background: #4F979D;}",
                     "js": "console.log('This is JS for page Employee elections');"
                 }
             ]
@@ -85,7 +85,7 @@
             "content": [
                 {
                     "html": "<h1>Enrollment history</h1>",
-                    "css": "main {background: #06EAF2;}",
+                    "css": "main {background: #7E8627;}",
                     "js": "console.log('This is JS for page Enrollment history');"
                 }
             ]
@@ -100,7 +100,7 @@
             "content": [
                 {
                     "html": "<h1>Life Events setup classic</h1>",
-                    "css": "main {background: #2D863D;}",
+                    "css": "main {background: #96B323;}",
                     "js": "console.log('This is JS for page Life Events setup classic');"
                 }
             ]
@@ -115,7 +115,7 @@
             "content": [
                 {
                     "html": "<h1>Life events</h1>",
-                    "css": "main {background: #D26C27;}",
+                    "css": "main {background: #5C0BF3;}",
                     "js": "console.log('This is JS for page Life events');"
                 }
             ]
@@ -130,7 +130,7 @@
             "content": [
                 {
                     "html": "<h1>Employee progress</h1>",
-                    "css": "main {background: #96FE63;}",
+                    "css": "main {background: #1BEB24;}",
                     "js": "console.log('This is JS for page Employee progress');"
                 }
             ]
@@ -145,7 +145,7 @@
             "content": [
                 {
                     "html": "<h1>Healthcare eligibility</h1>",
-                    "css": "main {background: #7E1A6E;}",
+                    "css": "main {background: #3EDF81;}",
                     "js": "console.log('This is JS for page Healthcare eligibility');"
                 }
             ]
@@ -160,7 +160,7 @@
             "content": [
                 {
                     "html": "<h1>Healthcare eligibility summary</h1>",
-                    "css": "main {background: #EE21C9;}",
+                    "css": "main {background: #B8C3E7;}",
                     "js": "console.log('This is JS for page Healthcare eligibility summary');"
                 }
             ]
@@ -175,7 +175,7 @@
             "content": [
                 {
                     "html": "<h1>Healthcare measurement groups</h1>",
-                    "css": "main {background: #C21918;}",
+                    "css": "main {background: #D6EFE8;}",
                     "js": "console.log('This is JS for page Healthcare measurement groups');"
                 }
             ]

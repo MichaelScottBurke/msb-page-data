@@ -10,7 +10,7 @@
             "content": [
                 {
                     "html": "<h1>Benefits</h1>",
-                    "css": "main {background: #7A37F8;}",
+                    "css": "main {background: #5F8BF9;}",
                     "js": "console.log('This is JS for page Benefits');"
                 }
             ]
@@ -25,7 +25,7 @@
             "content": [
                 {
                     "html": "<h1>Benefits hub</h1>",
-                    "css": "main {background: #C6031B;}",
+                    "css": "main {background: #32405A;}",
                     "js": "console.log('This is JS for page Benefits hub');"
                 }
             ]
@@ -40,7 +40,7 @@
             "content": [
                 {
                     "html": "<h1>Open enrollment</h1>",
-                    "css": "main {background: #5E7CA3;}",
+                    "css": "main {background: #5E82AB;}",
                     "js": "console.log('This is JS for page Open enrollment');"
                 }
             ]
@@ -55,7 +55,7 @@
             "content": [
                 {
                     "html": "<h1>Life events</h1>",
-                    "css": "main {background: #5E2663;}",
+                    "css": "main {background: #76FA29;}",
                     "js": "console.log('This is JS for page Life events');"
                 }
             ]
@@ -70,7 +70,7 @@
             "content": [
                 {
                     "html": "<h1>1095-C</h1>",
-                    "css": "main {background: #9C32E9;}",
+                    "css": "main {background: #80462E;}",
                     "js": "console.log('This is JS for page 1095-C');"
                 }
             ]
@@ -85,7 +85,7 @@
             "content": [
                 {
                     "html": "<h1>Beneficiaries and dependents</h1>",
-                    "css": "main {background: #3B069B;}",
+                    "css": "main {background: #804A6E;}",
                     "js": "console.log('This is JS for page Beneficiaries and dependents');"
                 }
             ]
@@ -100,7 +100,7 @@
             "content": [
                 {
                     "html": "<h1>Benefits summary</h1>",
-                    "css": "main {background: #AF2FFE;}",
+                    "css": "main {background: #BF242B;}",
                     "js": "console.log('This is JS for page Benefits summary');"
                 }
             ]
@@ -115,7 +115,7 @@
             "content": [
                 {
                     "html": "<h1>COBRA</h1>",
-                    "css": "main {background: #74F4F4;}",
+                    "css": "main {background: #C00012;}",
                     "js": "console.log('This is JS for page COBRA');"
                 }
             ]
@@ -130,7 +130,7 @@
             "content": [
                 {
                     "html": "<h1>Healthcare eligibility</h1>",
-                    "css": "main {background: #97C114;}",
+                    "css": "main {background: #F254B4;}",
                     "js": "console.log('This is JS for page Healthcare eligibility');"
                 }
             ]
@@ -145,7 +145,7 @@
             "content": [
                 {
                     "html": "<h1>Investments</h1>",
-                    "css": "main {background: #27E944;}",
+                    "css": "main {background: #70EB81;}",
                     "js": "console.log('This is JS for page Investments');"
                 }
             ]
@@ -160,7 +160,7 @@
             "content": [
                 {
                     "html": "<h1>Benefit links</h1>",
-                    "css": "main {background: #85A246;}",
+                    "css": "main {background: #66C180;}",
                     "js": "console.log('This is JS for page Benefit links');"
                 }
             ]
