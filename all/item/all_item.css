@@ -1,0 +1,150 @@
+
+    :root {
+    --ukg_ref_spacing_56: 3.5rem;
+    --ukg_ref_spacing_40: 2.5rem;
+    --ukg_ref_spacing_32: 2rem;
+    --ukg_ref_spacing_16: 1rem;
+    --ukg_ref_breakpoint_xs: 599px;
+    --ukg_ref_elevation_03: 0 4px 12px #00000017,0 0 6px #0000001c;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+  }
+  
+  ukg-grid {
+    --grid-row-container-alignment: center;
+  }
+  
+  /* SECTION HEADER COMPONENT : IN PROGRESS */
+  .ukgc-layout-header {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: no-wrap;
+    justify-content: space-between;
+    align-content: flex-start;
+    align-items: flex-start;
+  }
+  .ukgc-layout-header-text {
+    flex: 1 1 auto;
+  }
+  .ukgc-layout-header-title {
+  margin-block-start: 1rem;
+  }
+  .ukgc-layout-header-subtitle {}
+  .ukgc-layout-header[slot='right']{
+    flex: 1 1 auto;
+    display: flex;
+    justify-content: flex-end;
+  }
+  .ukgc-layout-header[slot='bottom']{
+      flex: 0 0 100%;
+  }
+  
+  
+  /************************** EDIT PAGE : FULL SCREEN MODAL (CARD OVER)************************************************************** /
+  
+  /* Main parent container */
+  .modal-full-screen-framed-container {
+    background-color: var(--ukg_sys_color_surface_lightDarker);
+    overflow-y: overlay;
+    height: 91vh;
+    width: 100%;
+  }
+  
+  /* Container with background */
+  .full-screen-framed-modal-bg {
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(180deg, var(--ukg_sys_color_brand) 9.75rem, var(--ukg_sys_color_surface_lightDarker) 0);
+    background-repeat: no-repeat;
+    background-attachment: scroll, local;
+  }
+  
+  /* White card like container */
+  .full-screen-framed-modal-grid-div {
+    min-height: 18.75rem;
+    flex-grow: 1;
+    max-width: 60rem; 
+    background: var(--ukg_sys_color_surface_light);
+    box-shadow: var(--ukg_ref_elevation_03);
+    border-radius: 12px;
+    margin: 0 var(--ukg_ref_spacing_56);
+  }
+  @media screen and (min-width: 768px) and (max-width: 1365px) {
+    .full-screen-framed-modal-grid-div {
+      margin: 0 var(--ukg_ref_spacing_40);
+    }
+  }
+  @media screen and (min-width: 600px) and (max-width: 767px) {
+    .full-screen-framed-modal-grid-div {
+      margin: 0 var(--ukg_ref_spacing_32);
+    }
+  }
+  
+  /* Grid container */
+  .full-screen-framed-modal-grid-container {
+    height: 100%;
+    width: 100%;
+    overflow-y: overlay;
+  }
+  
+  /* Mobile breakpoint */
+  @media screen and (max-width: 599px) {
+    .modal-full-screen-framed-container {
+      height: 92vh;
+    }
+  
+    .full-screen-framed-modal-bg {
+      background: var(--ukg_sys_color_surface_light);
+    }
+  
+    .full-screen-framed-modal-grid-div {
+      width: 100%;
+      min-height: auto;
+      flex-grow: 1;
+      max-width: 100%;
+      box-shadow: none;
+      border-radius: 0;
+      margin: 0;
+    }
+  }
+  
+  /************************** PLACEHOLDER STYLES *************************************/
+  
+  .placeholder-1,
+  .placeholder-2,
+  .placeholder-3 {
+    background: rgba(0,0,0,.10);
+    border-radius: 12px;
+    min-height: 256px;
+  }
+  .placeholder-1 {
+    height: 300px;
+  }
+  .placeholder-2 {
+    height: 200px;
+  }
+  .placeholder-3 {
+    height: 400px;
+  }
+  .placeholder-4 {
+    height: 156px;
+  }
+  .placeholder-5 {
+    height: 360px;
+  }
+  .placeholder-6 {
+    height: 440px;
+  }
+  html, body, ukg-ignite-shell {
+    height: 100%;
+  }
+  main {
+    overflow-y: auto;
+  }
+    
