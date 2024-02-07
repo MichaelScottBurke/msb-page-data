@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+  <html lang="en">
+  
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Awards</title>
+    <link rel="stylesheet" href="https://ignite.cdn.ultipro.com/dls-cdn/ignite/v7.0.1/tokens/fonts/noto/ignite-fonts-noto-hinted-cdn.css">
+    <link rel="stylesheet" href="https://ignite.cdn.ultipro.com/dls-cdn/ignite/v7.0.1/tokens/fonts/volte/ignite-fonts-volte-cdn.css">
+    <link rel="stylesheet" href="https://ignite.cdn.ultipro.com/dls-cdn/ignite/v7.0.1/tokens/css/ignite-tokens.css">
+    <link rel="stylesheet" href="https://ignite.cdn.ultipro.com/dls-cdn/ignite/v7.0.1/tokens/css/ignite-tokens.html-base-styles.css">
+    <script type="module" src="https://ignite.cdn.ultipro.com/dls-cdn/ignite/v7.0.1/web-components/ignite/ignite.esm.js"></script>
+    <script nomodule="" src="https://ignite.cdn.ultipro.com/dls-cdn/ignite/v7.0.1/web-components/ignite/ignite.js"></script>
+    <link rel="stylesheet" href="/css/global-dls-fixes.css">
+    <link rel="stylesheet" href="awards_item.css">
+  </head>
+  
+  <body>
+    <ukg-ignite-shell>
+      <main id="ukgc-detail-view-container">
+        <ukg-grid-container>
+          <ukg-grid size="default" no-bottom-padding>
+            <div class="ukg-col-lg-12 ukg-col-md-8 ukg-col-sm-4">
+              <div class="ukgc-layout-header">
+                <div class="ukgc-layout-header-text">
+                  <div class="ukgc-layout-header-title">
+                    <h1>Awards</h1>
+                  </div>
+                  <div class="ukgc-layout-header-subtitle">
+                    <!-- information text for page -->
+                    <p class="ukg-phone-mb-none">Awards informational text or call to action</p>
+                  </div>
+                </div>
+                <div id="ukgc-detail-view-toolbar" class="ukgc-layout-header" slot="right">
+                  <ukg-toolbar disable-vertical-padding disable-min-height>
+                    <ukg-button-group aria-label="toolbar slot right" slot="end">
+                      <ukg-button id='btn-modal-edit-page' in-toolbar emphasis="low" size="medium"
+                        description="Edit Awards"
+                        tooltip-text="Edit Awards"
+                      >
+                        <ukg-icon slot="icon-only" name="edit"></ukg-icon>
+                      </ukg-button>
+                      <ukg-divider direction="vertical"></ukg-divider>
+                      <ukg-button id='btn-print-page' in-toolbar emphasis="low" size="medium"
+                      description="Print Awards"
+                      tooltip-text="Print Awards"
+                      >
+                        <ukg-icon slot="icon-only" name="print"></ukg-icon>
+                      </ukg-button>
+                      <ukg-button id='btn-drawer-help-page' in-toolbar emphasis="low" size="medium"
+                      description="Help for Awards"
+                      tooltip-text="Help for Awards"
+                      >
+                        <ukg-icon slot="icon-only" name="help"></ukg-icon>
+                      </ukg-button>
+                      <ukg-button id='btn-drawer-favorite-page' in-toolbar emphasis="low" size="medium"
+                      description="Favorite Awards page"
+                      tooltip-text="Favorite Awards page"
+                      >
+                        <ukg-icon slot="icon-only" name="favorite-off"></ukg-icon>
+                      </ukg-button>
+                      <ukg-button id='btn-menu-overflow-page' in-toolbar emphasis="low" size="medium" aria-expanded="false">
+                        <ukg-icon slot="icon-only" name="menu-overflow"></ukg-icon>
+                      </ukg-button>
+                      <ukg-menu id="menu-overflow-page">
+                        <div slot="custom-content" role="list">
+                          <ukg-list-item role="menuitem">
+                            <p class="ukg-line-secondary">Page action 1</p>
+                          </ukg-list-item>
+                          <ukg-list-item role="menuitem">
+                            <p class="ukg-line-secondary">Page action 2</p>
+                          </ukg-list-item>
+                          <ukg-list-item role="menuitem">
+                            <p class="ukg-line-secondary">Page action 3</p>
+                          </ukg-list-item>
+                        </div>
+                      </ukg-menu>
+                    </ukg-button-group>
+                  </ukg-toolbar>
+                </div>
+              </div>
+            </div>
+          </ukg-grid>
+        </ukg-grid-container>	
+        <section>
+              <ukg-grid-container>
+                <ukg-grid style="--grid-row-container-alignment: center;" size="default" wrap="none" 
+                    no-bottom-padding>
+                    <div class="ukg-col-lg-12 ukg-col-md-8 ukg-col-sm-4">
+                      <ukg-section-header
+                        heading="Heading"
+                        subheading="Subheading"
+                        heading-level="2"
+                      >
+                      </ukg-section-header>
+                      <div class="placeholder-2"></div>
+                    </div>
+                </ukg-grid>
+              </ukg-grid-container>
+        </section>
+      </main>
+      <!-- HELP DRAWER -->
+      <ukg-task-drawer-container class="ukg-surface-light-darker">
+        <ukg-task-drawer id="drawer-help-page">
+          <div>Help for this page</div>
+        </ukg-task-drawer>
+      </ukg-task-drawer-container>
+      <!-- ***** CREATE & EDIT MODAL CONTENT HERE ********************************************************************* -->
+      <ukg-modal id="modal-edit-page" dismiss-on-popstate is-full-screen>
+        <ukg-nav-header slot="modal-header" disable-gradient scrollable-content-id="modal-full-screen-framed-container"
+          class="full-screen-framed-modal-nav" show-menu-button="false" show-close-button close-button-id="btn-close-modal"
+          heading="Create new object">
+          <div slot="for-task-drawer">
+            <ukg-toolbar disable-vertical-padding disable-min-height>
+              <ukg-button-group aria-label="toolbar slot right" slot="end">
+                <ukg-button id='btn-print-page' in-toolbar emphasis="low" size="medium">
+                  <ukg-icon slot="icon-only" name="print"></ukg-icon>
+                </ukg-button>
+                <ukg-button id='btn-drawer-help-page' in-toolbar emphasis="low" size="medium">
+                  <ukg-icon slot="icon-only" name="help"></ukg-icon>
+                </ukg-button>
+                <ukg-button id='btn-menu-overflow-edit-page' in-toolbar emphasis="low" size="medium" aria-expanded="false">
+                  <ukg-icon slot="icon-only" name="menu-overflow"></ukg-icon>
+                </ukg-button>
+                <ukg-menu id="menu-overflow-edit-page">
+                  <ukg-menu-item value="1">Edit page action 1</ukg-menu-item>
+                  <ukg-menu-item value="2">Edit page action 2</ukg-menu-item>
+                  <ukg-menu-item value="3">Edit page action 3</ukg-menu-item>
+                </ukg-menu>
+              </ukg-button-group>
+          </div>
+        </ukg-nav-header>
+        <div id="modal-full-screen-framed-container" class="modal-full-screen-framed-container">
+          <div class="full-screen-framed-modal-bg">
+            <div class="full-screen-framed-modal-grid-div">
+              <ukg-grid-container class="full-screen-framed-modal-grid-container">
+                <ukg-grid>
+                  <div class="ukg-col-lg-12 ukg-col-md-8 ukg-col-sm-4">
+                    <div>
+                      <!-- edit page content here -->
+                      <form id="form">
+                        <h1>Form title</h1>
+                        <p>
+                          Form informational or instructional text
+                        </p>
+                        <section aria-labelledby="heading1">
+                          <h2 id="heading1">Section one heading </h2>
+                          <p>
+                            Section one informational or instructional text
+                          </p>
+                          <div class="placeholder-1">&nbsp;</div>
+                        </section>
+                        <section aria-labelledby="heading1">
+                          <h2 id="heading1">Section two heading</h2>
+                          <p>
+                            Section two informational or instructional text
+                          </p>
+                          <div class="placeholder-2">&nbsp;</div>
+                        </section>
+                        <section aria-labelledby="heading1">
+                          <h2 id="heading1">Section three heading</h2>
+                          <p>
+                            Section three informational or instructional text
+                          </p>
+                          <div class="placeholder-3">&nbsp;</div>
+                        </section>
+                        <ukg-button-group>
+                          <ukg-button type="reset" emphasis="mid">Cancel</ukg-button>
+                          <ukg-button type="submit">Submit</ukg-button>
+                        </ukg-button-group>
+                      </form>
+                    </div>
+                  </div>
+                </ukg-grid>
+              </ukg-grid-container>
+            </div>
+          </div>
+        </div>
+      </ukg-modal>
+    </ukg-ignite-shell>
+    
+    <script type="module" src="awards_item.js"></script>
+    </body>
